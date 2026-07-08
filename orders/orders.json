@@ -1,0 +1,5712 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "remote_id": 2979,
+      "order_number": "128合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-05-11T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 1,
+          "order_id": 1,
+          "product_id": 4,
+          "quantity": 500,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 1,
+              "order_item_id": 1,
+              "product_material_item_id": 34,
+              "material_id": 55,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 2,
+              "order_item_id": 1,
+              "product_material_item_id": 35,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 3,
+              "order_item_id": 1,
+              "product_material_item_id": 36,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 4,
+              "order_item_id": 1,
+              "product_material_item_id": 37,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 5,
+              "order_item_id": 1,
+              "product_material_item_id": 38,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 6,
+              "order_item_id": 1,
+              "product_material_item_id": 39,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 7,
+              "order_item_id": 1,
+              "product_material_item_id": 40,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 8,
+              "order_item_id": 1,
+              "product_material_item_id": 41,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 9,
+              "order_item_id": 1,
+              "product_material_item_id": 42,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 10,
+              "order_item_id": 1,
+              "product_material_item_id": 43,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 11,
+              "order_item_id": 1,
+              "product_material_item_id": 44,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "order_id": 1,
+          "product_id": 7,
+          "quantity": 200,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 12,
+              "order_item_id": 2,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 13,
+              "order_item_id": 2,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 14,
+              "order_item_id": 2,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 15,
+              "order_item_id": 2,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 16,
+              "order_item_id": 2,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 17,
+              "order_item_id": 2,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 18,
+              "order_item_id": 2,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 19,
+              "order_item_id": 2,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 20,
+              "order_item_id": 2,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 21,
+              "order_item_id": 2,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "order_id": 1,
+          "product_id": 17,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 22,
+              "order_item_id": 3,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 23,
+              "order_item_id": 3,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 24,
+              "order_item_id": 3,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 25,
+              "order_item_id": 3,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 26,
+              "order_item_id": 3,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 27,
+              "order_item_id": 3,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 28,
+              "order_item_id": 3,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 29,
+              "order_item_id": 3,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 30,
+              "order_item_id": 3,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "remote_id": 2980,
+      "order_number": "131合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-05-11T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 4,
+          "order_id": 2,
+          "product_id": 3,
+          "quantity": 410,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 31,
+              "order_item_id": 4,
+              "product_material_item_id": 11,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 32,
+              "order_item_id": 4,
+              "product_material_item_id": 12,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 33,
+              "order_item_id": 4,
+              "product_material_item_id": 13,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 34,
+              "order_item_id": 4,
+              "product_material_item_id": 14,
+              "material_id": 19,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 35,
+              "order_item_id": 4,
+              "product_material_item_id": 15,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 36,
+              "order_item_id": 4,
+              "product_material_item_id": 16,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 37,
+              "order_item_id": 4,
+              "product_material_item_id": 17,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 38,
+              "order_item_id": 4,
+              "product_material_item_id": 18,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 39,
+              "order_item_id": 4,
+              "product_material_item_id": 19,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 40,
+              "order_item_id": 4,
+              "product_material_item_id": 20,
+              "material_id": 36,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 41,
+              "order_item_id": 4,
+              "product_material_item_id": 21,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 42,
+              "order_item_id": 4,
+              "product_material_item_id": 22,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 43,
+              "order_item_id": 4,
+              "product_material_item_id": 23,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 44,
+              "order_item_id": 4,
+              "product_material_item_id": 24,
+              "material_id": 37,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 45,
+              "order_item_id": 4,
+              "product_material_item_id": 25,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 46,
+              "order_item_id": 4,
+              "product_material_item_id": 26,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 47,
+              "order_item_id": 4,
+              "product_material_item_id": 27,
+              "material_id": 42,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 48,
+              "order_item_id": 4,
+              "product_material_item_id": 28,
+              "material_id": 38,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 49,
+              "order_item_id": 4,
+              "product_material_item_id": 29,
+              "material_id": 33,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 50,
+              "order_item_id": 4,
+              "product_material_item_id": 30,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 51,
+              "order_item_id": 4,
+              "product_material_item_id": 31,
+              "material_id": 53,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 52,
+              "order_item_id": 4,
+              "product_material_item_id": 32,
+              "material_id": 54,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 53,
+              "order_item_id": 4,
+              "product_material_item_id": 33,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "remote_id": 2981,
+      "order_number": "132合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-05-11T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 5,
+          "order_id": 3,
+          "product_id": 1,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 54,
+              "order_item_id": 5,
+              "product_material_item_id": 1,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "order_id": 3,
+          "product_id": 10,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 55,
+              "order_item_id": 6,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 56,
+              "order_item_id": 6,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 57,
+              "order_item_id": 6,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 58,
+              "order_item_id": 6,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 59,
+              "order_item_id": 6,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 60,
+              "order_item_id": 6,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 61,
+              "order_item_id": 6,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 62,
+              "order_item_id": 6,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 63,
+              "order_item_id": 6,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "remote_id": 2982,
+      "order_number": "161合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-05-25T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 7,
+          "order_id": 4,
+          "product_id": 5,
+          "quantity": 620,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 64,
+              "order_item_id": 7,
+              "product_material_item_id": 45,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 65,
+              "order_item_id": 7,
+              "product_material_item_id": 46,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 66,
+              "order_item_id": 7,
+              "product_material_item_id": 47,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 67,
+              "order_item_id": 7,
+              "product_material_item_id": 48,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 68,
+              "order_item_id": 7,
+              "product_material_item_id": 49,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 69,
+              "order_item_id": 7,
+              "product_material_item_id": 50,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 70,
+              "order_item_id": 7,
+              "product_material_item_id": 51,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 71,
+              "order_item_id": 7,
+              "product_material_item_id": 52,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 72,
+              "order_item_id": 7,
+              "product_material_item_id": 53,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "remote_id": 2983,
+      "order_number": "133合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-08T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 8,
+          "order_id": 5,
+          "product_id": 1,
+          "quantity": 380,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 73,
+              "order_item_id": 8,
+              "product_material_item_id": 1,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "remote_id": 2984,
+      "order_number": "134合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-08T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 9,
+          "order_id": 6,
+          "product_id": 10,
+          "quantity": 1400,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 74,
+              "order_item_id": 9,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 75,
+              "order_item_id": 9,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 76,
+              "order_item_id": 9,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 77,
+              "order_item_id": 9,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 78,
+              "order_item_id": 9,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 79,
+              "order_item_id": 9,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 80,
+              "order_item_id": 9,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 81,
+              "order_item_id": 9,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 82,
+              "order_item_id": 9,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "remote_id": 2985,
+      "order_number": "135合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-08T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 10,
+          "order_id": 7,
+          "product_id": 17,
+          "quantity": 1200,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 83,
+              "order_item_id": 10,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 84,
+              "order_item_id": 10,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 85,
+              "order_item_id": 10,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 86,
+              "order_item_id": 10,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 87,
+              "order_item_id": 10,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 88,
+              "order_item_id": 10,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 89,
+              "order_item_id": 10,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 90,
+              "order_item_id": 10,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 91,
+              "order_item_id": 10,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "remote_id": 2986,
+      "order_number": "136合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-08T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 11,
+          "order_id": 8,
+          "product_id": 4,
+          "quantity": 1200,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 92,
+              "order_item_id": 11,
+              "product_material_item_id": 34,
+              "material_id": 55,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 93,
+              "order_item_id": 11,
+              "product_material_item_id": 35,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 94,
+              "order_item_id": 11,
+              "product_material_item_id": 36,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 95,
+              "order_item_id": 11,
+              "product_material_item_id": 37,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 96,
+              "order_item_id": 11,
+              "product_material_item_id": 38,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 97,
+              "order_item_id": 11,
+              "product_material_item_id": 39,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 98,
+              "order_item_id": 11,
+              "product_material_item_id": 40,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 99,
+              "order_item_id": 11,
+              "product_material_item_id": 41,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 100,
+              "order_item_id": 11,
+              "product_material_item_id": 42,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 101,
+              "order_item_id": 11,
+              "product_material_item_id": 43,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 102,
+              "order_item_id": 11,
+              "product_material_item_id": 44,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "order_id": 8,
+          "product_id": 3,
+          "quantity": 150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 103,
+              "order_item_id": 12,
+              "product_material_item_id": 11,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 104,
+              "order_item_id": 12,
+              "product_material_item_id": 12,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 105,
+              "order_item_id": 12,
+              "product_material_item_id": 13,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 106,
+              "order_item_id": 12,
+              "product_material_item_id": 14,
+              "material_id": 19,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 107,
+              "order_item_id": 12,
+              "product_material_item_id": 15,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 108,
+              "order_item_id": 12,
+              "product_material_item_id": 16,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 109,
+              "order_item_id": 12,
+              "product_material_item_id": 17,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 110,
+              "order_item_id": 12,
+              "product_material_item_id": 18,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 111,
+              "order_item_id": 12,
+              "product_material_item_id": 19,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 112,
+              "order_item_id": 12,
+              "product_material_item_id": 20,
+              "material_id": 36,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 113,
+              "order_item_id": 12,
+              "product_material_item_id": 21,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 114,
+              "order_item_id": 12,
+              "product_material_item_id": 22,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 115,
+              "order_item_id": 12,
+              "product_material_item_id": 23,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 116,
+              "order_item_id": 12,
+              "product_material_item_id": 24,
+              "material_id": 37,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 117,
+              "order_item_id": 12,
+              "product_material_item_id": 25,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 118,
+              "order_item_id": 12,
+              "product_material_item_id": 26,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 119,
+              "order_item_id": 12,
+              "product_material_item_id": 27,
+              "material_id": 42,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 120,
+              "order_item_id": 12,
+              "product_material_item_id": 28,
+              "material_id": 38,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 121,
+              "order_item_id": 12,
+              "product_material_item_id": 29,
+              "material_id": 33,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 122,
+              "order_item_id": 12,
+              "product_material_item_id": 30,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 123,
+              "order_item_id": 12,
+              "product_material_item_id": 31,
+              "material_id": 53,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 124,
+              "order_item_id": 12,
+              "product_material_item_id": 32,
+              "material_id": 54,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 125,
+              "order_item_id": 12,
+              "product_material_item_id": 33,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "remote_id": 2987,
+      "order_number": "137合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-08T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 13,
+          "order_id": 9,
+          "product_id": 3,
+          "quantity": 220,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 126,
+              "order_item_id": 13,
+              "product_material_item_id": 11,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 127,
+              "order_item_id": 13,
+              "product_material_item_id": 12,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 128,
+              "order_item_id": 13,
+              "product_material_item_id": 13,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 129,
+              "order_item_id": 13,
+              "product_material_item_id": 14,
+              "material_id": 19,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 130,
+              "order_item_id": 13,
+              "product_material_item_id": 15,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 131,
+              "order_item_id": 13,
+              "product_material_item_id": 16,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 132,
+              "order_item_id": 13,
+              "product_material_item_id": 17,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 133,
+              "order_item_id": 13,
+              "product_material_item_id": 18,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 134,
+              "order_item_id": 13,
+              "product_material_item_id": 19,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 135,
+              "order_item_id": 13,
+              "product_material_item_id": 20,
+              "material_id": 36,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 136,
+              "order_item_id": 13,
+              "product_material_item_id": 21,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 137,
+              "order_item_id": 13,
+              "product_material_item_id": 22,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 138,
+              "order_item_id": 13,
+              "product_material_item_id": 23,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 139,
+              "order_item_id": 13,
+              "product_material_item_id": 24,
+              "material_id": 37,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 140,
+              "order_item_id": 13,
+              "product_material_item_id": 25,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 141,
+              "order_item_id": 13,
+              "product_material_item_id": 26,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 142,
+              "order_item_id": 13,
+              "product_material_item_id": 27,
+              "material_id": 42,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 143,
+              "order_item_id": 13,
+              "product_material_item_id": 28,
+              "material_id": 38,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 144,
+              "order_item_id": 13,
+              "product_material_item_id": 29,
+              "material_id": 33,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 145,
+              "order_item_id": 13,
+              "product_material_item_id": 30,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 146,
+              "order_item_id": 13,
+              "product_material_item_id": 31,
+              "material_id": 53,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 147,
+              "order_item_id": 13,
+              "product_material_item_id": 32,
+              "material_id": 54,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 148,
+              "order_item_id": 13,
+              "product_material_item_id": 33,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "order_id": 9,
+          "product_id": 10,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 149,
+              "order_item_id": 14,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 150,
+              "order_item_id": 14,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 151,
+              "order_item_id": 14,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 152,
+              "order_item_id": 14,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 153,
+              "order_item_id": 14,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 154,
+              "order_item_id": 14,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 155,
+              "order_item_id": 14,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 156,
+              "order_item_id": 14,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 157,
+              "order_item_id": 14,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "order_id": 9,
+          "product_id": 17,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 158,
+              "order_item_id": 15,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 159,
+              "order_item_id": 15,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 160,
+              "order_item_id": 15,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 161,
+              "order_item_id": 15,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 162,
+              "order_item_id": 15,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 163,
+              "order_item_id": 15,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 164,
+              "order_item_id": 15,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 165,
+              "order_item_id": 15,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 166,
+              "order_item_id": 15,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "remote_id": 2988,
+      "order_number": "160合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-22T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 16,
+          "order_id": 10,
+          "product_id": 6,
+          "quantity": 600,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 167,
+              "order_item_id": 16,
+              "product_material_item_id": 54,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 168,
+              "order_item_id": 16,
+              "product_material_item_id": 55,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 169,
+              "order_item_id": 16,
+              "product_material_item_id": 56,
+              "material_id": 19,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 170,
+              "order_item_id": 16,
+              "product_material_item_id": 57,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 171,
+              "order_item_id": 16,
+              "product_material_item_id": 58,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 172,
+              "order_item_id": 16,
+              "product_material_item_id": 59,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 173,
+              "order_item_id": 16,
+              "product_material_item_id": 60,
+              "material_id": 37,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 174,
+              "order_item_id": 16,
+              "product_material_item_id": 61,
+              "material_id": 36,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 175,
+              "order_item_id": 16,
+              "product_material_item_id": 62,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 176,
+              "order_item_id": 16,
+              "product_material_item_id": 63,
+              "material_id": 41,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 177,
+              "order_item_id": 16,
+              "product_material_item_id": 64,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 178,
+              "order_item_id": 16,
+              "product_material_item_id": 65,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 179,
+              "order_item_id": 16,
+              "product_material_item_id": 66,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 180,
+              "order_item_id": 16,
+              "product_material_item_id": 67,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 181,
+              "order_item_id": 16,
+              "product_material_item_id": 68,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 182,
+              "order_item_id": 16,
+              "product_material_item_id": 69,
+              "material_id": 33,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 183,
+              "order_item_id": 16,
+              "product_material_item_id": 70,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "remote_id": 2989,
+      "order_number": "177合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-05-04T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 17,
+          "order_id": 11,
+          "product_id": 17,
+          "quantity": 720,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 184,
+              "order_item_id": 17,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 185,
+              "order_item_id": 17,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 186,
+              "order_item_id": 17,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 187,
+              "order_item_id": 17,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 188,
+              "order_item_id": 17,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 189,
+              "order_item_id": 17,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 190,
+              "order_item_id": 17,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 191,
+              "order_item_id": 17,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 192,
+              "order_item_id": 17,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "remote_id": 2990,
+      "order_number": "181合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-05-18T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 18,
+          "order_id": 12,
+          "product_id": 7,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 193,
+              "order_item_id": 18,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 194,
+              "order_item_id": 18,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 195,
+              "order_item_id": 18,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 196,
+              "order_item_id": 18,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 197,
+              "order_item_id": 18,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 198,
+              "order_item_id": 18,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 199,
+              "order_item_id": 18,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 200,
+              "order_item_id": 18,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 201,
+              "order_item_id": 18,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 202,
+              "order_item_id": 18,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "remote_id": 2991,
+      "order_number": "183合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-15T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 19,
+          "order_id": 13,
+          "product_id": 7,
+          "quantity": 1000,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 203,
+              "order_item_id": 19,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 204,
+              "order_item_id": 19,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 205,
+              "order_item_id": 19,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 206,
+              "order_item_id": 19,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 207,
+              "order_item_id": 19,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 208,
+              "order_item_id": 19,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 209,
+              "order_item_id": 19,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 210,
+              "order_item_id": 19,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 211,
+              "order_item_id": 19,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 212,
+              "order_item_id": 19,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "remote_id": 2992,
+      "order_number": "186合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-07-06T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 20,
+          "order_id": 14,
+          "product_id": 7,
+          "quantity": 800,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 213,
+              "order_item_id": 20,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 214,
+              "order_item_id": 20,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 215,
+              "order_item_id": 20,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 216,
+              "order_item_id": 20,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 217,
+              "order_item_id": 20,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 218,
+              "order_item_id": 20,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 219,
+              "order_item_id": 20,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 220,
+              "order_item_id": 20,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 221,
+              "order_item_id": 20,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 222,
+              "order_item_id": 20,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "remote_id": 2993,
+      "order_number": "188合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-03T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 21,
+          "order_id": 15,
+          "product_id": 1,
+          "quantity": 150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 223,
+              "order_item_id": 21,
+              "product_material_item_id": 1,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "order_id": 15,
+          "product_id": 17,
+          "quantity": 250,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 224,
+              "order_item_id": 22,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 225,
+              "order_item_id": 22,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 226,
+              "order_item_id": 22,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 227,
+              "order_item_id": 22,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 228,
+              "order_item_id": 22,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 229,
+              "order_item_id": 22,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 230,
+              "order_item_id": 22,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 231,
+              "order_item_id": 22,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 232,
+              "order_item_id": 22,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "remote_id": 2994,
+      "order_number": "189合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-04T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 23,
+          "order_id": 16,
+          "product_id": 7,
+          "quantity": 700,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 233,
+              "order_item_id": 23,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 234,
+              "order_item_id": 23,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 235,
+              "order_item_id": 23,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 236,
+              "order_item_id": 23,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 237,
+              "order_item_id": 23,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 238,
+              "order_item_id": 23,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 239,
+              "order_item_id": 23,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 240,
+              "order_item_id": 23,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 241,
+              "order_item_id": 23,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 242,
+              "order_item_id": 23,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "order_id": 16,
+          "product_id": 10,
+          "quantity": 800,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 243,
+              "order_item_id": 24,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 244,
+              "order_item_id": 24,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 245,
+              "order_item_id": 24,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 246,
+              "order_item_id": 24,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 247,
+              "order_item_id": 24,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 248,
+              "order_item_id": 24,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 249,
+              "order_item_id": 24,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 250,
+              "order_item_id": 24,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 251,
+              "order_item_id": 24,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "remote_id": 2995,
+      "order_number": "175合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-01T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 25,
+          "order_id": 17,
+          "product_id": 19,
+          "quantity": 490,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 252,
+              "order_item_id": 25,
+              "product_material_item_id": 132,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 253,
+              "order_item_id": 25,
+              "product_material_item_id": 133,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 254,
+              "order_item_id": 25,
+              "product_material_item_id": 134,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 255,
+              "order_item_id": 25,
+              "product_material_item_id": 135,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 256,
+              "order_item_id": 25,
+              "product_material_item_id": 136,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 257,
+              "order_item_id": 25,
+              "product_material_item_id": 137,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "remote_id": 2996,
+      "order_number": "111",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-06-10T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 26,
+          "order_id": 18,
+          "product_id": 28,
+          "quantity": 480,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 258,
+              "order_item_id": 26,
+              "product_material_item_id": 173,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 259,
+              "order_item_id": 26,
+              "product_material_item_id": 174,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 260,
+              "order_item_id": 26,
+              "product_material_item_id": 175,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 261,
+              "order_item_id": 26,
+              "product_material_item_id": 176,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 262,
+              "order_item_id": 26,
+              "product_material_item_id": 177,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 263,
+              "order_item_id": 26,
+              "product_material_item_id": 178,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 264,
+              "order_item_id": 26,
+              "product_material_item_id": 179,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 265,
+              "order_item_id": 26,
+              "product_material_item_id": 180,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "remote_id": 2997,
+      "order_number": "199合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-10-12T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 27,
+          "order_id": 19,
+          "product_id": 4,
+          "quantity": 800,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 266,
+              "order_item_id": 27,
+              "product_material_item_id": 34,
+              "material_id": 55,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 267,
+              "order_item_id": 27,
+              "product_material_item_id": 35,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 268,
+              "order_item_id": 27,
+              "product_material_item_id": 36,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 269,
+              "order_item_id": 27,
+              "product_material_item_id": 37,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 270,
+              "order_item_id": 27,
+              "product_material_item_id": 38,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 271,
+              "order_item_id": 27,
+              "product_material_item_id": 39,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 272,
+              "order_item_id": 27,
+              "product_material_item_id": 40,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 273,
+              "order_item_id": 27,
+              "product_material_item_id": 41,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 274,
+              "order_item_id": 27,
+              "product_material_item_id": 42,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 275,
+              "order_item_id": 27,
+              "product_material_item_id": 43,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 276,
+              "order_item_id": 27,
+              "product_material_item_id": 44,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "order_id": 19,
+          "product_id": 7,
+          "quantity": 1000,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 277,
+              "order_item_id": 28,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 278,
+              "order_item_id": 28,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 279,
+              "order_item_id": 28,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 280,
+              "order_item_id": 28,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 281,
+              "order_item_id": 28,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 282,
+              "order_item_id": 28,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 283,
+              "order_item_id": 28,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 284,
+              "order_item_id": 28,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 285,
+              "order_item_id": 28,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 286,
+              "order_item_id": 28,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "remote_id": 2998,
+      "order_number": "200合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-10-12T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 29,
+          "order_id": 20,
+          "product_id": 17,
+          "quantity": 800,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 287,
+              "order_item_id": 29,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 288,
+              "order_item_id": 29,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 289,
+              "order_item_id": 29,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 290,
+              "order_item_id": 29,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 291,
+              "order_item_id": 29,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 292,
+              "order_item_id": 29,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 293,
+              "order_item_id": 29,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 294,
+              "order_item_id": 29,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 295,
+              "order_item_id": 29,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "order_id": 20,
+          "product_id": 10,
+          "quantity": 350,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 296,
+              "order_item_id": 30,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 297,
+              "order_item_id": 30,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 298,
+              "order_item_id": 30,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 299,
+              "order_item_id": 30,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 300,
+              "order_item_id": 30,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 301,
+              "order_item_id": 30,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 302,
+              "order_item_id": 30,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 303,
+              "order_item_id": 30,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 304,
+              "order_item_id": 30,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "remote_id": 2999,
+      "order_number": "201合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-10-12T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 31,
+          "order_id": 21,
+          "product_id": 3,
+          "quantity": 330,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 305,
+              "order_item_id": 31,
+              "product_material_item_id": 11,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 306,
+              "order_item_id": 31,
+              "product_material_item_id": 12,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 307,
+              "order_item_id": 31,
+              "product_material_item_id": 13,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 308,
+              "order_item_id": 31,
+              "product_material_item_id": 14,
+              "material_id": 19,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 309,
+              "order_item_id": 31,
+              "product_material_item_id": 15,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 310,
+              "order_item_id": 31,
+              "product_material_item_id": 16,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 311,
+              "order_item_id": 31,
+              "product_material_item_id": 17,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 312,
+              "order_item_id": 31,
+              "product_material_item_id": 18,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 313,
+              "order_item_id": 31,
+              "product_material_item_id": 19,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 314,
+              "order_item_id": 31,
+              "product_material_item_id": 20,
+              "material_id": 36,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 315,
+              "order_item_id": 31,
+              "product_material_item_id": 21,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 316,
+              "order_item_id": 31,
+              "product_material_item_id": 22,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 317,
+              "order_item_id": 31,
+              "product_material_item_id": 23,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 318,
+              "order_item_id": 31,
+              "product_material_item_id": 24,
+              "material_id": 37,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 319,
+              "order_item_id": 31,
+              "product_material_item_id": 25,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 320,
+              "order_item_id": 31,
+              "product_material_item_id": 26,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 321,
+              "order_item_id": 31,
+              "product_material_item_id": 27,
+              "material_id": 42,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 322,
+              "order_item_id": 31,
+              "product_material_item_id": 28,
+              "material_id": 38,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 323,
+              "order_item_id": 31,
+              "product_material_item_id": 29,
+              "material_id": 33,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 324,
+              "order_item_id": 31,
+              "product_material_item_id": 30,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 325,
+              "order_item_id": 31,
+              "product_material_item_id": 31,
+              "material_id": 53,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 326,
+              "order_item_id": 31,
+              "product_material_item_id": 32,
+              "material_id": 54,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 327,
+              "order_item_id": 31,
+              "product_material_item_id": 33,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "order_id": 21,
+          "product_id": 10,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 328,
+              "order_item_id": 32,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 329,
+              "order_item_id": 32,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 330,
+              "order_item_id": 32,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 331,
+              "order_item_id": 32,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 332,
+              "order_item_id": 32,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 333,
+              "order_item_id": 32,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 334,
+              "order_item_id": 32,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 335,
+              "order_item_id": 32,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 336,
+              "order_item_id": 32,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "remote_id": 3000,
+      "order_number": "202合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-10-12T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 33,
+          "order_id": 22,
+          "product_id": 1,
+          "quantity": 380,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 337,
+              "order_item_id": 33,
+              "product_material_item_id": 1,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "remote_id": 3001,
+      "order_number": "208合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-11-02T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 34,
+          "order_id": 23,
+          "product_id": 7,
+          "quantity": 900,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 338,
+              "order_item_id": 34,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 339,
+              "order_item_id": 34,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 340,
+              "order_item_id": 34,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 341,
+              "order_item_id": 34,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 342,
+              "order_item_id": 34,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 343,
+              "order_item_id": 34,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 344,
+              "order_item_id": 34,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 345,
+              "order_item_id": 34,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 346,
+              "order_item_id": 34,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 347,
+              "order_item_id": 34,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "order_id": 23,
+          "product_id": 4,
+          "quantity": 900,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 348,
+              "order_item_id": 35,
+              "product_material_item_id": 34,
+              "material_id": 55,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 349,
+              "order_item_id": 35,
+              "product_material_item_id": 35,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 350,
+              "order_item_id": 35,
+              "product_material_item_id": 36,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 351,
+              "order_item_id": 35,
+              "product_material_item_id": 37,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 352,
+              "order_item_id": 35,
+              "product_material_item_id": 38,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 353,
+              "order_item_id": 35,
+              "product_material_item_id": 39,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 354,
+              "order_item_id": 35,
+              "product_material_item_id": 40,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 355,
+              "order_item_id": 35,
+              "product_material_item_id": 41,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 356,
+              "order_item_id": 35,
+              "product_material_item_id": 42,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 357,
+              "order_item_id": 35,
+              "product_material_item_id": 43,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 358,
+              "order_item_id": 35,
+              "product_material_item_id": 44,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "remote_id": 3002,
+      "order_number": "209合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-11-02T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 36,
+          "order_id": 24,
+          "product_id": 10,
+          "quantity": 350,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 359,
+              "order_item_id": 36,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 360,
+              "order_item_id": 36,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 361,
+              "order_item_id": 36,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 362,
+              "order_item_id": 36,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 363,
+              "order_item_id": 36,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 364,
+              "order_item_id": 36,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 365,
+              "order_item_id": 36,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 366,
+              "order_item_id": 36,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 367,
+              "order_item_id": 36,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "order_id": 24,
+          "product_id": 17,
+          "quantity": 800,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 368,
+              "order_item_id": 37,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 369,
+              "order_item_id": 37,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 370,
+              "order_item_id": 37,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 371,
+              "order_item_id": 37,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 372,
+              "order_item_id": 37,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 373,
+              "order_item_id": 37,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 374,
+              "order_item_id": 37,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 375,
+              "order_item_id": 37,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 376,
+              "order_item_id": 37,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "remote_id": 3003,
+      "order_number": "210合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-11-02T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 38,
+          "order_id": 25,
+          "product_id": 3,
+          "quantity": 350,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 377,
+              "order_item_id": 38,
+              "product_material_item_id": 11,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 378,
+              "order_item_id": 38,
+              "product_material_item_id": 12,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 379,
+              "order_item_id": 38,
+              "product_material_item_id": 13,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 380,
+              "order_item_id": 38,
+              "product_material_item_id": 14,
+              "material_id": 19,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 381,
+              "order_item_id": 38,
+              "product_material_item_id": 15,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 382,
+              "order_item_id": 38,
+              "product_material_item_id": 16,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 383,
+              "order_item_id": 38,
+              "product_material_item_id": 17,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 384,
+              "order_item_id": 38,
+              "product_material_item_id": 18,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 385,
+              "order_item_id": 38,
+              "product_material_item_id": 19,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 386,
+              "order_item_id": 38,
+              "product_material_item_id": 20,
+              "material_id": 36,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 387,
+              "order_item_id": 38,
+              "product_material_item_id": 21,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 388,
+              "order_item_id": 38,
+              "product_material_item_id": 22,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 389,
+              "order_item_id": 38,
+              "product_material_item_id": 23,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 390,
+              "order_item_id": 38,
+              "product_material_item_id": 24,
+              "material_id": 37,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 391,
+              "order_item_id": 38,
+              "product_material_item_id": 25,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 392,
+              "order_item_id": 38,
+              "product_material_item_id": 26,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 393,
+              "order_item_id": 38,
+              "product_material_item_id": 27,
+              "material_id": 42,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 394,
+              "order_item_id": 38,
+              "product_material_item_id": 28,
+              "material_id": 38,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 395,
+              "order_item_id": 38,
+              "product_material_item_id": 29,
+              "material_id": 33,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 396,
+              "order_item_id": 38,
+              "product_material_item_id": 30,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 397,
+              "order_item_id": 38,
+              "product_material_item_id": 31,
+              "material_id": 53,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 398,
+              "order_item_id": 38,
+              "product_material_item_id": 32,
+              "material_id": 54,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 399,
+              "order_item_id": 38,
+              "product_material_item_id": 33,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "order_id": 25,
+          "product_id": 10,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 400,
+              "order_item_id": 39,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 401,
+              "order_item_id": 39,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 402,
+              "order_item_id": 39,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 403,
+              "order_item_id": 39,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 404,
+              "order_item_id": 39,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 405,
+              "order_item_id": 39,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 406,
+              "order_item_id": 39,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 407,
+              "order_item_id": 39,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 408,
+              "order_item_id": 39,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "remote_id": 3004,
+      "order_number": "274合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-07-06T00:00:00+08:00",
+      "status": "done",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 40,
+          "order_id": 26,
+          "product_id": 32,
+          "quantity": 2150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 409,
+              "order_item_id": 40,
+              "product_material_item_id": 189,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 410,
+              "order_item_id": 40,
+              "product_material_item_id": 190,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "order_id": 26,
+          "product_id": 31,
+          "quantity": 2150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 411,
+              "order_item_id": 41,
+              "product_material_item_id": 187,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 412,
+              "order_item_id": 41,
+              "product_material_item_id": 188,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "remote_id": 3005,
+      "order_number": "275合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-07-06T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 42,
+          "order_id": 27,
+          "product_id": 32,
+          "quantity": 2150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 413,
+              "order_item_id": 42,
+              "product_material_item_id": 189,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 414,
+              "order_item_id": 42,
+              "product_material_item_id": 190,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "order_id": 27,
+          "product_id": 31,
+          "quantity": 2150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 415,
+              "order_item_id": 43,
+              "product_material_item_id": 187,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 416,
+              "order_item_id": 43,
+              "product_material_item_id": 188,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "remote_id": 3006,
+      "order_number": "276合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-07-13T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 44,
+          "order_id": 28,
+          "product_id": 35,
+          "quantity": 900,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 417,
+              "order_item_id": 44,
+              "product_material_item_id": 195,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 418,
+              "order_item_id": 44,
+              "product_material_item_id": 196,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "order_id": 28,
+          "product_id": 34,
+          "quantity": 1180,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 419,
+              "order_item_id": 45,
+              "product_material_item_id": 193,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 420,
+              "order_item_id": 45,
+              "product_material_item_id": 194,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "order_id": 28,
+          "product_id": 33,
+          "quantity": 1180,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 421,
+              "order_item_id": 46,
+              "product_material_item_id": 191,
+              "material_id": 24,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 422,
+              "order_item_id": 46,
+              "product_material_item_id": 192,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "remote_id": 3007,
+      "order_number": "248合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-07-13T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 47,
+          "order_id": 29,
+          "product_id": 4,
+          "quantity": 500,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 423,
+              "order_item_id": 47,
+              "product_material_item_id": 34,
+              "material_id": 55,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 424,
+              "order_item_id": 47,
+              "product_material_item_id": 35,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 425,
+              "order_item_id": 47,
+              "product_material_item_id": 36,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 426,
+              "order_item_id": 47,
+              "product_material_item_id": 37,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 427,
+              "order_item_id": 47,
+              "product_material_item_id": 38,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 428,
+              "order_item_id": 47,
+              "product_material_item_id": 39,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 429,
+              "order_item_id": 47,
+              "product_material_item_id": 40,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 430,
+              "order_item_id": 47,
+              "product_material_item_id": 41,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 431,
+              "order_item_id": 47,
+              "product_material_item_id": 42,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 432,
+              "order_item_id": 47,
+              "product_material_item_id": 43,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 433,
+              "order_item_id": 47,
+              "product_material_item_id": 44,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "order_id": 29,
+          "product_id": 10,
+          "quantity": 400,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 434,
+              "order_item_id": 48,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 435,
+              "order_item_id": 48,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 436,
+              "order_item_id": 48,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 437,
+              "order_item_id": 48,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 438,
+              "order_item_id": 48,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 439,
+              "order_item_id": 48,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 440,
+              "order_item_id": 48,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 441,
+              "order_item_id": 48,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 442,
+              "order_item_id": 48,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "remote_id": 3008,
+      "order_number": "193合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-31T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 49,
+          "order_id": 30,
+          "product_id": 1,
+          "quantity": 300,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 443,
+              "order_item_id": 49,
+              "product_material_item_id": 1,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "remote_id": 3009,
+      "order_number": "194合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-31T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 50,
+          "order_id": 31,
+          "product_id": 4,
+          "quantity": 1000,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 444,
+              "order_item_id": 50,
+              "product_material_item_id": 34,
+              "material_id": 55,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 445,
+              "order_item_id": 50,
+              "product_material_item_id": 35,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 446,
+              "order_item_id": 50,
+              "product_material_item_id": 36,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 447,
+              "order_item_id": 50,
+              "product_material_item_id": 37,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 448,
+              "order_item_id": 50,
+              "product_material_item_id": 38,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 449,
+              "order_item_id": 50,
+              "product_material_item_id": 39,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 450,
+              "order_item_id": 50,
+              "product_material_item_id": 40,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 451,
+              "order_item_id": 50,
+              "product_material_item_id": 41,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 452,
+              "order_item_id": 50,
+              "product_material_item_id": 42,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 453,
+              "order_item_id": 50,
+              "product_material_item_id": 43,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 454,
+              "order_item_id": 50,
+              "product_material_item_id": 44,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "order_id": 31,
+          "product_id": 7,
+          "quantity": 500,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 455,
+              "order_item_id": 51,
+              "product_material_item_id": 71,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 456,
+              "order_item_id": 51,
+              "product_material_item_id": 72,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 457,
+              "order_item_id": 51,
+              "product_material_item_id": 73,
+              "material_id": 39,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 458,
+              "order_item_id": 51,
+              "product_material_item_id": 74,
+              "material_id": 35,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 459,
+              "order_item_id": 51,
+              "product_material_item_id": 75,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 460,
+              "order_item_id": 51,
+              "product_material_item_id": 76,
+              "material_id": 46,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 461,
+              "order_item_id": 51,
+              "product_material_item_id": 77,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 462,
+              "order_item_id": 51,
+              "product_material_item_id": 78,
+              "material_id": 43,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 463,
+              "order_item_id": 51,
+              "product_material_item_id": 79,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 464,
+              "order_item_id": 51,
+              "product_material_item_id": 80,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "order_id": 31,
+          "product_id": 10,
+          "quantity": 200,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 465,
+              "order_item_id": 52,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 466,
+              "order_item_id": 52,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 467,
+              "order_item_id": 52,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 468,
+              "order_item_id": 52,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 469,
+              "order_item_id": 52,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 470,
+              "order_item_id": 52,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 471,
+              "order_item_id": 52,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 472,
+              "order_item_id": 52,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 473,
+              "order_item_id": 52,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "remote_id": 3010,
+      "order_number": "195合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-31T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 53,
+          "order_id": 32,
+          "product_id": 10,
+          "quantity": 400,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 474,
+              "order_item_id": 53,
+              "product_material_item_id": 91,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 475,
+              "order_item_id": 53,
+              "product_material_item_id": 92,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 476,
+              "order_item_id": 53,
+              "product_material_item_id": 93,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 477,
+              "order_item_id": 53,
+              "product_material_item_id": 94,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 478,
+              "order_item_id": 53,
+              "product_material_item_id": 95,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 479,
+              "order_item_id": 53,
+              "product_material_item_id": 96,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 480,
+              "order_item_id": 53,
+              "product_material_item_id": 97,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 481,
+              "order_item_id": 53,
+              "product_material_item_id": 98,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 482,
+              "order_item_id": 53,
+              "product_material_item_id": 99,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "order_id": 32,
+          "product_id": 17,
+          "quantity": 750,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 483,
+              "order_item_id": 54,
+              "product_material_item_id": 119,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 484,
+              "order_item_id": 54,
+              "product_material_item_id": 120,
+              "material_id": 52,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 485,
+              "order_item_id": 54,
+              "product_material_item_id": 121,
+              "material_id": 50,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 486,
+              "order_item_id": 54,
+              "product_material_item_id": 122,
+              "material_id": 23,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 487,
+              "order_item_id": 54,
+              "product_material_item_id": 123,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 488,
+              "order_item_id": 54,
+              "product_material_item_id": 124,
+              "material_id": 20,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 489,
+              "order_item_id": 54,
+              "product_material_item_id": 125,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 490,
+              "order_item_id": 54,
+              "product_material_item_id": 126,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 491,
+              "order_item_id": 54,
+              "product_material_item_id": 127,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "remote_id": 3011,
+      "order_number": "280合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-03T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 55,
+          "order_id": 33,
+          "product_id": 2,
+          "quantity": 1120,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 492,
+              "order_item_id": 55,
+              "product_material_item_id": 2,
+              "material_id": 22,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 493,
+              "order_item_id": 55,
+              "product_material_item_id": 3,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 494,
+              "order_item_id": 55,
+              "product_material_item_id": 4,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 495,
+              "order_item_id": 55,
+              "product_material_item_id": 5,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 496,
+              "order_item_id": 55,
+              "product_material_item_id": 6,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 497,
+              "order_item_id": 55,
+              "product_material_item_id": 7,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 498,
+              "order_item_id": 55,
+              "product_material_item_id": 8,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 499,
+              "order_item_id": 55,
+              "product_material_item_id": 9,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 500,
+              "order_item_id": 55,
+              "product_material_item_id": 10,
+              "material_id": 59,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "remote_id": 3012,
+      "order_number": "281合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-03T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 56,
+          "order_id": 34,
+          "product_id": 2,
+          "quantity": 1120,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 501,
+              "order_item_id": 56,
+              "product_material_item_id": 2,
+              "material_id": 22,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 502,
+              "order_item_id": 56,
+              "product_material_item_id": 3,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 503,
+              "order_item_id": 56,
+              "product_material_item_id": 4,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 504,
+              "order_item_id": 56,
+              "product_material_item_id": 5,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 505,
+              "order_item_id": 56,
+              "product_material_item_id": 6,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 506,
+              "order_item_id": 56,
+              "product_material_item_id": 7,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 507,
+              "order_item_id": 56,
+              "product_material_item_id": 8,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 508,
+              "order_item_id": 56,
+              "product_material_item_id": 9,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 509,
+              "order_item_id": 56,
+              "product_material_item_id": 10,
+              "material_id": 59,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "remote_id": 3013,
+      "order_number": "282合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-08-03T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 57,
+          "order_id": 35,
+          "product_id": 2,
+          "quantity": 1120,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 510,
+              "order_item_id": 57,
+              "product_material_item_id": 2,
+              "material_id": 22,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 511,
+              "order_item_id": 57,
+              "product_material_item_id": 3,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 512,
+              "order_item_id": 57,
+              "product_material_item_id": 4,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 513,
+              "order_item_id": 57,
+              "product_material_item_id": 5,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 514,
+              "order_item_id": 57,
+              "product_material_item_id": 6,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 515,
+              "order_item_id": 57,
+              "product_material_item_id": 7,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 516,
+              "order_item_id": 57,
+              "product_material_item_id": 8,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 517,
+              "order_item_id": 57,
+              "product_material_item_id": 9,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 518,
+              "order_item_id": 57,
+              "product_material_item_id": 10,
+              "material_id": 59,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "remote_id": 3014,
+      "order_number": "300合同",
+      "order_date": "2026-07-04",
+      "delivery_date": "2026-09-07T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-08 11:27:46",
+      "items": [
+        {
+          "id": 58,
+          "order_id": 36,
+          "product_id": 21,
+          "quantity": 150,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 519,
+              "order_item_id": 58,
+              "product_material_item_id": 145,
+              "material_id": 22,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 520,
+              "order_item_id": 58,
+              "product_material_item_id": 146,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 521,
+              "order_item_id": 58,
+              "product_material_item_id": 147,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 522,
+              "order_item_id": 58,
+              "product_material_item_id": 148,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 523,
+              "order_item_id": 58,
+              "product_material_item_id": 149,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            },
+            {
+              "id": 524,
+              "order_item_id": 58,
+              "product_material_item_id": 150,
+              "material_id": 26,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-08 11:27:46"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-07-08T11:27:49.526Z",
+  "version": 1
+}
