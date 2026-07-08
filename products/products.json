@@ -854,9 +854,9 @@
           "id": 19,
           "product_id": 4,
           "material_type": "accessory",
-          "status": "not_purchased",
+          "status": "purchased",
           "expected_date": "",
-          "updated_at": "2026-07-08 11:27:53"
+          "updated_at": "2026-07-08 11:30:22"
         },
         {
           "id": 17,
@@ -6239,6 +6239,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-08T11:27:56.587Z",
+  "timestamp": "2026-07-08T11:30:27.411Z",
   "version": 1
 }
