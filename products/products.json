@@ -1,0 +1,6244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "remote_id": 3927,
+      "name": "SF-9801",
+      "code": "SF-9801",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777883343318_img_1777883341675_84363b00.jpg?sign=1780475343-243c5b92ab-0-20bc31baf89b1755c2c4ee25f650215c76a52269a88e2e584f4b97eed8b40383",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 1,
+          "product_id": 1,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 2,
+          "product_id": 1,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 3,
+          "product_id": 1,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 4,
+          "product_id": 1,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 5,
+          "product_id": 1,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 6,
+          "product_id": 1,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 1,
+          "remote_id": 20286,
+          "product_id": 1,
+          "material_id": 26,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 4,
+          "product_id": 1,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 2,
+          "product_id": 1,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 3,
+          "product_id": 1,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 1,
+          "product_id": 1,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 5,
+          "product_id": 1,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "remote_id": 3928,
+      "name": "SYT-260423",
+      "code": "SYT-260423",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777857138489_img_1777857136216_26771a15.jpg?sign=1780449139-9366ccd086-0-0db2b80229b8b7540c98e639cada7303d488d0fd7ef1172cb64e60f5ddef769f",
+      "production_time_per_unit": 30,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 7,
+          "product_id": 2,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 5.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 8,
+          "product_id": 2,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 9,
+          "product_id": 2,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 10,
+          "product_id": 2,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 11,
+          "product_id": 2,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 12,
+          "product_id": 2,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 2,
+          "remote_id": 20479,
+          "product_id": 2,
+          "material_id": 22,
+          "spec": "晨丰8191-5纸",
+          "quantity_per_unit": 0.25,
+          "group_type": "factory"
+        },
+        {
+          "id": 3,
+          "remote_id": 20480,
+          "product_id": 2,
+          "material_id": 25,
+          "spec": "21厘0.8厚8191-5",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 4,
+          "remote_id": 20481,
+          "product_id": 2,
+          "material_id": 40,
+          "spec": "5＃",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 5,
+          "remote_id": 20482,
+          "product_id": 2,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 6,
+          "remote_id": 20483,
+          "product_id": 2,
+          "material_id": 45,
+          "spec": "m6矮扁头调节脚",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 7,
+          "remote_id": 20484,
+          "product_id": 2,
+          "material_id": 44,
+          "spec": "m6*15",
+          "quantity_per_unit": 8,
+          "group_type": "factory"
+        },
+        {
+          "id": 8,
+          "remote_id": 20485,
+          "product_id": 2,
+          "material_id": 26,
+          "spec": "M6*40倒边黑色",
+          "quantity_per_unit": 8,
+          "group_type": "factory"
+        },
+        {
+          "id": 9,
+          "remote_id": 20486,
+          "product_id": 2,
+          "material_id": 26,
+          "spec": "M8*50柱头黑色",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 10,
+          "remote_id": 20487,
+          "product_id": 2,
+          "material_id": 59,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 9,
+          "product_id": 2,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 7,
+          "product_id": 2,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 8,
+          "product_id": 2,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 6,
+          "product_id": 2,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 10,
+          "product_id": 2,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "remote_id": 3929,
+      "name": "SF-9670",
+      "code": "SF-9670",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865210525_img_1777865208759_123aa10c.jpg?sign=1780457210-84972efa17-0-fade302f9fe49d80e03ae4628713d595be4551fda314da783c4369822da7f63d",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 13,
+          "product_id": 3,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 14,
+          "product_id": 3,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 15,
+          "product_id": 3,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 16,
+          "product_id": 3,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 17,
+          "product_id": 3,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 18,
+          "product_id": 3,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 11,
+          "remote_id": 20296,
+          "product_id": 3,
+          "material_id": 24,
+          "spec": "水泥灰刨花板浮雕",
+          "quantity_per_unit": 0.5,
+          "group_type": "factory"
+        },
+        {
+          "id": 12,
+          "remote_id": 20297,
+          "product_id": 3,
+          "material_id": 21,
+          "spec": "水泥灰三胺板浮雕",
+          "quantity_per_unit": 0.657,
+          "group_type": "factory"
+        },
+        {
+          "id": 13,
+          "remote_id": 20298,
+          "product_id": 3,
+          "material_id": 21,
+          "spec": "印尼灰三胺板",
+          "quantity_per_unit": 0.28,
+          "group_type": "factory"
+        },
+        {
+          "id": 14,
+          "remote_id": 20299,
+          "product_id": 3,
+          "material_id": 19,
+          "spec": "水泥灰三胺板浮雕",
+          "quantity_per_unit": 0.1428,
+          "group_type": "factory"
+        },
+        {
+          "id": 15,
+          "remote_id": 20300,
+          "product_id": 3,
+          "material_id": 25,
+          "spec": "18宽水泥灰0.8厚",
+          "quantity_per_unit": 26.8,
+          "group_type": "factory"
+        },
+        {
+          "id": 16,
+          "remote_id": 20301,
+          "product_id": 3,
+          "material_id": 25,
+          "spec": "28宽水泥灰0.8厚",
+          "quantity_per_unit": 6.8,
+          "group_type": "factory"
+        },
+        {
+          "id": 17,
+          "remote_id": 20302,
+          "product_id": 3,
+          "material_id": 25,
+          "spec": "18厚印尼灰0.8厚",
+          "quantity_per_unit": 9.16,
+          "group_type": "factory"
+        },
+        {
+          "id": 18,
+          "remote_id": 20303,
+          "product_id": 3,
+          "material_id": 46,
+          "spec": "8*30",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 19,
+          "remote_id": 20304,
+          "product_id": 3,
+          "material_id": 26,
+          "spec": "M6*55",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 20,
+          "remote_id": 20305,
+          "product_id": 3,
+          "material_id": 36,
+          "spec": "短款28",
+          "quantity_per_unit": 52,
+          "group_type": "kit"
+        },
+        {
+          "id": 21,
+          "remote_id": 20306,
+          "product_id": 3,
+          "material_id": 43,
+          "spec": "3.5*40",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 22,
+          "remote_id": 20307,
+          "product_id": 3,
+          "material_id": 43,
+          "spec": "3.5*14",
+          "quantity_per_unit": 36,
+          "group_type": "kit"
+        },
+        {
+          "id": 23,
+          "remote_id": 20308,
+          "product_id": 3,
+          "material_id": 43,
+          "spec": "3.5*50",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 24,
+          "remote_id": 20309,
+          "product_id": 3,
+          "material_id": 37,
+          "spec": "直径10*10",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 25,
+          "remote_id": 20310,
+          "product_id": 3,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 26,
+          "remote_id": 20311,
+          "product_id": 3,
+          "material_id": 26,
+          "spec": "M6*50",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 27,
+          "remote_id": 20312,
+          "product_id": 3,
+          "material_id": 42,
+          "spec": "96孔距",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 28,
+          "remote_id": 20313,
+          "product_id": 3,
+          "material_id": 38,
+          "spec": "直弯",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 29,
+          "remote_id": 20314,
+          "product_id": 3,
+          "material_id": 33,
+          "spec": "10寸",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 30,
+          "remote_id": 20315,
+          "product_id": 3,
+          "material_id": 45,
+          "spec": "M6*18",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 31,
+          "remote_id": 20316,
+          "product_id": 3,
+          "material_id": 53,
+          "spec": "直径13白色",
+          "quantity_per_unit": 6,
+          "group_type": "kit"
+        },
+        {
+          "id": 32,
+          "remote_id": 20317,
+          "product_id": 3,
+          "material_id": 54,
+          "spec": "M4*20拉手螺丝",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 33,
+          "remote_id": 20318,
+          "product_id": 3,
+          "material_id": 44,
+          "spec": "M6*15",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 14,
+          "product_id": 3,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 12,
+          "product_id": 3,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 13,
+          "product_id": 3,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 11,
+          "product_id": 3,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 15,
+          "product_id": 3,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "remote_id": 3930,
+      "name": "INF8048HB",
+      "code": "INF8048HB",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865271692_img_1777865270021_17d47552.jpg?sign=1780457272-36c2c324bd-0-04d74f88a9479ff2b7e9c84d9f63c4225b4c50e43d9f3a995b182e6731f44799",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 19,
+          "product_id": 4,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 20,
+          "product_id": 4,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 21,
+          "product_id": 4,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 22,
+          "product_id": 4,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 23,
+          "product_id": 4,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 24,
+          "product_id": 4,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 34,
+          "remote_id": 20319,
+          "product_id": 4,
+          "material_id": 55,
+          "spec": "M6*12母螺丝",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 35,
+          "remote_id": 20320,
+          "product_id": 4,
+          "material_id": 26,
+          "spec": "M6*12子螺丝",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 36,
+          "remote_id": 20321,
+          "product_id": 4,
+          "material_id": 21,
+          "spec": "黑色麻面三胺板麻面",
+          "quantity_per_unit": 0.192,
+          "group_type": "factory"
+        },
+        {
+          "id": 37,
+          "remote_id": 20322,
+          "product_id": 4,
+          "material_id": 44,
+          "spec": "M6*12",
+          "quantity_per_unit": 8,
+          "group_type": "factory"
+        },
+        {
+          "id": 38,
+          "remote_id": 20323,
+          "product_id": 4,
+          "material_id": 45,
+          "spec": "M6*18黑色",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 39,
+          "remote_id": 20324,
+          "product_id": 4,
+          "material_id": 25,
+          "spec": "18宽*0.8厚黑色封边条",
+          "quantity_per_unit": 6.1,
+          "group_type": "factory"
+        },
+        {
+          "id": 40,
+          "remote_id": 20325,
+          "product_id": 4,
+          "material_id": 26,
+          "spec": "M6*30黑色",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 41,
+          "remote_id": 20326,
+          "product_id": 4,
+          "material_id": 39,
+          "spec": "M7*38",
+          "quantity_per_unit": 7,
+          "group_type": "kit"
+        },
+        {
+          "id": 42,
+          "remote_id": 20327,
+          "product_id": 4,
+          "material_id": 25,
+          "spec": "18宽*0.8厚木纹6606",
+          "quantity_per_unit": 2.1,
+          "group_type": "factory"
+        },
+        {
+          "id": 43,
+          "remote_id": 20328,
+          "product_id": 4,
+          "material_id": 21,
+          "spec": "双细麻黄山纹137-42哑光面",
+          "quantity_per_unit": 0.034,
+          "group_type": "factory"
+        },
+        {
+          "id": 44,
+          "remote_id": 20329,
+          "product_id": 4,
+          "material_id": 35,
+          "spec": "短款28",
+          "quantity_per_unit": 5,
+          "group_type": "kit"
+        }
+      ],
+      "materials": [
+        {
+          "id": 19,
+          "product_id": 4,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:53"
+        },
+        {
+          "id": 17,
+          "product_id": 4,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 18,
+          "product_id": 4,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 16,
+          "product_id": 4,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 20,
+          "product_id": 4,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "remote_id": 3931,
+      "name": "INF1255",
+      "code": "INF1255",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865337334_img_1777865335695_d35ada56.jpg?sign=1780457337-c945d35a5b-0-8708ffb7f7307d5f9fe70f444ccc2d7974e4b24520ccf02758f5ee4a477891f8",
+      "production_time_per_unit": 35,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 25,
+          "product_id": 5,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 6.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 26,
+          "product_id": 5,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 10,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 27,
+          "product_id": 5,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 7.5,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 28,
+          "product_id": 5,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 5,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 29,
+          "product_id": 5,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2.5,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 30,
+          "product_id": 5,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 45,
+          "remote_id": 20330,
+          "product_id": 5,
+          "material_id": 26,
+          "spec": "M6*12黑色螺丝",
+          "quantity_per_unit": 10,
+          "group_type": "kit"
+        },
+        {
+          "id": 46,
+          "remote_id": 20331,
+          "product_id": 5,
+          "material_id": 26,
+          "spec": "M6*30黑色螺丝",
+          "quantity_per_unit": 18,
+          "group_type": "kit"
+        },
+        {
+          "id": 47,
+          "remote_id": 20332,
+          "product_id": 5,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 48,
+          "remote_id": 20333,
+          "product_id": 5,
+          "material_id": 45,
+          "spec": "M6*18黑色20直径",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 49,
+          "remote_id": 20334,
+          "product_id": 5,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 50,
+          "remote_id": 20335,
+          "product_id": 5,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 51,
+          "remote_id": 20336,
+          "product_id": 5,
+          "material_id": 25,
+          "spec": "18宽0.8厚PC5093",
+          "quantity_per_unit": 6.2,
+          "group_type": "factory"
+        },
+        {
+          "id": 52,
+          "remote_id": 20337,
+          "product_id": 5,
+          "material_id": 21,
+          "spec": "1285胡桃三胺板浮雕",
+          "quantity_per_unit": 0.42,
+          "group_type": "factory"
+        },
+        {
+          "id": 53,
+          "remote_id": 20338,
+          "product_id": 5,
+          "material_id": 44,
+          "spec": "M6*12",
+          "quantity_per_unit": 22,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 24,
+          "product_id": 5,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 22,
+          "product_id": 5,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 23,
+          "product_id": 5,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 21,
+          "product_id": 5,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 25,
+          "product_id": 5,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "remote_id": 3932,
+      "name": "INF1285",
+      "code": "INF1285",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865386864_img_1777865385331_27065e88.jpg?sign=1780457387-6434b88381-0-531bcfc920f1fffb3aab5a9577d4c270db31a2879433dd4d837fae92c644dd08",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 31,
+          "product_id": 6,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 32,
+          "product_id": 6,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 33,
+          "product_id": 6,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 34,
+          "product_id": 6,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 35,
+          "product_id": 6,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 36,
+          "product_id": 6,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 54,
+          "remote_id": 20339,
+          "product_id": 6,
+          "material_id": 26,
+          "spec": "M6*10黑色",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 55,
+          "remote_id": 20340,
+          "product_id": 6,
+          "material_id": 25,
+          "spec": "PC5098",
+          "quantity_per_unit": 22.6,
+          "group_type": "factory"
+        },
+        {
+          "id": 56,
+          "remote_id": 20341,
+          "product_id": 6,
+          "material_id": 19,
+          "spec": "1285胡桃双面三胺板浮雕",
+          "quantity_per_unit": 0.084,
+          "group_type": "factory"
+        },
+        {
+          "id": 57,
+          "remote_id": 20342,
+          "product_id": 6,
+          "material_id": 21,
+          "spec": "1285胡桃双面三胺板",
+          "quantity_per_unit": 0.99,
+          "group_type": "factory"
+        },
+        {
+          "id": 58,
+          "remote_id": 20343,
+          "product_id": 6,
+          "material_id": 46,
+          "spec": "直径8*30",
+          "quantity_per_unit": 6,
+          "group_type": "kit"
+        },
+        {
+          "id": 59,
+          "remote_id": 20344,
+          "product_id": 6,
+          "material_id": 39,
+          "spec": "M7*50黑色",
+          "quantity_per_unit": 10,
+          "group_type": "kit"
+        },
+        {
+          "id": 60,
+          "remote_id": 20345,
+          "product_id": 6,
+          "material_id": 37,
+          "spec": "",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 61,
+          "remote_id": 20346,
+          "product_id": 6,
+          "material_id": 36,
+          "spec": "长款32",
+          "quantity_per_unit": 18,
+          "group_type": "kit"
+        },
+        {
+          "id": 62,
+          "remote_id": 20347,
+          "product_id": 6,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 63,
+          "remote_id": 20348,
+          "product_id": 6,
+          "material_id": 41,
+          "spec": "96孔距120总长带圆角黑色",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
+        },
+        {
+          "id": 64,
+          "remote_id": 20349,
+          "product_id": 6,
+          "material_id": 44,
+          "spec": "M6*12",
+          "quantity_per_unit": 15,
+          "group_type": "factory"
+        },
+        {
+          "id": 65,
+          "remote_id": 20350,
+          "product_id": 6,
+          "material_id": 45,
+          "spec": "20直径M6*18黑色",
+          "quantity_per_unit": 7,
+          "group_type": "kit"
+        },
+        {
+          "id": 66,
+          "remote_id": 20351,
+          "product_id": 6,
+          "material_id": 47,
+          "spec": "带牙管塞20*20/M6黑色",
+          "quantity_per_unit": 5,
+          "group_type": "factory"
+        },
+        {
+          "id": 67,
+          "remote_id": 20352,
+          "product_id": 6,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 68,
+          "remote_id": 20353,
+          "product_id": 6,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 69,
+          "remote_id": 20354,
+          "product_id": 6,
+          "material_id": 33,
+          "spec": "12寸",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 70,
+          "remote_id": 20355,
+          "product_id": 6,
+          "material_id": 26,
+          "spec": "M6*30黑色",
+          "quantity_per_unit": 21,
+          "group_type": "kit"
+        }
+      ],
+      "materials": [
+        {
+          "id": 29,
+          "product_id": 6,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 27,
+          "product_id": 6,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 28,
+          "product_id": 6,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 26,
+          "product_id": 6,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 30,
+          "product_id": 6,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "remote_id": 3933,
+      "name": "INF8033HB",
+      "code": "INF8033HB",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865430969_img_1777865429434_0ed545ee.jpg?sign=1780457431-9b79f3a2bb-0-8a54c6009b9c29dd0d0b3f7481ee8ee6f52a3cbd36e76c0502eb3f2f4ae77bb3",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 37,
+          "product_id": 7,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 38,
+          "product_id": 7,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 39,
+          "product_id": 7,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 40,
+          "product_id": 7,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 41,
+          "product_id": 7,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 42,
+          "product_id": 7,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 71,
+          "remote_id": 20356,
+          "product_id": 7,
+          "material_id": 25,
+          "spec": "18宽0.8厚木纹6606",
+          "quantity_per_unit": 6.65,
+          "group_type": "factory"
+        },
+        {
+          "id": 72,
+          "remote_id": 20357,
+          "product_id": 7,
+          "material_id": 21,
+          "spec": "双细麻黄山纹137-42",
+          "quantity_per_unit": 0.237,
+          "group_type": "factory"
+        },
+        {
+          "id": 73,
+          "remote_id": 20358,
+          "product_id": 7,
+          "material_id": 39,
+          "spec": "M7*38镀白锌",
+          "quantity_per_unit": 6,
+          "group_type": "kit"
+        },
+        {
+          "id": 74,
+          "remote_id": 20359,
+          "product_id": 7,
+          "material_id": 35,
+          "spec": "38长自攻牙红色",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 75,
+          "remote_id": 20360,
+          "product_id": 7,
+          "material_id": 45,
+          "spec": "M6*18黑色直径22",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 76,
+          "remote_id": 20361,
+          "product_id": 7,
+          "material_id": 46,
+          "spec": "8*30",
+          "quantity_per_unit": 2,
+          "group_type": "kit"
+        },
+        {
+          "id": 77,
+          "remote_id": 20362,
+          "product_id": 7,
+          "material_id": 26,
+          "spec": "M6*40镀白锌",
+          "quantity_per_unit": 6,
+          "group_type": "kit"
+        },
+        {
+          "id": 78,
+          "remote_id": 20363,
+          "product_id": 7,
+          "material_id": 43,
+          "spec": "M3.5*25镀白锌",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 79,
+          "remote_id": 20364,
+          "product_id": 7,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 80,
+          "remote_id": 20365,
+          "product_id": 7,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 34,
+          "product_id": 7,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 32,
+          "product_id": 7,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 33,
+          "product_id": 7,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 31,
+          "product_id": 7,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 35,
+          "product_id": 7,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "remote_id": 3934,
+      "name": "SY-250528",
+      "code": "SY-250528",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865473518_img_1777865471998_4fd48118.jpg?sign=1780457473-9d7b747c95-0-622da850905d8f0cf636f2ee8d9d6910848e9a5ae8ec0d7d081d322612001420",
+      "production_time_per_unit": 80,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 43,
+          "product_id": 8,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 14.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 44,
+          "product_id": 8,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 22.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 45,
+          "product_id": 8,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 46,
+          "product_id": 8,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 11.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 47,
+          "product_id": 8,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 48,
+          "product_id": 8,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 39,
+          "product_id": 8,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 37,
+          "product_id": 8,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 38,
+          "product_id": 8,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 36,
+          "product_id": 8,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 40,
+          "product_id": 8,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "remote_id": 3935,
+      "name": "SY-240815",
+      "code": "SY-240815",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865516411_img_1777865514759_e0738f7d.jpg?sign=1780457516-f71d4d6be4-0-cacf350540058c773f411d36a1818c2bcd3267822de21c99290c7f1428e3a5c2",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 49,
+          "product_id": 9,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 50,
+          "product_id": 9,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 51,
+          "product_id": 9,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 52,
+          "product_id": 9,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 53,
+          "product_id": 9,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 54,
+          "product_id": 9,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 81,
+          "remote_id": 20366,
+          "product_id": 9,
+          "material_id": 25,
+          "spec": "七里槐香木纹",
+          "quantity_per_unit": 4.4,
+          "group_type": "factory"
+        },
+        {
+          "id": 82,
+          "remote_id": 20367,
+          "product_id": 9,
+          "material_id": 24,
+          "spec": "七里槐香25双面",
+          "quantity_per_unit": 0.5,
+          "group_type": "factory"
+        },
+        {
+          "id": 83,
+          "remote_id": 20368,
+          "product_id": 9,
+          "material_id": 44,
+          "spec": "M6*15",
+          "quantity_per_unit": 8,
+          "group_type": "factory"
+        },
+        {
+          "id": 84,
+          "remote_id": 20369,
+          "product_id": 9,
+          "material_id": 26,
+          "spec": "M6*10镀镍",
+          "quantity_per_unit": 18,
+          "group_type": "kit"
+        },
+        {
+          "id": 85,
+          "remote_id": 20370,
+          "product_id": 9,
+          "material_id": 26,
+          "spec": "M6*30",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 86,
+          "remote_id": 20371,
+          "product_id": 9,
+          "material_id": 45,
+          "spec": "M6*10黑色",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 87,
+          "remote_id": 20372,
+          "product_id": 9,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 88,
+          "remote_id": 20373,
+          "product_id": 9,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 89,
+          "remote_id": 20374,
+          "product_id": 9,
+          "material_id": 51,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 90,
+          "remote_id": 20375,
+          "product_id": 9,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 44,
+          "product_id": 9,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 42,
+          "product_id": 9,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 43,
+          "product_id": 9,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 41,
+          "product_id": 9,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 45,
+          "product_id": 9,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "remote_id": 3936,
+      "name": "INF1012",
+      "code": "INF1012",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865612546_img_1777865611016_933c090e.jpg?sign=1780457612-5017232d53-0-9ede5c983fe704f96e1e105bfc55f242b63a86d27ee0ce227fbdcd93f092b59b",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 55,
+          "product_id": 10,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 56,
+          "product_id": 10,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 57,
+          "product_id": 10,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 58,
+          "product_id": 10,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 59,
+          "product_id": 10,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 60,
+          "product_id": 10,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 91,
+          "remote_id": 20376,
+          "product_id": 10,
+          "material_id": 23,
+          "spec": "素板680密度",
+          "quantity_per_unit": 0.09,
+          "group_type": "factory"
+        },
+        {
+          "id": 92,
+          "remote_id": 20377,
+          "product_id": 10,
+          "material_id": 25,
+          "spec": "42宽0.8厚暖白",
+          "quantity_per_unit": 3.4,
+          "group_type": "factory"
+        },
+        {
+          "id": 93,
+          "remote_id": 20378,
+          "product_id": 10,
+          "material_id": 20,
+          "spec": "单面暖白",
+          "quantity_per_unit": 0.5,
+          "group_type": "factory"
+        },
+        {
+          "id": 94,
+          "remote_id": 20379,
+          "product_id": 10,
+          "material_id": 26,
+          "spec": "M6*16镀镍",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 95,
+          "remote_id": 20380,
+          "product_id": 10,
+          "material_id": 40,
+          "spec": "4#镀白锌",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 96,
+          "remote_id": 20381,
+          "product_id": 10,
+          "material_id": 44,
+          "spec": "M6*15镀彩锌",
+          "quantity_per_unit": 12,
+          "group_type": "factory"
+        },
+        {
+          "id": 97,
+          "remote_id": 20382,
+          "product_id": 10,
+          "material_id": 47,
+          "spec": "圆直径38",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 98,
+          "remote_id": 20383,
+          "product_id": 10,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 99,
+          "remote_id": 20384,
+          "product_id": 10,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 49,
+          "product_id": 10,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 47,
+          "product_id": 10,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 48,
+          "product_id": 10,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 46,
+          "product_id": 10,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 50,
+          "product_id": 10,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "remote_id": 3937,
+      "name": "SY-250526",
+      "code": "SY-250526",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865678697_img_1777865677114_8b9b677e.jpg?sign=1780457678-b149e53744-0-1fc5245d945f90af98ed38404a23f7e6b00ffaca1f8a3e41ed1ee216f4fa5971",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 61,
+          "product_id": 11,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 62,
+          "product_id": 11,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 63,
+          "product_id": 11,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 64,
+          "product_id": 11,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 65,
+          "product_id": 11,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 66,
+          "product_id": 11,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 54,
+          "product_id": 11,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 52,
+          "product_id": 11,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 53,
+          "product_id": 11,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 51,
+          "product_id": 11,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 55,
+          "product_id": 11,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "remote_id": 3938,
+      "name": "BK-241223",
+      "code": "BK-241223",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865729821_img_1777865728141_fd5ac618.jpg?sign=1780457730-cb549cdc8b-0-a8804c80b244942339c3064038549539f92b1e64b487fd0437e4e49e659a18bf",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 67,
+          "product_id": 12,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 68,
+          "product_id": 12,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 69,
+          "product_id": 12,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 70,
+          "product_id": 12,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 71,
+          "product_id": 12,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 72,
+          "product_id": 12,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 100,
+          "remote_id": 20385,
+          "product_id": 12,
+          "material_id": 56,
+          "spec": "素板",
+          "quantity_per_unit": 0.18,
+          "group_type": "factory"
+        },
+        {
+          "id": 101,
+          "remote_id": 20386,
+          "product_id": 12,
+          "material_id": 19,
+          "spec": "七里槐香",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
+        },
+        {
+          "id": 102,
+          "remote_id": 20387,
+          "product_id": 12,
+          "material_id": 26,
+          "spec": "M6*10黑色",
+          "quantity_per_unit": 16,
+          "group_type": "kit"
+        },
+        {
+          "id": 103,
+          "remote_id": 20388,
+          "product_id": 12,
+          "material_id": 26,
+          "spec": "M6*30黑色",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 104,
+          "remote_id": 20389,
+          "product_id": 12,
+          "material_id": 26,
+          "spec": "M6*50黑色",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 105,
+          "remote_id": 20390,
+          "product_id": 12,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 106,
+          "remote_id": 20391,
+          "product_id": 12,
+          "material_id": 45,
+          "spec": "M8*15黑色",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        }
+      ],
+      "materials": [
+        {
+          "id": 59,
+          "product_id": 12,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 57,
+          "product_id": 12,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 58,
+          "product_id": 12,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 56,
+          "product_id": 12,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 60,
+          "product_id": 12,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "remote_id": 3939,
+      "name": "SY-250714",
+      "code": "SY-250714",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865778052_img_1777865776367_3e591a7f.jpg?sign=1780457778-270eb03e05-0-7a0e8f492144610826d32acee8d902af47439f732ff7f53df6cfb515fe00d8fa",
+      "production_time_per_unit": 30,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 73,
+          "product_id": 13,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 5.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 74,
+          "product_id": 13,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 75,
+          "product_id": 13,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 76,
+          "product_id": 13,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 77,
+          "product_id": 13,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 78,
+          "product_id": 13,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 107,
+          "remote_id": 20392,
+          "product_id": 13,
+          "material_id": 37,
+          "spec": "",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 108,
+          "remote_id": 20393,
+          "product_id": 13,
+          "material_id": 36,
+          "spec": "全金属三合一",
+          "quantity_per_unit": 8,
+          "group_type": "kit"
+        },
+        {
+          "id": 109,
+          "remote_id": 20394,
+          "product_id": 13,
+          "material_id": 46,
+          "spec": "8*30常备物料",
+          "quantity_per_unit": 20,
+          "group_type": "kit"
+        },
+        {
+          "id": 110,
+          "remote_id": 20395,
+          "product_id": 13,
+          "material_id": 26,
+          "spec": "M6*12",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 111,
+          "remote_id": 20396,
+          "product_id": 13,
+          "material_id": 36,
+          "spec": "长款",
+          "quantity_per_unit": 30,
+          "group_type": "kit"
+        },
+        {
+          "id": 112,
+          "remote_id": 20397,
+          "product_id": 13,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 113,
+          "remote_id": 20398,
+          "product_id": 13,
+          "material_id": 44,
+          "spec": "M6",
+          "quantity_per_unit": 8,
+          "group_type": "factory"
+        },
+        {
+          "id": 114,
+          "remote_id": 20399,
+          "product_id": 13,
+          "material_id": 47,
+          "spec": "25*25白色带牙M8",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 115,
+          "remote_id": 20400,
+          "product_id": 13,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 116,
+          "remote_id": 20401,
+          "product_id": 13,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 117,
+          "remote_id": 20402,
+          "product_id": 13,
+          "material_id": 57,
+          "spec": "常备材料",
+          "quantity_per_unit": 20,
+          "group_type": "factory"
+        },
+        {
+          "id": 118,
+          "remote_id": 20403,
+          "product_id": 13,
+          "material_id": 58,
+          "spec": "",
+          "quantity_per_unit": 3.56,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 64,
+          "product_id": 13,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 62,
+          "product_id": 13,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 63,
+          "product_id": 13,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 61,
+          "product_id": 13,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 65,
+          "product_id": 13,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "remote_id": 3940,
+      "name": "251103",
+      "code": "251103",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865829032_img_1777865827428_35d4c403.jpg?sign=1780457829-9a95d6d9ab-0-2b6be73d05ecf643c1b58fc6ccde7c8657fc475b5f0f6e8a92b14ced53b3eed7",
+      "production_time_per_unit": 30,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 79,
+          "product_id": 14,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 5.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 80,
+          "product_id": 14,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 81,
+          "product_id": 14,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 82,
+          "product_id": 14,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 83,
+          "product_id": 14,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 84,
+          "product_id": 14,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 69,
+          "product_id": 14,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 67,
+          "product_id": 14,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 68,
+          "product_id": 14,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 66,
+          "product_id": 14,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 70,
+          "product_id": 14,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "remote_id": 3941,
+      "name": "SY-260205",
+      "code": "SY-260205",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865870722_img_1777865869022_813d3246.jpg?sign=1780457871-765c1d590b-0-c6f5223be4514a68a8098345669c110185625d200b464217400beac7889c97d4",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 85,
+          "product_id": 15,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 86,
+          "product_id": 15,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 87,
+          "product_id": 15,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 88,
+          "product_id": 15,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 89,
+          "product_id": 15,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 90,
+          "product_id": 15,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 74,
+          "product_id": 15,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 72,
+          "product_id": 15,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 73,
+          "product_id": 15,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 71,
+          "product_id": 15,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 75,
+          "product_id": 15,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "remote_id": 3942,
+      "name": "SY-260126",
+      "code": "SY-260126",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865918103_img_1777865916493_ee134eb5.jpg?sign=1780457918-c668837c5e-0-af5b47497ecdd7396727bf7d1b2cb73c6a339b4995e16bd17fbc68583ad49e19",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 91,
+          "product_id": 16,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 92,
+          "product_id": 16,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 93,
+          "product_id": 16,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 94,
+          "product_id": 16,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 95,
+          "product_id": 16,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 96,
+          "product_id": 16,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 79,
+          "product_id": 16,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 77,
+          "product_id": 16,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 78,
+          "product_id": 16,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 76,
+          "product_id": 16,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 80,
+          "product_id": 16,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "remote_id": 3943,
+      "name": "INF1212",
+      "code": "INF1212",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777866407040_img_1777866405430_b30638c8.jpg?sign=1780458407-5edd0efeae-0-db5289304d5cad4fb3e02a69f8252369b67cd695a208ee6ca0c744b4ab2bf93b",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 97,
+          "product_id": 17,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 98,
+          "product_id": 17,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 99,
+          "product_id": 17,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 100,
+          "product_id": 17,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 101,
+          "product_id": 17,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 102,
+          "product_id": 17,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 119,
+          "remote_id": 20404,
+          "product_id": 17,
+          "material_id": 44,
+          "spec": "M6*15镀彩锌",
+          "quantity_per_unit": 12,
+          "group_type": "factory"
+        },
+        {
+          "id": 120,
+          "remote_id": 20405,
+          "product_id": 17,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 121,
+          "remote_id": 20406,
+          "product_id": 17,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 122,
+          "remote_id": 20407,
+          "product_id": 17,
+          "material_id": 23,
+          "spec": "1200mm*2440mm素板",
+          "quantity_per_unit": 0.1,
+          "group_type": "factory"
+        },
+        {
+          "id": 123,
+          "remote_id": 20408,
+          "product_id": 17,
+          "material_id": 25,
+          "spec": "暖白41宽0.8厚",
+          "quantity_per_unit": 3.8,
+          "group_type": "factory"
+        },
+        {
+          "id": 124,
+          "remote_id": 20409,
+          "product_id": 17,
+          "material_id": 20,
+          "spec": "单面暖白麻面",
+          "quantity_per_unit": 0.5,
+          "group_type": "factory"
+        },
+        {
+          "id": 125,
+          "remote_id": 20410,
+          "product_id": 17,
+          "material_id": 26,
+          "spec": "倒边内六角镀镍M6*16",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 126,
+          "remote_id": 20411,
+          "product_id": 17,
+          "material_id": 40,
+          "spec": "4#镀白锌",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 127,
+          "remote_id": 20412,
+          "product_id": 17,
+          "material_id": 47,
+          "spec": "圆直径38",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 84,
+          "product_id": 17,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 82,
+          "product_id": 17,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 83,
+          "product_id": 17,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 81,
+          "product_id": 17,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 85,
+          "product_id": 17,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "remote_id": 3944,
+      "name": "SY-251119",
+      "code": "SY-251119",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1779521302931_d4a29at9gyq_eb4e522e.jpg?sign=1811057303-36def615b0-0-3f08a6aab84fa0864992b51e046d2056e4be3dc517f4c16916cde21e23cd6f02",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 103,
+          "product_id": 18,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 104,
+          "product_id": 18,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 105,
+          "product_id": 18,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 106,
+          "product_id": 18,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 107,
+          "product_id": 18,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 108,
+          "product_id": 18,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 128,
+          "remote_id": 20498,
+          "product_id": 18,
+          "material_id": 22,
+          "spec": "绒面",
+          "quantity_per_unit": 0.5,
+          "group_type": "factory"
+        },
+        {
+          "id": 129,
+          "remote_id": 20499,
+          "product_id": 18,
+          "material_id": 25,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 130,
+          "remote_id": 20500,
+          "product_id": 18,
+          "material_id": 52,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 131,
+          "remote_id": 20501,
+          "product_id": 18,
+          "material_id": 50,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 89,
+          "product_id": 18,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 87,
+          "product_id": 18,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 88,
+          "product_id": 18,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 86,
+          "product_id": 18,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 90,
+          "product_id": 18,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "remote_id": 3945,
+      "name": "SY-260203",
+      "code": "SY-260203",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778551355835_2twdjo3sk3y_031d8668.jpg?sign=1810087356-11cef5a5df-0-96c9e6b187a0385bf06be9bd065123782c2308d3f6307f85bf0587ace0a7e622",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 109,
+          "product_id": 19,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 110,
+          "product_id": 19,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 111,
+          "product_id": 19,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 112,
+          "product_id": 19,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 113,
+          "product_id": 19,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 114,
+          "product_id": 19,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 132,
+          "remote_id": 20413,
+          "product_id": 19,
+          "material_id": 47,
+          "spec": "50直径黑色pvc软胶",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 133,
+          "remote_id": 20414,
+          "product_id": 19,
+          "material_id": 25,
+          "spec": "28宽科技木PC5094",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 134,
+          "remote_id": 20415,
+          "product_id": 19,
+          "material_id": 24,
+          "spec": "晨丰科技木8260光面",
+          "quantity_per_unit": 0.25,
+          "group_type": "factory"
+        },
+        {
+          "id": 135,
+          "remote_id": 20416,
+          "product_id": 19,
+          "material_id": 26,
+          "spec": "m6*15镀镍",
+          "quantity_per_unit": 12,
+          "group_type": "kit"
+        },
+        {
+          "id": 136,
+          "remote_id": 20417,
+          "product_id": 19,
+          "material_id": 40,
+          "spec": "4＃镀锌",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 137,
+          "remote_id": 20418,
+          "product_id": 19,
+          "material_id": 44,
+          "spec": "M6*15",
+          "quantity_per_unit": 12,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 94,
+          "product_id": 19,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 92,
+          "product_id": 19,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 93,
+          "product_id": 19,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 91,
+          "product_id": 19,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 95,
+          "product_id": 19,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "remote_id": 3946,
+      "name": "SYT-260420",
+      "code": "SYT-260420",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778318754779_sxq321tgx48_715d7c05.jpg?sign=1809854755-18e0d06fb1-0-51b42e18b53838c3ad3ebc00e6a8ef45bd4c11eb0565c3154f6b5b758614af20",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 115,
+          "product_id": 20,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 116,
+          "product_id": 20,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 117,
+          "product_id": 20,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 118,
+          "product_id": 20,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 119,
+          "product_id": 20,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 120,
+          "product_id": 20,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 138,
+          "remote_id": 20419,
+          "product_id": 20,
+          "material_id": 24,
+          "spec": "8191-5纸",
+          "quantity_per_unit": 1.95,
+          "group_type": "factory"
+        },
+        {
+          "id": 139,
+          "remote_id": 20420,
+          "product_id": 20,
+          "material_id": 25,
+          "spec": "8191-5",
+          "quantity_per_unit": 1.95,
+          "group_type": "factory"
+        },
+        {
+          "id": 140,
+          "remote_id": 20421,
+          "product_id": 20,
+          "material_id": 45,
+          "spec": "M6*6黑色直径22",
+          "quantity_per_unit": 5,
+          "group_type": "kit"
+        },
+        {
+          "id": 141,
+          "remote_id": 20422,
+          "product_id": 20,
+          "material_id": 26,
+          "spec": "黑色M6*12",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 142,
+          "remote_id": 20423,
+          "product_id": 20,
+          "material_id": 26,
+          "spec": "M6*24沉头黑色",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 143,
+          "remote_id": 20424,
+          "product_id": 20,
+          "material_id": 26,
+          "spec": "M6*20倒边黑色",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 144,
+          "remote_id": 20425,
+          "product_id": 20,
+          "material_id": 40,
+          "spec": "4#黑色",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        }
+      ],
+      "materials": [
+        {
+          "id": 99,
+          "product_id": 20,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 97,
+          "product_id": 20,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 98,
+          "product_id": 20,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 96,
+          "product_id": 20,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 100,
+          "product_id": 20,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "remote_id": 3947,
+      "name": "SPKT-260507",
+      "code": "SPKT-260507",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778317542259_l7xy8jz71lb_8fcd0d1e.jpg?sign=1809853542-60e580ed04-0-da1f7f192c7f9a1e470664b18f49a1f23ef52f751cb04582badef86dcab565b5",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 121,
+          "product_id": 21,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 122,
+          "product_id": 21,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 123,
+          "product_id": 21,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 124,
+          "product_id": 21,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 125,
+          "product_id": 21,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 126,
+          "product_id": 21,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 145,
+          "remote_id": 20488,
+          "product_id": 21,
+          "material_id": 22,
+          "spec": "1285木纹双面三胺板",
+          "quantity_per_unit": 0.25,
+          "group_type": "factory"
+        },
+        {
+          "id": 146,
+          "remote_id": 20489,
+          "product_id": 21,
+          "material_id": 25,
+          "spec": "21宽0.8厚",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 147,
+          "remote_id": 20490,
+          "product_id": 21,
+          "material_id": 44,
+          "spec": "M6",
+          "quantity_per_unit": 20,
+          "group_type": "factory"
+        },
+        {
+          "id": 148,
+          "remote_id": 20491,
+          "product_id": 21,
+          "material_id": 45,
+          "spec": "M6*18大脚粒",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 149,
+          "remote_id": 20492,
+          "product_id": 21,
+          "material_id": 26,
+          "spec": "M6*12镀镍",
+          "quantity_per_unit": 16,
+          "group_type": "factory"
+        },
+        {
+          "id": 150,
+          "remote_id": 20493,
+          "product_id": 21,
+          "material_id": 26,
+          "spec": "m6*30",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 104,
+          "product_id": 21,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 102,
+          "product_id": 21,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 103,
+          "product_id": 21,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 101,
+          "product_id": 21,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 105,
+          "product_id": 21,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "remote_id": 3948,
+      "name": "SY-260426",
+      "code": "SY-260426",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778317753286_a5ok8nk5h1f_20edd742.jpg?sign=1809853753-662468d94f-0-10de1cdcb210bfcf3fcee5b1873498ad168319af9850e7a1a89b54b0c1f06b51",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 127,
+          "product_id": 22,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 128,
+          "product_id": 22,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 129,
+          "product_id": 22,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 130,
+          "product_id": 22,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 131,
+          "product_id": 22,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 132,
+          "product_id": 22,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 109,
+          "product_id": 22,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 107,
+          "product_id": 22,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 108,
+          "product_id": 22,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 106,
+          "product_id": 22,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 110,
+          "product_id": 22,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "remote_id": 3949,
+      "name": "SY-260427",
+      "code": "SY-260427",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778317790615_846s3zjz5hp_cd4c949c.jpg?sign=1809853790-d86de7a40b-0-31776e3d03e83ec4cba860a66d77379139c853a7b48eefc1adf3505e5226f510",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 133,
+          "product_id": 23,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 134,
+          "product_id": 23,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 135,
+          "product_id": 23,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 136,
+          "product_id": 23,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 137,
+          "product_id": 23,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 138,
+          "product_id": 23,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 151,
+          "remote_id": 20431,
+          "product_id": 23,
+          "material_id": 22,
+          "spec": "8191-5纸",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 152,
+          "remote_id": 20432,
+          "product_id": 23,
+          "material_id": 22,
+          "spec": "黑色",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 153,
+          "remote_id": 20433,
+          "product_id": 23,
+          "material_id": 25,
+          "spec": "8919-5",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 154,
+          "remote_id": 20434,
+          "product_id": 23,
+          "material_id": 25,
+          "spec": "黑色",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 114,
+          "product_id": 23,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 112,
+          "product_id": 23,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 113,
+          "product_id": 23,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 111,
+          "product_id": 23,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 115,
+          "product_id": 23,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "remote_id": 3950,
+      "name": "SY-260428",
+      "code": "SY-260428",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778317859976_ywf922q60vi_2a043c15.jpg?sign=1809853860-33114b994f-0-06a291d04b7ef05f348379ce1670122e0508df69b0cfcacfa139765b9efc2ad3",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 139,
+          "product_id": 24,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 140,
+          "product_id": 24,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 141,
+          "product_id": 24,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 142,
+          "product_id": 24,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 143,
+          "product_id": 24,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 144,
+          "product_id": 24,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 155,
+          "remote_id": 20435,
+          "product_id": 24,
+          "material_id": 22,
+          "spec": "8191-5纸",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 156,
+          "remote_id": 20436,
+          "product_id": 24,
+          "material_id": 22,
+          "spec": "双面黑麻",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 157,
+          "remote_id": 20437,
+          "product_id": 24,
+          "material_id": 25,
+          "spec": "21宽8191-5",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 158,
+          "remote_id": 20438,
+          "product_id": 24,
+          "material_id": 25,
+          "spec": "21黑色",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 119,
+          "product_id": 24,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 117,
+          "product_id": 24,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 118,
+          "product_id": 24,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 116,
+          "product_id": 24,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 120,
+          "product_id": 24,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "remote_id": 3951,
+      "name": "SYT-260421",
+      "code": "SYT-260421",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778319854057_rntpquvsu8e_9b26b0d7.jpg?sign=1809855854-a52b3cef53-0-1ab6fd055d7672f82de86bf5ba72798e1700980311644d25a7a2321624456d93",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 145,
+          "product_id": 25,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 146,
+          "product_id": 25,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 147,
+          "product_id": 25,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 148,
+          "product_id": 25,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 149,
+          "product_id": 25,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 150,
+          "product_id": 25,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 159,
+          "remote_id": 20439,
+          "product_id": 25,
+          "material_id": 23,
+          "spec": "8202-1纸",
+          "quantity_per_unit": 0.125,
+          "group_type": "factory"
+        },
+        {
+          "id": 160,
+          "remote_id": 20440,
+          "product_id": 25,
+          "material_id": 25,
+          "spec": "8202-1",
+          "quantity_per_unit": 3,
+          "group_type": "factory"
+        },
+        {
+          "id": 161,
+          "remote_id": 20441,
+          "product_id": 25,
+          "material_id": 26,
+          "spec": "M6*24沉头黑色",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 162,
+          "remote_id": 20442,
+          "product_id": 25,
+          "material_id": 26,
+          "spec": "M6*20倒边黑色",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 163,
+          "remote_id": 20443,
+          "product_id": 25,
+          "material_id": 26,
+          "spec": "M6*12倒边黑色",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 164,
+          "remote_id": 20444,
+          "product_id": 25,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 165,
+          "remote_id": 20445,
+          "product_id": 25,
+          "material_id": 45,
+          "spec": "M6*12黑色直径22",
+          "quantity_per_unit": 5,
+          "group_type": "kit"
+        }
+      ],
+      "materials": [
+        {
+          "id": 124,
+          "product_id": 25,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 122,
+          "product_id": 25,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 123,
+          "product_id": 25,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 121,
+          "product_id": 25,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 125,
+          "product_id": 25,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "remote_id": 3952,
+      "name": "SYT-260422",
+      "code": "SYT-260422",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778319883660_dppk0utoz5j_e22c8a21.jpg?sign=1809855884-3ed2a23eea-0-04e512e106c810417b05c7f4cfb5dd476fbe860d4c3b054e8e1009feaae4dee3",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 151,
+          "product_id": 26,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 152,
+          "product_id": 26,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 153,
+          "product_id": 26,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 154,
+          "product_id": 26,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 155,
+          "product_id": 26,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 156,
+          "product_id": 26,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 166,
+          "remote_id": 20446,
+          "product_id": 26,
+          "material_id": 25,
+          "spec": "8202-1纸",
+          "quantity_per_unit": 0.34,
+          "group_type": "factory"
+        },
+        {
+          "id": 167,
+          "remote_id": 20447,
+          "product_id": 26,
+          "material_id": 24,
+          "spec": "8202-1   28宽1.5厚",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 168,
+          "remote_id": 20448,
+          "product_id": 26,
+          "material_id": 26,
+          "spec": "M6*24沉头黑色",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 169,
+          "remote_id": 20449,
+          "product_id": 26,
+          "material_id": 26,
+          "spec": "M6*20倒边黑色",
+          "quantity_per_unit": 3,
+          "group_type": "kit"
+        },
+        {
+          "id": 170,
+          "remote_id": 20450,
+          "product_id": 26,
+          "material_id": 26,
+          "spec": "M6*12倒边黑色",
+          "quantity_per_unit": 4,
+          "group_type": "kit"
+        },
+        {
+          "id": 171,
+          "remote_id": 20451,
+          "product_id": 26,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "kit"
+        },
+        {
+          "id": 172,
+          "remote_id": 20452,
+          "product_id": 26,
+          "material_id": 45,
+          "spec": "M6*6黑色",
+          "quantity_per_unit": 5,
+          "group_type": "kit"
+        }
+      ],
+      "materials": [
+        {
+          "id": 129,
+          "product_id": 26,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 127,
+          "product_id": 26,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 128,
+          "product_id": 26,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 126,
+          "product_id": 26,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 130,
+          "product_id": 26,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "remote_id": 3953,
+      "name": "SY-251118",
+      "code": "SY-251118",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1779521251498_1xji1g20zb6_866b43e8.jpg?sign=1811057252-c3dd44f343-0-4028e64e2ee2ff5ab2c5d11a7b4a3bfda2a444ad037d97189579b89f36a3e528",
+      "production_time_per_unit": 30,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 157,
+          "product_id": 27,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 5.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 158,
+          "product_id": 27,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 159,
+          "product_id": 27,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 160,
+          "product_id": 27,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 161,
+          "product_id": 27,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 162,
+          "product_id": 27,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 134,
+          "product_id": 27,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 132,
+          "product_id": 27,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 133,
+          "product_id": 27,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 131,
+          "product_id": 27,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 135,
+          "product_id": 27,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "remote_id": 3954,
+      "name": "BK-240125",
+      "code": "BK-240125",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1779865150453_tgt8zvlic_0fc3d0b3.jpg?sign=1811401150-e064fea507-0-0112390ccbf42798c06980f49ca26f475a01bf4af65bb4bb7ecdaa9658ea5b85",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 163,
+          "product_id": 28,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 164,
+          "product_id": 28,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 165,
+          "product_id": 28,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 166,
+          "product_id": 28,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 167,
+          "product_id": 28,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 168,
+          "product_id": 28,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 173,
+          "remote_id": 20453,
+          "product_id": 28,
+          "material_id": 21,
+          "spec": "1285胡桃色",
+          "quantity_per_unit": 0.25,
+          "group_type": "factory"
+        },
+        {
+          "id": 174,
+          "remote_id": 20454,
+          "product_id": 28,
+          "material_id": 25,
+          "spec": "1285胡桃色18厘0.8厚",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 175,
+          "remote_id": 20455,
+          "product_id": 28,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 176,
+          "remote_id": 20456,
+          "product_id": 28,
+          "material_id": 44,
+          "spec": "M6*10",
+          "quantity_per_unit": 15,
+          "group_type": "factory"
+        },
+        {
+          "id": 177,
+          "remote_id": 20457,
+          "product_id": 28,
+          "material_id": 45,
+          "spec": "黑色直径28*18",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 178,
+          "remote_id": 20458,
+          "product_id": 28,
+          "material_id": 26,
+          "spec": "M6*16白锌",
+          "quantity_per_unit": 3,
+          "group_type": "factory"
+        },
+        {
+          "id": 179,
+          "remote_id": 20459,
+          "product_id": 28,
+          "material_id": 26,
+          "spec": "M6*10白锌",
+          "quantity_per_unit": 12,
+          "group_type": "factory"
+        },
+        {
+          "id": 180,
+          "remote_id": 20460,
+          "product_id": 28,
+          "material_id": 47,
+          "spec": "白色15*15*4-16",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 139,
+          "product_id": 28,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 137,
+          "product_id": 28,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 138,
+          "product_id": 28,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 136,
+          "product_id": 28,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 140,
+          "product_id": 28,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "remote_id": 3955,
+      "name": "SPKT-260526",
+      "code": "SPKT-260526",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1780280680056_eowp65clt4d_df69a0fc.jpg?sign=1811816680-53e1f06864-0-9f8792671983283da3d160c7093af0a67144d5cb374f64b4bd279bf715c977fd",
+      "production_time_per_unit": 20,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 169,
+          "product_id": 29,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 3.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 170,
+          "product_id": 29,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 5.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 171,
+          "product_id": 29,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 172,
+          "product_id": 29,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 173,
+          "product_id": 29,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 174,
+          "product_id": 29,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 181,
+          "remote_id": 20461,
+          "product_id": 29,
+          "material_id": 22,
+          "spec": "1200mm*2440mm",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 182,
+          "remote_id": 20462,
+          "product_id": 29,
+          "material_id": 5,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 183,
+          "remote_id": 20463,
+          "product_id": 29,
+          "material_id": 59,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 184,
+          "remote_id": 20464,
+          "product_id": 29,
+          "material_id": 44,
+          "spec": "M6*15",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 185,
+          "remote_id": 20465,
+          "product_id": 29,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 186,
+          "remote_id": 20466,
+          "product_id": 29,
+          "material_id": 26,
+          "spec": "M6*16",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 144,
+          "product_id": 29,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 142,
+          "product_id": 29,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 143,
+          "product_id": 29,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 141,
+          "product_id": 29,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 145,
+          "product_id": 29,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "remote_id": 3956,
+      "name": "曹哥桌子",
+      "code": "曹哥桌子",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1780280877782_ekwqpwi8wl5_78314dfc.jpg?sign=1811816878-6b182869f9-0-282a6e26fb5ae65aa3ba91438777f199f008c49975f3d6f3bc8043e613cc5046",
+      "production_time_per_unit": 60,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 175,
+          "product_id": 30,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 10.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 176,
+          "product_id": 30,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 17.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 177,
+          "product_id": 30,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 12.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 178,
+          "product_id": 30,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 8.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 179,
+          "product_id": 30,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 180,
+          "product_id": 30,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 6.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 149,
+          "product_id": 30,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 147,
+          "product_id": 30,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 148,
+          "product_id": 30,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 146,
+          "product_id": 30,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 150,
+          "product_id": 30,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "remote_id": 3957,
+      "name": "SY-260604",
+      "code": "SY-260604",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1780732868041_ttr6li60fdr_cbed36e3.jpg?sign=1812268868-97bec06c34-0-6f5ccfd04b9306628f72984085d1e74c2695b3c83b2522c927d71cddc7dbc121",
+      "production_time_per_unit": 10,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 181,
+          "product_id": 31,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 1.8,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 182,
+          "product_id": 31,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 183,
+          "product_id": 31,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 184,
+          "product_id": 31,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 185,
+          "product_id": 31,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 0.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 186,
+          "product_id": 31,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 1.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 187,
+          "remote_id": 20467,
+          "product_id": 31,
+          "material_id": 21,
+          "spec": "2072-2纸锦荣-珍珠麻面",
+          "quantity_per_unit": 0.125,
+          "group_type": "factory"
+        },
+        {
+          "id": 188,
+          "remote_id": 20468,
+          "product_id": 31,
+          "material_id": 25,
+          "spec": "18宽0.8厚pc4295",
+          "quantity_per_unit": 2.8,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 154,
+          "product_id": 31,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 152,
+          "product_id": 31,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 153,
+          "product_id": 31,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 151,
+          "product_id": 31,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 155,
+          "product_id": 31,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "remote_id": 3958,
+      "name": "SY-260603",
+      "code": "SY-260603",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1780733125726_mwfxjp00u5m_9b60ce03.jpg?sign=1812269126-b30d7a3cbd-0-2a28151afb2d7ec9bc312a2d9008707da23fb8bc4d4b0075b851048a09d175e4",
+      "production_time_per_unit": 10,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 187,
+          "product_id": 32,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 1.8,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 188,
+          "product_id": 32,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 189,
+          "product_id": 32,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 190,
+          "product_id": 32,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 191,
+          "product_id": 32,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 0.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 192,
+          "product_id": 32,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 1.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 189,
+          "remote_id": 20469,
+          "product_id": 32,
+          "material_id": 21,
+          "spec": "2072-2纸锦荣-珍珠麻面",
+          "quantity_per_unit": 0.125,
+          "group_type": "factory"
+        },
+        {
+          "id": 190,
+          "remote_id": 20470,
+          "product_id": 32,
+          "material_id": 25,
+          "spec": "18宽0.8厚pc4295",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 159,
+          "product_id": 32,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 157,
+          "product_id": 32,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 158,
+          "product_id": 32,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 156,
+          "product_id": 32,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 160,
+          "product_id": 32,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "remote_id": 3959,
+      "name": "SY-260606圆形",
+      "code": "SY-260606圆形",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1781056980182_lcg1ai8l5fj_41d12bda.jpg?sign=1812592980-d43639ff91-0-56631849f5e2c2289b43aa77feabb1721ef2b549d6ff2a5b0cfdb61467d7b24c",
+      "production_time_per_unit": 15,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 193,
+          "product_id": 33,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 2.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 194,
+          "product_id": 33,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 195,
+          "product_id": 33,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 196,
+          "product_id": 33,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 197,
+          "product_id": 33,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 198,
+          "product_id": 33,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 1.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 191,
+          "remote_id": 20471,
+          "product_id": 33,
+          "material_id": 24,
+          "spec": "2047-1哑光大理石纹麻面",
+          "quantity_per_unit": 0.125,
+          "group_type": "factory"
+        },
+        {
+          "id": 192,
+          "remote_id": 20472,
+          "product_id": 33,
+          "material_id": 25,
+          "spec": "PC5116-28宽0.8厚",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 164,
+          "product_id": 33,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 162,
+          "product_id": 33,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 163,
+          "product_id": 33,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 161,
+          "product_id": 33,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 165,
+          "product_id": 33,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "remote_id": 3960,
+      "name": "SY-260606方形",
+      "code": "SY-260606方形",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1781057166038_q4h0bdv078f_7de032dd.jpg?sign=1812593166-747917f6a8-0-70f11ea9cd71aeabb87c4f1d540aa522444e5f89448a994611c48fe3be484aad",
+      "production_time_per_unit": 15,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 199,
+          "product_id": 34,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 2.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 200,
+          "product_id": 34,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 201,
+          "product_id": 34,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 202,
+          "product_id": 34,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 203,
+          "product_id": 34,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 204,
+          "product_id": 34,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 1.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 193,
+          "remote_id": 20473,
+          "product_id": 34,
+          "material_id": 24,
+          "spec": "2047-1大理石纹麻面",
+          "quantity_per_unit": 0.125,
+          "group_type": "factory"
+        },
+        {
+          "id": 194,
+          "remote_id": 20474,
+          "product_id": 34,
+          "material_id": 25,
+          "spec": "PC-5116-28宽0.8厚",
+          "quantity_per_unit": 2.8,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 169,
+          "product_id": 34,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 167,
+          "product_id": 34,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 168,
+          "product_id": 34,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 166,
+          "product_id": 34,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 170,
+          "product_id": 34,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "remote_id": 3961,
+      "name": "SY-260606方形700",
+      "code": "SY-260606方形700",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1781057441728_amjsnvtbt9d_2242f400.jpg?sign=1812593442-1252cdfa6d-0-c00bdcc9070b342d1ea0728ce77735fcb74417cd258db9545892df2914889ae3",
+      "production_time_per_unit": 15,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 205,
+          "product_id": 35,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 2.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 206,
+          "product_id": 35,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 4.3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 207,
+          "product_id": 35,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 3.2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 208,
+          "product_id": 35,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 209,
+          "product_id": 35,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 1.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 210,
+          "product_id": 35,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 1.6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 195,
+          "remote_id": 20475,
+          "product_id": 35,
+          "material_id": 24,
+          "spec": "2047-1石纹麻面",
+          "quantity_per_unit": 0.334,
+          "group_type": "factory"
+        },
+        {
+          "id": 196,
+          "remote_id": 20476,
+          "product_id": 35,
+          "material_id": 25,
+          "spec": "PC-5116-28宽0.8厚",
+          "quantity_per_unit": 3.2,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 174,
+          "product_id": 35,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 172,
+          "product_id": 35,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 173,
+          "product_id": 35,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 171,
+          "product_id": 35,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 175,
+          "product_id": 35,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "remote_id": 3962,
+      "name": "纯台面",
+      "code": "纯台面",
+      "category": "板式",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1781320694521_p6ynggpr1u_15cc655a.jpg?sign=1812856695-999f6e8bb5-0-3526405fd574343fbd54ab5c0d6557c71df6904c754e2015549b1d5b7324fcf2",
+      "production_time_per_unit": 10,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-08 11:27:45",
+      "routing": [
+        {
+          "id": 211,
+          "product_id": 36,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 1.8,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 212,
+          "product_id": 36,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 2.9,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 213,
+          "product_id": 36,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 2.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 214,
+          "product_id": 36,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 1.4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 215,
+          "product_id": 36,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 0.7,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 216,
+          "product_id": 36,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 1.1,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [
+        {
+          "id": 197,
+          "remote_id": 20477,
+          "product_id": 36,
+          "material_id": 24,
+          "spec": "8275-5麻面",
+          "quantity_per_unit": 0.125,
+          "group_type": "factory"
+        },
+        {
+          "id": 198,
+          "remote_id": 20478,
+          "product_id": 36,
+          "material_id": 25,
+          "spec": "28宽0.8厚pc5124",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
+        }
+      ],
+      "materials": [
+        {
+          "id": 179,
+          "product_id": 36,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 177,
+          "product_id": 36,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 178,
+          "product_id": 36,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 176,
+          "product_id": 36,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        },
+        {
+          "id": 180,
+          "product_id": 36,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-07-08 11:27:46"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-07-08T11:27:56.587Z",
+  "version": 1
+}
