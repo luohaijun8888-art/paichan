@@ -23,9 +23,9 @@
               "order_item_id": 1,
               "product_material_item_id": 34,
               "material_id": 55,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-08 11:27:53"
+              "status": "purchased",
+              "expected_date": "2026-07-20",
+              "updated_at": "2026-07-08 11:30:22"
             },
             {
               "id": 2,
@@ -5707,6 +5707,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-08T11:27:56.587Z",
+  "timestamp": "2026-07-08T11:30:27.411Z",
   "version": 1
 }
