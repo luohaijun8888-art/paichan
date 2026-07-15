@@ -1971,27 +1971,27 @@
               "order_item_id": 17,
               "product_material_item_id": 122,
               "material_id": 23,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-08 11:27:46"
+              "updated_at": "2026-07-15 09:57:53"
             },
             {
               "id": 188,
               "order_item_id": 17,
               "product_material_item_id": 123,
               "material_id": 25,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-08 11:27:46"
+              "status": "purchased",
+              "expected_date": "2026-07-22",
+              "updated_at": "2026-07-15 09:57:48"
             },
             {
               "id": 189,
               "order_item_id": 17,
               "product_material_item_id": 124,
               "material_id": 20,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-08 11:27:46"
+              "status": "purchased",
+              "expected_date": "2026-07-22",
+              "updated_at": "2026-07-15 09:57:52"
             },
             {
               "id": 190,
@@ -5707,6 +5707,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-15T09:53:54.399Z",
+  "timestamp": "2026-07-15T09:57:58.856Z",
   "version": 1
 }
