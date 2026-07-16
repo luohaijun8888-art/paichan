@@ -5705,8 +5705,75 @@
           ]
         }
       ]
+    },
+    {
+      "id": 37,
+      "remote_id": 3015,
+      "order_number": "合同275补单",
+      "order_date": "2026-07-16",
+      "delivery_date": "2026-09-14T00:00:00+08:00",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-16 09:46:30",
+      "items": [
+        {
+          "id": 59,
+          "order_id": 37,
+          "product_id": 32,
+          "quantity": 586,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 525,
+              "order_item_id": 59,
+              "product_material_item_id": 189,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-16 09:46:30"
+            },
+            {
+              "id": 526,
+              "order_item_id": 59,
+              "product_material_item_id": 190,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-16 09:46:30"
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "order_id": 37,
+          "product_id": 31,
+          "quantity": 586,
+          "material_ready": 0,
+          "bom_materials": [
+            {
+              "id": 527,
+              "order_item_id": 60,
+              "product_material_item_id": 187,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-16 09:46:30"
+            },
+            {
+              "id": 528,
+              "order_item_id": 60,
+              "product_material_item_id": 188,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-16 09:46:30"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "timestamp": "2026-07-16T08:02:00.114Z",
+  "timestamp": "2026-07-16T09:46:31.204Z",
   "version": 1
 }
