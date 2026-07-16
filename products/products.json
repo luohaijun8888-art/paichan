@@ -3546,17 +3546,17 @@
           "id": 94,
           "product_id": 19,
           "material_type": "accessory",
-          "status": "not_purchased",
+          "status": "purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 09:54:45"
         },
         {
           "id": 92,
           "product_id": 19,
           "material_type": "board",
-          "status": "not_purchased",
+          "status": "arrived",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 09:54:42"
         },
         {
           "id": 93,
@@ -6239,6 +6239,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-16T09:54:25.856Z",
+  "timestamp": "2026-07-16T09:54:46.494Z",
   "version": 1
 }
