@@ -16,7 +16,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 1,
@@ -97,7 +97,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 2,
@@ -105,7 +105,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 3,
@@ -113,7 +113,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 1,
@@ -121,7 +121,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 5,
@@ -129,7 +129,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -149,7 +149,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 7,
@@ -302,7 +302,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 7,
@@ -310,7 +310,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 8,
@@ -318,7 +318,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 6,
@@ -326,7 +326,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 10,
@@ -334,7 +334,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -354,7 +354,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 13,
@@ -633,7 +633,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 12,
@@ -641,7 +641,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 13,
@@ -649,7 +649,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 11,
@@ -657,7 +657,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 15,
@@ -665,7 +665,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -685,7 +685,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 19,
@@ -856,7 +856,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 17,
@@ -864,7 +864,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 18,
@@ -872,7 +872,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 16,
@@ -880,7 +880,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 20,
@@ -888,7 +888,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -908,7 +908,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 25,
@@ -1061,7 +1061,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 22,
@@ -1069,7 +1069,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 23,
@@ -1077,7 +1077,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 21,
@@ -1085,7 +1085,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 25,
@@ -1093,7 +1093,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -1113,7 +1113,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 31,
@@ -1338,7 +1338,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 27,
@@ -1346,7 +1346,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 28,
@@ -1354,7 +1354,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 26,
@@ -1362,7 +1362,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 30,
@@ -1370,7 +1370,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -1390,7 +1390,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 37,
@@ -1552,7 +1552,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 32,
@@ -1560,7 +1560,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 33,
@@ -1568,7 +1568,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 31,
@@ -1576,7 +1576,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 35,
@@ -1584,7 +1584,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -1604,7 +1604,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 43,
@@ -1675,7 +1675,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 37,
@@ -1683,7 +1683,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 38,
@@ -1691,7 +1691,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 36,
@@ -1699,7 +1699,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 40,
@@ -1707,7 +1707,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -1727,7 +1727,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 49,
@@ -1889,7 +1889,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 42,
@@ -1897,7 +1897,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 43,
@@ -1905,7 +1905,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 41,
@@ -1913,7 +1913,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 45,
@@ -1921,7 +1921,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -1941,7 +1941,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 55,
@@ -2094,7 +2094,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 47,
@@ -2102,7 +2102,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 48,
@@ -2110,7 +2110,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 46,
@@ -2118,7 +2118,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 50,
@@ -2126,7 +2126,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -2146,7 +2146,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 61,
@@ -2217,7 +2217,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 52,
@@ -2225,7 +2225,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 53,
@@ -2233,7 +2233,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 51,
@@ -2241,7 +2241,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 55,
@@ -2249,7 +2249,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -2269,7 +2269,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 67,
@@ -2404,7 +2404,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 57,
@@ -2412,7 +2412,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 58,
@@ -2420,7 +2420,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 56,
@@ -2428,7 +2428,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 60,
@@ -2436,7 +2436,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -2456,7 +2456,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 73,
@@ -2636,7 +2636,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 62,
@@ -2644,7 +2644,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 63,
@@ -2652,7 +2652,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 61,
@@ -2660,7 +2660,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 65,
@@ -2668,7 +2668,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -2688,7 +2688,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 79,
@@ -2759,7 +2759,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 67,
@@ -2767,7 +2767,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 68,
@@ -2775,7 +2775,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 66,
@@ -2783,7 +2783,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 70,
@@ -2791,7 +2791,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -2811,7 +2811,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 85,
@@ -2882,7 +2882,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 72,
@@ -2890,7 +2890,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 73,
@@ -2898,7 +2898,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 71,
@@ -2906,7 +2906,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 75,
@@ -2914,7 +2914,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -2934,7 +2934,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 91,
@@ -3005,7 +3005,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 77,
@@ -3013,7 +3013,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 78,
@@ -3021,7 +3021,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 76,
@@ -3029,7 +3029,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 80,
@@ -3037,7 +3037,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -3057,7 +3057,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 97,
@@ -3208,17 +3208,17 @@
           "id": 84,
           "product_id": 17,
           "material_type": "accessory",
-          "status": "arrived",
+          "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-16 09:52:27"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 82,
           "product_id": 17,
           "material_type": "board",
-          "status": "arrived",
+          "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-16 09:52:17"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 83,
@@ -3226,7 +3226,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 81,
@@ -3234,7 +3234,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 85,
@@ -3242,7 +3242,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -3262,7 +3262,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 103,
@@ -3370,7 +3370,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 87,
@@ -3378,7 +3378,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 88,
@@ -3386,7 +3386,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 86,
@@ -3394,7 +3394,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 90,
@@ -3402,7 +3402,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -3422,7 +3422,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 109,
@@ -3546,17 +3546,17 @@
           "id": 94,
           "product_id": 19,
           "material_type": "accessory",
-          "status": "arrived",
+          "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-16 09:54:48"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 92,
           "product_id": 19,
           "material_type": "board",
-          "status": "arrived",
+          "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-16 09:54:42"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 93,
@@ -3564,7 +3564,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 91,
@@ -3572,7 +3572,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 95,
@@ -3580,7 +3580,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -3600,7 +3600,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 115,
@@ -3735,7 +3735,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 97,
@@ -3743,7 +3743,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 98,
@@ -3751,7 +3751,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 96,
@@ -3759,7 +3759,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 100,
@@ -3767,7 +3767,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -3787,7 +3787,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 121,
@@ -3913,7 +3913,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 102,
@@ -3921,7 +3921,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 103,
@@ -3929,7 +3929,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 101,
@@ -3937,7 +3937,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 105,
@@ -3945,7 +3945,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -3965,7 +3965,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 127,
@@ -4036,7 +4036,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 107,
@@ -4044,7 +4044,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 108,
@@ -4052,7 +4052,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 106,
@@ -4060,7 +4060,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 110,
@@ -4068,7 +4068,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -4088,7 +4088,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 133,
@@ -4196,7 +4196,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 112,
@@ -4204,7 +4204,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 113,
@@ -4212,7 +4212,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 111,
@@ -4220,7 +4220,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 115,
@@ -4228,7 +4228,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -4248,7 +4248,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 139,
@@ -4356,7 +4356,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 117,
@@ -4364,7 +4364,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 118,
@@ -4372,7 +4372,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 116,
@@ -4380,7 +4380,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 120,
@@ -4388,7 +4388,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -4408,7 +4408,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 145,
@@ -4543,7 +4543,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 122,
@@ -4551,7 +4551,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 123,
@@ -4559,7 +4559,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 121,
@@ -4567,7 +4567,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 125,
@@ -4575,7 +4575,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -4595,7 +4595,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 151,
@@ -4730,7 +4730,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 127,
@@ -4738,7 +4738,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 128,
@@ -4746,7 +4746,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 126,
@@ -4754,7 +4754,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 130,
@@ -4762,7 +4762,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -4782,7 +4782,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 157,
@@ -4853,7 +4853,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 132,
@@ -4861,7 +4861,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 133,
@@ -4869,7 +4869,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 131,
@@ -4877,7 +4877,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 135,
@@ -4885,7 +4885,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -4905,7 +4905,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 163,
@@ -5049,7 +5049,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 137,
@@ -5057,7 +5057,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 138,
@@ -5065,7 +5065,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 136,
@@ -5073,7 +5073,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 140,
@@ -5081,7 +5081,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5101,7 +5101,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 169,
@@ -5227,7 +5227,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 142,
@@ -5235,7 +5235,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 143,
@@ -5243,7 +5243,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 141,
@@ -5251,7 +5251,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 145,
@@ -5259,7 +5259,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5279,7 +5279,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 175,
@@ -5350,7 +5350,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 147,
@@ -5358,7 +5358,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 148,
@@ -5366,7 +5366,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 146,
@@ -5374,7 +5374,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 150,
@@ -5382,7 +5382,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5402,7 +5402,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 181,
@@ -5492,7 +5492,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 152,
@@ -5500,7 +5500,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 153,
@@ -5508,7 +5508,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 151,
@@ -5516,7 +5516,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 155,
@@ -5524,7 +5524,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5544,7 +5544,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 187,
@@ -5634,7 +5634,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 157,
@@ -5642,7 +5642,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 158,
@@ -5650,7 +5650,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 156,
@@ -5658,7 +5658,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 160,
@@ -5666,7 +5666,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5686,7 +5686,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 193,
@@ -5776,7 +5776,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 162,
@@ -5784,7 +5784,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 163,
@@ -5792,7 +5792,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 161,
@@ -5800,7 +5800,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 165,
@@ -5808,7 +5808,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5828,7 +5828,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 199,
@@ -5918,7 +5918,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 167,
@@ -5926,7 +5926,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 168,
@@ -5934,7 +5934,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 166,
@@ -5942,7 +5942,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 170,
@@ -5950,7 +5950,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -5970,7 +5970,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 205,
@@ -6060,7 +6060,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 172,
@@ -6068,7 +6068,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 173,
@@ -6076,7 +6076,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 171,
@@ -6084,7 +6084,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 175,
@@ -6092,7 +6092,7 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     },
@@ -6112,7 +6112,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-15 10:28:15",
+      "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
           "id": 211,
@@ -6202,7 +6202,7 @@
           "material_type": "accessory",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 177,
@@ -6210,7 +6210,7 @@
           "material_type": "board",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 178,
@@ -6218,7 +6218,7 @@
           "material_type": "edge_band",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 176,
@@ -6226,7 +6226,7 @@
           "material_type": "hardware",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         },
         {
           "id": 180,
@@ -6234,11 +6234,11 @@
           "material_type": "packaging",
           "status": "not_purchased",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 10:27:51"
         }
       ]
     }
   ],
-  "timestamp": "2026-07-16T09:55:22.430Z",
+  "timestamp": "2026-07-16T10:27:52.272Z",
   "version": 1
 }
