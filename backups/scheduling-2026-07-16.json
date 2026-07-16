@@ -3211,17 +3211,17 @@
           "id": 84,
           "product_id": 17,
           "material_type": "accessory",
-          "status": "not_purchased",
+          "status": "arrived",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 09:52:27"
         },
         {
           "id": 82,
           "product_id": 17,
           "material_type": "board",
-          "status": "not_purchased",
+          "status": "arrived",
           "expected_date": "",
-          "updated_at": "2026-07-15 10:28:15"
+          "updated_at": "2026-07-16 09:52:17"
         },
         {
           "id": 83,
@@ -9029,81 +9029,81 @@
               "order_item_id": 17,
               "product_material_item_id": 119,
               "material_id": 44,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:25"
             },
             {
               "id": 185,
               "order_item_id": 17,
               "product_material_item_id": 120,
               "material_id": 52,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:20"
             },
             {
               "id": 186,
               "order_item_id": 17,
               "product_material_item_id": 121,
               "material_id": 50,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:18"
             },
             {
               "id": 187,
               "order_item_id": 17,
               "product_material_item_id": 122,
               "material_id": 23,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:11"
             },
             {
               "id": 188,
               "order_item_id": 17,
               "product_material_item_id": 123,
               "material_id": 25,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:17"
             },
             {
               "id": 189,
               "order_item_id": 17,
               "product_material_item_id": 124,
               "material_id": 20,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:14"
             },
             {
               "id": 190,
               "order_item_id": 17,
               "product_material_item_id": 125,
               "material_id": 26,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:24"
             },
             {
               "id": 191,
               "order_item_id": 17,
               "product_material_item_id": 126,
               "material_id": 40,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:21"
             },
             {
               "id": 192,
               "order_item_id": 17,
               "product_material_item_id": 127,
               "material_id": 47,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-15 10:28:15"
+              "updated_at": "2026-07-16 09:52:27"
             }
           ]
         }
@@ -13505,17 +13505,17 @@
       "id": 84,
       "product_id": 17,
       "material_type": "accessory",
-      "status": "not_purchased",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:27"
     },
     {
       "id": 82,
       "product_id": 17,
       "material_type": "board",
-      "status": "not_purchased",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:17"
     },
     {
       "id": 83,
@@ -17739,81 +17739,81 @@
       "order_item_id": 17,
       "product_material_item_id": 119,
       "material_id": 44,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:25"
     },
     {
       "id": 185,
       "order_item_id": 17,
       "product_material_item_id": 120,
       "material_id": 52,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:20"
     },
     {
       "id": 186,
       "order_item_id": 17,
       "product_material_item_id": 121,
       "material_id": 50,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:18"
     },
     {
       "id": 187,
       "order_item_id": 17,
       "product_material_item_id": 122,
       "material_id": 23,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:11"
     },
     {
       "id": 188,
       "order_item_id": 17,
       "product_material_item_id": 123,
       "material_id": 25,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:17"
     },
     {
       "id": 189,
       "order_item_id": 17,
       "product_material_item_id": 124,
       "material_id": 20,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:14"
     },
     {
       "id": 190,
       "order_item_id": 17,
       "product_material_item_id": 125,
       "material_id": 26,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:24"
     },
     {
       "id": 191,
       "order_item_id": 17,
       "product_material_item_id": 126,
       "material_id": 40,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:21"
     },
     {
       "id": 192,
       "order_item_id": 17,
       "product_material_item_id": 127,
       "material_id": 47,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-15 10:28:15"
+      "updated_at": "2026-07-16 09:52:27"
     },
     {
       "id": 193,
@@ -20840,7 +20840,7 @@
       "updated_at": "2026-07-16 09:46:30"
     }
   ],
-  "timestamp": "2026-07-16T09:52:08.699Z",
+  "timestamp": "2026-07-16T09:52:32.382Z",
   "version": 2,
-  "backup_reason": "生成排程"
+  "backup_reason": "BOM采购状态更新"
 }
