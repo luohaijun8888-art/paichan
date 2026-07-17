@@ -2678,7 +2678,7 @@
       "name": "251103",
       "code": "251103",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865829032_img_1777865827428_35d4c403.jpg?sign=1780457829-9a95d6d9ab-0-2b6be73d05ecf643c1b58fc6ccde7c8657fc475b5f0f6e8a92b14ced53b3eed7",
+      "image_url": "/uploads/product/product-1784248024624-b6xl3x.jpg",
       "production_time_per_unit": 30,
       "unit": "件",
       "routing_set": 1,
@@ -2691,7 +2691,7 @@
       "synced_at": "2026-07-16 10:27:51",
       "routing": [
         {
-          "id": 79,
+          "id": 217,
           "product_id": 14,
           "step_order": 1,
           "step_name": "开料",
@@ -2701,7 +2701,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 80,
+          "id": 218,
           "product_id": 14,
           "step_order": 2,
           "step_name": "压板",
@@ -2711,7 +2711,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 81,
+          "id": 219,
           "product_id": 14,
           "step_order": 3,
           "step_name": "封边",
@@ -2721,7 +2721,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 82,
+          "id": 220,
           "product_id": 14,
           "step_order": 4,
           "step_name": "六面钻",
@@ -2731,7 +2731,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 83,
+          "id": 221,
           "product_id": 14,
           "step_order": 5,
           "step_name": "清洁",
@@ -2741,7 +2741,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 84,
+          "id": 222,
           "product_id": 14,
           "step_order": 6,
           "step_name": "包装",
@@ -6239,6 +6239,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-16T23:57:59.373Z",
+  "timestamp": "2026-07-17T00:27:10.687Z",
   "version": 1
 }
