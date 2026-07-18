@@ -5040,6 +5040,78 @@
           "spec": "白色15*15*4-16",
           "quantity_per_unit": 2,
           "group_type": "factory"
+        },
+        {
+          "id": 199,
+          "remote_id": 20502,
+          "product_id": 28,
+          "material_id": 21,
+          "spec": "1285胡桃色",
+          "quantity_per_unit": 0.25,
+          "group_type": "factory"
+        },
+        {
+          "id": 200,
+          "remote_id": 20503,
+          "product_id": 28,
+          "material_id": 25,
+          "spec": "1285胡桃色18厘0.8厚",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 201,
+          "remote_id": 20504,
+          "product_id": 28,
+          "material_id": 40,
+          "spec": "4#",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        },
+        {
+          "id": 202,
+          "remote_id": 20505,
+          "product_id": 28,
+          "material_id": 44,
+          "spec": "M6*10",
+          "quantity_per_unit": 15,
+          "group_type": "factory"
+        },
+        {
+          "id": 203,
+          "remote_id": 20506,
+          "product_id": 28,
+          "material_id": 45,
+          "spec": "黑色直径28*18",
+          "quantity_per_unit": 4,
+          "group_type": "factory"
+        },
+        {
+          "id": 204,
+          "remote_id": 20507,
+          "product_id": 28,
+          "material_id": 26,
+          "spec": "M6*25白锌",
+          "quantity_per_unit": 3,
+          "group_type": "factory"
+        },
+        {
+          "id": 205,
+          "remote_id": 20508,
+          "product_id": 28,
+          "material_id": 26,
+          "spec": "M6*12白锌",
+          "quantity_per_unit": 12,
+          "group_type": "factory"
+        },
+        {
+          "id": 206,
+          "remote_id": 20509,
+          "product_id": 28,
+          "material_id": 47,
+          "spec": "白色15*15*4-16",
+          "quantity_per_unit": 2,
+          "group_type": "factory"
         }
       ],
       "materials": [
@@ -6239,6 +6311,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-17T01:26:35.139Z",
+  "timestamp": "2026-07-18T07:55:06.600Z",
   "version": 1
 }
