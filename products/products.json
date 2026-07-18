@@ -5028,7 +5028,7 @@
           "remote_id": 20459,
           "product_id": 28,
           "material_id": 26,
-          "spec": "M6*10白锌",
+          "spec": "M6*12白锌",
           "quantity_per_unit": 12,
           "group_type": "factory"
         },
@@ -6311,6 +6311,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-18T07:55:23.583Z",
+  "timestamp": "2026-07-18T08:11:10.425Z",
   "version": 1
 }
