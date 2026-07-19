@@ -2778,24 +2778,6 @@
           "material_ready": 0,
           "bom_materials": [
             {
-              "id": 258,
-              "order_item_id": 26,
-              "product_material_item_id": 173,
-              "material_id": 21,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
-            },
-            {
-              "id": 259,
-              "order_item_id": 26,
-              "product_material_item_id": 174,
-              "material_id": 25,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
-            },
-            {
               "id": 263,
               "order_item_id": 26,
               "product_material_item_id": 178,
@@ -5738,6 +5720,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-19T01:43:59.363Z",
+  "timestamp": "2026-07-19T01:44:18.053Z",
   "version": 1
 }
