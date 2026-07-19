@@ -5022,7 +5022,7 @@
           "remote_id": 20458,
           "product_id": 28,
           "material_id": 26,
-          "spec": "M6*16白锌",
+          "spec": "M6*25白锌",
           "quantity_per_unit": 3,
           "group_type": "factory"
         },
@@ -15973,7 +15973,7 @@
       "remote_id": 20458,
       "product_id": 28,
       "material_id": 26,
-      "spec": "M6*16白锌",
+      "spec": "M6*25白锌",
       "quantity_per_unit": 3,
       "group_type": "factory"
     },
@@ -20984,7 +20984,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-19T01:41:01.380Z",
+  "timestamp": "2026-07-19T01:42:37.031Z",
   "version": 2,
-  "backup_reason": "GitHub数据同步"
+  "backup_reason": "更新BOM明细"
 }
