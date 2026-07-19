@@ -5090,24 +5090,6 @@
           "group_type": "factory"
         },
         {
-          "id": 204,
-          "remote_id": 20507,
-          "product_id": 28,
-          "material_id": 26,
-          "spec": "M6*25白锌",
-          "quantity_per_unit": 3,
-          "group_type": "factory"
-        },
-        {
-          "id": 205,
-          "remote_id": 20508,
-          "product_id": 28,
-          "material_id": 26,
-          "spec": "M6*12白锌",
-          "quantity_per_unit": 12,
-          "group_type": "factory"
-        },
-        {
           "id": 206,
           "remote_id": 20509,
           "product_id": 28,
@@ -16041,24 +16023,6 @@
       "group_type": "factory"
     },
     {
-      "id": 204,
-      "remote_id": 20507,
-      "product_id": 28,
-      "material_id": 26,
-      "spec": "M6*25白锌",
-      "quantity_per_unit": 3,
-      "group_type": "factory"
-    },
-    {
-      "id": 205,
-      "remote_id": 20508,
-      "product_id": 28,
-      "material_id": 26,
-      "spec": "M6*12白锌",
-      "quantity_per_unit": 12,
-      "group_type": "factory"
-    },
-    {
       "id": 206,
       "remote_id": 20509,
       "product_id": 28,
@@ -20984,7 +20948,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-19T01:42:37.031Z",
+  "timestamp": "2026-07-19T01:43:32.551Z",
   "version": 2,
-  "backup_reason": "更新BOM明细"
+  "backup_reason": "删除BOM明细"
 }
