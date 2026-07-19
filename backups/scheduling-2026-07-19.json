@@ -4991,33 +4991,6 @@
           "group_type": "factory"
         },
         {
-          "id": 175,
-          "remote_id": 20455,
-          "product_id": 28,
-          "material_id": 40,
-          "spec": "4#",
-          "quantity_per_unit": 1,
-          "group_type": "factory"
-        },
-        {
-          "id": 176,
-          "remote_id": 20456,
-          "product_id": 28,
-          "material_id": 44,
-          "spec": "M6*10",
-          "quantity_per_unit": 15,
-          "group_type": "factory"
-        },
-        {
-          "id": 177,
-          "remote_id": 20457,
-          "product_id": 28,
-          "material_id": 45,
-          "spec": "黑色直径28*18",
-          "quantity_per_unit": 4,
-          "group_type": "factory"
-        },
-        {
           "id": 178,
           "remote_id": 20458,
           "product_id": 28,
@@ -5033,15 +5006,6 @@
           "material_id": 26,
           "spec": "M6*12白锌",
           "quantity_per_unit": 12,
-          "group_type": "factory"
-        },
-        {
-          "id": 180,
-          "remote_id": 20460,
-          "product_id": 28,
-          "material_id": 47,
-          "spec": "白色15*15*4-16",
-          "quantity_per_unit": 2,
           "group_type": "factory"
         },
         {
@@ -9935,33 +9899,6 @@
               "updated_at": "2026-07-16 10:27:51"
             },
             {
-              "id": 260,
-              "order_item_id": 26,
-              "product_material_item_id": 175,
-              "material_id": 40,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
-            },
-            {
-              "id": 261,
-              "order_item_id": 26,
-              "product_material_item_id": 176,
-              "material_id": 44,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
-            },
-            {
-              "id": 262,
-              "order_item_id": 26,
-              "product_material_item_id": 177,
-              "material_id": 45,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
-            },
-            {
               "id": 263,
               "order_item_id": 26,
               "product_material_item_id": 178,
@@ -9975,15 +9912,6 @@
               "order_item_id": 26,
               "product_material_item_id": 179,
               "material_id": 26,
-              "status": "pending",
-              "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
-            },
-            {
-              "id": 265,
-              "order_item_id": 26,
-              "product_material_item_id": 180,
-              "material_id": 47,
               "status": "pending",
               "expected_date": "",
               "updated_at": "2026-07-16 10:27:51"
@@ -15924,33 +15852,6 @@
       "group_type": "factory"
     },
     {
-      "id": 175,
-      "remote_id": 20455,
-      "product_id": 28,
-      "material_id": 40,
-      "spec": "4#",
-      "quantity_per_unit": 1,
-      "group_type": "factory"
-    },
-    {
-      "id": 176,
-      "remote_id": 20456,
-      "product_id": 28,
-      "material_id": 44,
-      "spec": "M6*10",
-      "quantity_per_unit": 15,
-      "group_type": "factory"
-    },
-    {
-      "id": 177,
-      "remote_id": 20457,
-      "product_id": 28,
-      "material_id": 45,
-      "spec": "黑色直径28*18",
-      "quantity_per_unit": 4,
-      "group_type": "factory"
-    },
-    {
       "id": 178,
       "remote_id": 20458,
       "product_id": 28,
@@ -15966,15 +15867,6 @@
       "material_id": 26,
       "spec": "M6*12白锌",
       "quantity_per_unit": 12,
-      "group_type": "factory"
-    },
-    {
-      "id": 180,
-      "remote_id": 20460,
-      "product_id": 28,
-      "material_id": 47,
-      "spec": "白色15*15*4-16",
-      "quantity_per_unit": 2,
       "group_type": "factory"
     },
     {
@@ -18527,33 +18419,6 @@
       "updated_at": "2026-07-16 10:27:51"
     },
     {
-      "id": 260,
-      "order_item_id": 26,
-      "product_material_item_id": 175,
-      "material_id": 40,
-      "status": "pending",
-      "expected_date": "",
-      "updated_at": "2026-07-16 10:27:51"
-    },
-    {
-      "id": 261,
-      "order_item_id": 26,
-      "product_material_item_id": 176,
-      "material_id": 44,
-      "status": "pending",
-      "expected_date": "",
-      "updated_at": "2026-07-16 10:27:51"
-    },
-    {
-      "id": 262,
-      "order_item_id": 26,
-      "product_material_item_id": 177,
-      "material_id": 45,
-      "status": "pending",
-      "expected_date": "",
-      "updated_at": "2026-07-16 10:27:51"
-    },
-    {
       "id": 263,
       "order_item_id": 26,
       "product_material_item_id": 178,
@@ -18567,15 +18432,6 @@
       "order_item_id": 26,
       "product_material_item_id": 179,
       "material_id": 26,
-      "status": "pending",
-      "expected_date": "",
-      "updated_at": "2026-07-16 10:27:51"
-    },
-    {
-      "id": 265,
-      "order_item_id": 26,
-      "product_material_item_id": 180,
-      "material_id": 47,
       "status": "pending",
       "expected_date": "",
       "updated_at": "2026-07-16 10:27:51"
@@ -20948,7 +20804,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-19T01:43:32.551Z",
+  "timestamp": "2026-07-19T01:43:59.363Z",
   "version": 2,
   "backup_reason": "删除BOM明细"
 }
