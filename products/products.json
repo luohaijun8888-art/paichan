@@ -4970,24 +4970,6 @@
       ],
       "material_items": [
         {
-          "id": 173,
-          "remote_id": 20453,
-          "product_id": 28,
-          "material_id": 21,
-          "spec": "1285胡桃色",
-          "quantity_per_unit": 0.25,
-          "group_type": "factory"
-        },
-        {
-          "id": 174,
-          "remote_id": 20454,
-          "product_id": 28,
-          "material_id": 25,
-          "spec": "1285胡桃色18厘0.8厚",
-          "quantity_per_unit": 4,
-          "group_type": "factory"
-        },
-        {
           "id": 178,
           "remote_id": 20458,
           "product_id": 28,
@@ -6257,6 +6239,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-19T01:43:59.363Z",
+  "timestamp": "2026-07-19T01:44:18.053Z",
   "version": 1
 }
