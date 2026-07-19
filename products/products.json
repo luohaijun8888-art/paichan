@@ -5040,6 +5040,24 @@
           "spec": "白色15*15*4-16",
           "quantity_per_unit": 2,
           "group_type": "factory"
+        },
+        {
+          "id": 207,
+          "remote_id": 20507,
+          "product_id": 28,
+          "material_id": 26,
+          "spec": "M6*25白锌",
+          "quantity_per_unit": 3,
+          "group_type": "factory"
+        },
+        {
+          "id": 208,
+          "remote_id": 20508,
+          "product_id": 28,
+          "material_id": 26,
+          "spec": "M6*12白锌",
+          "quantity_per_unit": 12,
+          "group_type": "factory"
         }
       ],
       "materials": [
@@ -6239,6 +6257,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-19T01:45:18.382Z",
+  "timestamp": "2026-07-19T03:00:10.678Z",
   "version": 1
 }
