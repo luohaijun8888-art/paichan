@@ -6265,10 +6265,10 @@
       "name": "SYT-260419",
       "code": "SYT-260419",
       "category": "",
-      "image_url": "",
+      "image_url": "/uploads/product/product-1784853219082-mf4apg.jpg",
       "production_time_per_unit": 0,
       "unit": "件",
-      "routing_set": 0,
+      "routing_set": 1,
       "product_length": 0,
       "product_width": 0,
       "product_height": 0,
@@ -6276,7 +6276,68 @@
       "package_width": 0,
       "package_height": 0,
       "synced_at": "2026-07-24 00:33:08",
-      "routing": [],
+      "routing": [
+        {
+          "id": 223,
+          "product_id": 37,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 5,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 224,
+          "product_id": 37,
+          "step_order": 2,
+          "step_name": "压板",
+          "device_type": "press",
+          "std_time_per_unit": 8,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 225,
+          "product_id": 37,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 226,
+          "product_id": 37,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 227,
+          "product_id": 37,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 228,
+          "product_id": 37,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
       "material_items": [],
       "materials": []
     }
@@ -20789,7 +20850,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-24T00:33:13.009Z",
+  "timestamp": "2026-07-24T00:33:47.208Z",
   "version": 2,
-  "backup_reason": "添加产品 SYT-260419"
+  "backup_reason": "编辑产品 #37"
 }
