@@ -6258,6 +6258,27 @@
           "updated_at": "2026-07-16 10:27:51"
         }
       ]
+    },
+    {
+      "id": 37,
+      "remote_id": null,
+      "name": "SYT-260419",
+      "code": "SYT-260419",
+      "category": "",
+      "image_url": "",
+      "production_time_per_unit": 0,
+      "unit": "件",
+      "routing_set": 0,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-07-24 00:33:08",
+      "routing": [],
+      "material_items": [],
+      "materials": []
     }
   ],
   "raw_materials": [
@@ -20768,7 +20789,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-24T00:24:33.412Z",
+  "timestamp": "2026-07-24T00:33:13.009Z",
   "version": 2,
-  "backup_reason": "GitHub数据同步"
+  "backup_reason": "添加产品 SYT-260419"
 }
