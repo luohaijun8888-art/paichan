@@ -6266,9 +6266,9 @@
       "production_time_per_unit": 0,
       "unit": "件",
       "routing_set": 1,
-      "product_length": 0,
+      "product_length": 700,
       "product_width": 0,
-      "product_height": 0,
+      "product_height": 750,
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
@@ -6339,6 +6339,6 @@
       "materials": []
     }
   ],
-  "timestamp": "2026-07-24T00:33:47.208Z",
+  "timestamp": "2026-07-24T00:34:16.431Z",
   "version": 1
 }
