@@ -2987,7 +2987,19 @@
           "is_parallel_able": 0
         }
       ],
-      "material_items": [],
+      "material_items": [
+        {
+          "id": 199,
+          "remote_id": null,
+          "product_id": 14,
+          "material_id": 56,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
+        }
+      ],
       "materials": [
         {
           "id": 69,
@@ -6635,6 +6647,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-24T02:12:39.599Z",
+  "timestamp": "2026-07-24T02:12:47.693Z",
   "version": 1
 }
