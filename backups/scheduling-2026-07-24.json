@@ -6338,7 +6338,17 @@
           "is_parallel_able": 0
         }
       ],
-      "material_items": [],
+      "material_items": [
+        {
+          "id": 209,
+          "remote_id": null,
+          "product_id": 37,
+          "material_id": 24,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
       "materials": []
     }
   ],
@@ -16148,6 +16158,15 @@
       "spec": "28宽0.8厚pc5124",
       "quantity_per_unit": 2,
       "group_type": "factory"
+    },
+    {
+      "id": 209,
+      "remote_id": null,
+      "product_id": 37,
+      "material_id": 24,
+      "spec": "",
+      "quantity_per_unit": 1,
+      "group_type": "factory"
     }
   ],
   "order_item_bom": [
@@ -20850,7 +20869,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-24T00:34:16.431Z",
+  "timestamp": "2026-07-24T00:34:41.214Z",
   "version": 2,
-  "backup_reason": "更新产品尺寸"
+  "backup_reason": "添加BOM明细"
 }
