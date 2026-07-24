@@ -6956,7 +6956,7 @@
       "quantity": 1000,
       "supplier": "",
       "price": 0,
-      "image_url": "",
+      "image_url": "/uploads/material/material-1784886787346-bk4mql.jpg",
       "synced_at": "2026-07-24 02:11:09"
     },
     {
@@ -21655,7 +21655,7 @@
       "updated_at": "2026-07-24 02:11:10"
     }
   ],
-  "timestamp": "2026-07-24T09:48:39.208Z",
+  "timestamp": "2026-07-24T09:53:13.963Z",
   "version": 2,
-  "backup_reason": "GitHub数据同步"
+  "backup_reason": "编辑材料 18厘680"
 }
