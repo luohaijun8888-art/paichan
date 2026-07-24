@@ -9,7 +9,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 1,
@@ -25,7 +25,7 @@
               "material_id": 55,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 2,
@@ -34,7 +34,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 3,
@@ -43,7 +43,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 4,
@@ -52,7 +52,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 5,
@@ -61,7 +61,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 6,
@@ -70,7 +70,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 7,
@@ -79,7 +79,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 8,
@@ -88,7 +88,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 9,
@@ -97,7 +97,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 10,
@@ -106,7 +106,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 11,
@@ -115,7 +115,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -133,7 +133,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 13,
@@ -142,7 +142,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 14,
@@ -151,7 +151,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 15,
@@ -160,7 +160,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 16,
@@ -169,7 +169,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 17,
@@ -178,7 +178,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 18,
@@ -187,7 +187,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 19,
@@ -196,7 +196,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 20,
@@ -205,7 +205,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 21,
@@ -214,7 +214,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -232,7 +232,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 23,
@@ -241,7 +241,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 24,
@@ -250,7 +250,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 25,
@@ -259,7 +259,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 26,
@@ -268,7 +268,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 27,
@@ -277,7 +277,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 28,
@@ -286,7 +286,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 29,
@@ -295,7 +295,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 30,
@@ -304,7 +304,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -319,7 +319,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 4,
@@ -335,7 +335,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 32,
@@ -344,7 +344,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 33,
@@ -353,7 +353,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 34,
@@ -362,7 +362,7 @@
               "material_id": 19,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 35,
@@ -371,7 +371,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 36,
@@ -380,7 +380,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 37,
@@ -389,7 +389,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 38,
@@ -398,7 +398,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 39,
@@ -407,7 +407,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 40,
@@ -416,7 +416,7 @@
               "material_id": 36,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 41,
@@ -425,7 +425,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 42,
@@ -434,7 +434,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 43,
@@ -443,7 +443,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 44,
@@ -452,7 +452,7 @@
               "material_id": 37,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 45,
@@ -461,7 +461,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 46,
@@ -470,7 +470,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 47,
@@ -479,7 +479,7 @@
               "material_id": 42,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 48,
@@ -488,7 +488,7 @@
               "material_id": 38,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 49,
@@ -497,7 +497,7 @@
               "material_id": 33,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 50,
@@ -506,7 +506,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 51,
@@ -515,7 +515,7 @@
               "material_id": 53,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 52,
@@ -524,7 +524,7 @@
               "material_id": 54,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 53,
@@ -533,7 +533,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -548,7 +548,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 5,
@@ -564,7 +564,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -582,7 +582,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 56,
@@ -591,7 +591,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 57,
@@ -600,7 +600,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 58,
@@ -609,7 +609,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 59,
@@ -618,7 +618,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 60,
@@ -627,7 +627,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 61,
@@ -636,7 +636,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 62,
@@ -645,7 +645,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 63,
@@ -654,7 +654,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -669,7 +669,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 7,
@@ -685,7 +685,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 65,
@@ -694,7 +694,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 66,
@@ -703,7 +703,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 67,
@@ -712,7 +712,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 68,
@@ -721,7 +721,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 69,
@@ -730,7 +730,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 70,
@@ -739,7 +739,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 71,
@@ -748,7 +748,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 72,
@@ -757,7 +757,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -772,7 +772,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 8,
@@ -788,7 +788,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -803,7 +803,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 9,
@@ -819,7 +819,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 75,
@@ -828,7 +828,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 76,
@@ -837,7 +837,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 77,
@@ -846,7 +846,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 78,
@@ -855,7 +855,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 79,
@@ -864,7 +864,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 80,
@@ -873,7 +873,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 81,
@@ -882,7 +882,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 82,
@@ -891,7 +891,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -906,7 +906,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 10,
@@ -922,7 +922,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 84,
@@ -931,7 +931,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 85,
@@ -940,7 +940,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 86,
@@ -949,7 +949,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 87,
@@ -958,7 +958,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 88,
@@ -967,7 +967,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 89,
@@ -976,7 +976,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 90,
@@ -985,7 +985,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 91,
@@ -994,7 +994,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -1009,7 +1009,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 11,
@@ -1025,7 +1025,7 @@
               "material_id": 55,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 93,
@@ -1034,7 +1034,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 94,
@@ -1043,7 +1043,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 95,
@@ -1052,7 +1052,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 96,
@@ -1061,7 +1061,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 97,
@@ -1070,7 +1070,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 98,
@@ -1079,7 +1079,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 99,
@@ -1088,7 +1088,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 100,
@@ -1097,7 +1097,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 101,
@@ -1106,7 +1106,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 102,
@@ -1115,7 +1115,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -1133,7 +1133,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 104,
@@ -1142,7 +1142,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 105,
@@ -1151,7 +1151,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 106,
@@ -1160,7 +1160,7 @@
               "material_id": 19,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 107,
@@ -1169,7 +1169,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 108,
@@ -1178,7 +1178,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 109,
@@ -1187,7 +1187,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 110,
@@ -1196,7 +1196,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 111,
@@ -1205,7 +1205,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 112,
@@ -1214,7 +1214,7 @@
               "material_id": 36,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 113,
@@ -1223,7 +1223,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 114,
@@ -1232,7 +1232,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 115,
@@ -1241,7 +1241,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 116,
@@ -1250,7 +1250,7 @@
               "material_id": 37,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 117,
@@ -1259,7 +1259,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 118,
@@ -1268,7 +1268,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 119,
@@ -1277,7 +1277,7 @@
               "material_id": 42,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 120,
@@ -1286,7 +1286,7 @@
               "material_id": 38,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 121,
@@ -1295,7 +1295,7 @@
               "material_id": 33,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 122,
@@ -1304,7 +1304,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 123,
@@ -1313,7 +1313,7 @@
               "material_id": 53,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 124,
@@ -1322,7 +1322,7 @@
               "material_id": 54,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 125,
@@ -1331,7 +1331,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -1346,7 +1346,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 13,
@@ -1362,7 +1362,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 127,
@@ -1371,7 +1371,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 128,
@@ -1380,7 +1380,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 129,
@@ -1389,7 +1389,7 @@
               "material_id": 19,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 130,
@@ -1398,7 +1398,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 131,
@@ -1407,7 +1407,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 132,
@@ -1416,7 +1416,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 133,
@@ -1425,7 +1425,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 134,
@@ -1434,7 +1434,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 135,
@@ -1443,7 +1443,7 @@
               "material_id": 36,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 136,
@@ -1452,7 +1452,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 137,
@@ -1461,7 +1461,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 138,
@@ -1470,7 +1470,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 139,
@@ -1479,7 +1479,7 @@
               "material_id": 37,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 140,
@@ -1488,7 +1488,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 141,
@@ -1497,7 +1497,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 142,
@@ -1506,7 +1506,7 @@
               "material_id": 42,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 143,
@@ -1515,7 +1515,7 @@
               "material_id": 38,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 144,
@@ -1524,7 +1524,7 @@
               "material_id": 33,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 145,
@@ -1533,7 +1533,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 146,
@@ -1542,7 +1542,7 @@
               "material_id": 53,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 147,
@@ -1551,7 +1551,7 @@
               "material_id": 54,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 148,
@@ -1560,7 +1560,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -1578,7 +1578,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 150,
@@ -1587,7 +1587,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 151,
@@ -1596,7 +1596,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 152,
@@ -1605,7 +1605,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 153,
@@ -1614,7 +1614,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 154,
@@ -1623,7 +1623,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 155,
@@ -1632,7 +1632,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 156,
@@ -1641,7 +1641,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 157,
@@ -1650,7 +1650,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -1668,7 +1668,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 159,
@@ -1677,7 +1677,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 160,
@@ -1686,7 +1686,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 161,
@@ -1695,7 +1695,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 162,
@@ -1704,7 +1704,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 163,
@@ -1713,7 +1713,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 164,
@@ -1722,7 +1722,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 165,
@@ -1731,7 +1731,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 166,
@@ -1740,7 +1740,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -1755,7 +1755,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 16,
@@ -1771,7 +1771,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 168,
@@ -1780,7 +1780,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 169,
@@ -1789,7 +1789,7 @@
               "material_id": 19,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 170,
@@ -1798,7 +1798,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 171,
@@ -1807,7 +1807,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 172,
@@ -1816,7 +1816,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 173,
@@ -1825,7 +1825,7 @@
               "material_id": 37,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 174,
@@ -1834,7 +1834,7 @@
               "material_id": 36,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 175,
@@ -1843,7 +1843,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 176,
@@ -1852,7 +1852,7 @@
               "material_id": 41,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 177,
@@ -1861,7 +1861,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 178,
@@ -1870,7 +1870,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 179,
@@ -1879,7 +1879,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 180,
@@ -1888,7 +1888,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 181,
@@ -1897,7 +1897,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 182,
@@ -1906,7 +1906,7 @@
               "material_id": 33,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 183,
@@ -1915,7 +1915,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -1930,7 +1930,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 17,
@@ -1946,7 +1946,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 185,
@@ -1955,7 +1955,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 186,
@@ -1964,7 +1964,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 187,
@@ -1973,7 +1973,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 188,
@@ -1982,7 +1982,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 189,
@@ -1991,7 +1991,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 190,
@@ -2000,7 +2000,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 191,
@@ -2009,7 +2009,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 192,
@@ -2018,7 +2018,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2033,7 +2033,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 18,
@@ -2049,7 +2049,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 194,
@@ -2058,7 +2058,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 195,
@@ -2067,7 +2067,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 196,
@@ -2076,7 +2076,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 197,
@@ -2085,7 +2085,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 198,
@@ -2094,7 +2094,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 199,
@@ -2103,7 +2103,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 200,
@@ -2112,7 +2112,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 201,
@@ -2121,7 +2121,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 202,
@@ -2130,7 +2130,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2145,7 +2145,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 19,
@@ -2161,7 +2161,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 204,
@@ -2170,7 +2170,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 205,
@@ -2179,7 +2179,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 206,
@@ -2188,7 +2188,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 207,
@@ -2197,7 +2197,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 208,
@@ -2206,7 +2206,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 209,
@@ -2215,7 +2215,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 210,
@@ -2224,7 +2224,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 211,
@@ -2233,7 +2233,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 212,
@@ -2242,7 +2242,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2257,7 +2257,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 20,
@@ -2273,7 +2273,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 214,
@@ -2282,7 +2282,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 215,
@@ -2291,7 +2291,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 216,
@@ -2300,7 +2300,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 217,
@@ -2309,7 +2309,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 218,
@@ -2318,7 +2318,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 219,
@@ -2327,7 +2327,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 220,
@@ -2336,7 +2336,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 221,
@@ -2345,7 +2345,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 222,
@@ -2354,7 +2354,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2369,7 +2369,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 21,
@@ -2385,7 +2385,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -2403,7 +2403,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 225,
@@ -2412,7 +2412,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 226,
@@ -2421,7 +2421,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 227,
@@ -2430,7 +2430,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 228,
@@ -2439,7 +2439,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 229,
@@ -2448,7 +2448,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 230,
@@ -2457,7 +2457,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 231,
@@ -2466,7 +2466,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 232,
@@ -2475,7 +2475,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2490,7 +2490,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 23,
@@ -2506,7 +2506,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 234,
@@ -2515,7 +2515,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 235,
@@ -2524,7 +2524,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 236,
@@ -2533,7 +2533,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 237,
@@ -2542,7 +2542,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 238,
@@ -2551,7 +2551,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 239,
@@ -2560,7 +2560,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 240,
@@ -2569,7 +2569,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 241,
@@ -2578,7 +2578,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 242,
@@ -2587,7 +2587,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -2605,7 +2605,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 244,
@@ -2614,7 +2614,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 245,
@@ -2623,7 +2623,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 246,
@@ -2632,7 +2632,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 247,
@@ -2641,7 +2641,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 248,
@@ -2650,7 +2650,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 249,
@@ -2659,7 +2659,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 250,
@@ -2668,7 +2668,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 251,
@@ -2677,7 +2677,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2692,7 +2692,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 25,
@@ -2708,7 +2708,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 253,
@@ -2717,7 +2717,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 254,
@@ -2726,7 +2726,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 255,
@@ -2735,7 +2735,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 256,
@@ -2744,7 +2744,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 257,
@@ -2753,7 +2753,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2768,7 +2768,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 26,
@@ -2778,13 +2778,58 @@
           "material_ready": 0,
           "bom_materials": [
             {
+              "id": 258,
+              "order_item_id": 26,
+              "product_material_item_id": 173,
+              "material_id": 21,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-24 02:11:10"
+            },
+            {
+              "id": 259,
+              "order_item_id": 26,
+              "product_material_item_id": 174,
+              "material_id": 25,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-24 02:11:10"
+            },
+            {
+              "id": 260,
+              "order_item_id": 26,
+              "product_material_item_id": 175,
+              "material_id": 40,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-24 02:11:10"
+            },
+            {
+              "id": 261,
+              "order_item_id": 26,
+              "product_material_item_id": 176,
+              "material_id": 44,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-24 02:11:10"
+            },
+            {
+              "id": 262,
+              "order_item_id": 26,
+              "product_material_item_id": 177,
+              "material_id": 45,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-24 02:11:10"
+            },
+            {
               "id": 263,
               "order_item_id": 26,
               "product_material_item_id": 178,
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 264,
@@ -2793,7 +2838,16 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
+            },
+            {
+              "id": 265,
+              "order_item_id": 26,
+              "product_material_item_id": 180,
+              "material_id": 47,
+              "status": "pending",
+              "expected_date": "",
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -2808,7 +2862,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 27,
@@ -2824,7 +2878,7 @@
               "material_id": 55,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 267,
@@ -2833,7 +2887,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 268,
@@ -2842,7 +2896,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 269,
@@ -2851,7 +2905,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 270,
@@ -2860,7 +2914,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 271,
@@ -2869,7 +2923,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 272,
@@ -2878,7 +2932,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 273,
@@ -2887,7 +2941,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 274,
@@ -2896,7 +2950,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 275,
@@ -2905,7 +2959,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 276,
@@ -2914,7 +2968,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -2932,7 +2986,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 278,
@@ -2941,7 +2995,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 279,
@@ -2950,7 +3004,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 280,
@@ -2959,7 +3013,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 281,
@@ -2968,7 +3022,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 282,
@@ -2977,7 +3031,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 283,
@@ -2986,7 +3040,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 284,
@@ -2995,7 +3049,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 285,
@@ -3004,7 +3058,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 286,
@@ -3013,7 +3067,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -3028,7 +3082,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 29,
@@ -3044,7 +3098,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 288,
@@ -3053,7 +3107,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 289,
@@ -3062,7 +3116,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 290,
@@ -3071,7 +3125,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 291,
@@ -3080,7 +3134,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 292,
@@ -3089,7 +3143,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 293,
@@ -3098,7 +3152,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 294,
@@ -3107,7 +3161,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 295,
@@ -3116,7 +3170,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -3134,7 +3188,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 297,
@@ -3143,7 +3197,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 298,
@@ -3152,7 +3206,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 299,
@@ -3161,7 +3215,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 300,
@@ -3170,7 +3224,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 301,
@@ -3179,7 +3233,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 302,
@@ -3188,7 +3242,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 303,
@@ -3197,7 +3251,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 304,
@@ -3206,7 +3260,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -3221,7 +3275,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 31,
@@ -3237,7 +3291,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 306,
@@ -3246,7 +3300,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 307,
@@ -3255,7 +3309,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 308,
@@ -3264,7 +3318,7 @@
               "material_id": 19,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 309,
@@ -3273,7 +3327,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 310,
@@ -3282,7 +3336,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 311,
@@ -3291,7 +3345,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 312,
@@ -3300,7 +3354,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 313,
@@ -3309,7 +3363,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 314,
@@ -3318,7 +3372,7 @@
               "material_id": 36,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 315,
@@ -3327,7 +3381,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 316,
@@ -3336,7 +3390,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 317,
@@ -3345,7 +3399,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 318,
@@ -3354,7 +3408,7 @@
               "material_id": 37,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 319,
@@ -3363,7 +3417,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 320,
@@ -3372,7 +3426,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 321,
@@ -3381,7 +3435,7 @@
               "material_id": 42,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 322,
@@ -3390,7 +3444,7 @@
               "material_id": 38,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 323,
@@ -3399,7 +3453,7 @@
               "material_id": 33,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 324,
@@ -3408,7 +3462,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 325,
@@ -3417,7 +3471,7 @@
               "material_id": 53,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 326,
@@ -3426,7 +3480,7 @@
               "material_id": 54,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 327,
@@ -3435,7 +3489,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -3453,7 +3507,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 329,
@@ -3462,7 +3516,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 330,
@@ -3471,7 +3525,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 331,
@@ -3480,7 +3534,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 332,
@@ -3489,7 +3543,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 333,
@@ -3498,7 +3552,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 334,
@@ -3507,7 +3561,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 335,
@@ -3516,7 +3570,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 336,
@@ -3525,7 +3579,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -3540,7 +3594,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 33,
@@ -3556,7 +3610,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -3571,7 +3625,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 34,
@@ -3587,7 +3641,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 339,
@@ -3596,7 +3650,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 340,
@@ -3605,7 +3659,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 341,
@@ -3614,7 +3668,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 342,
@@ -3623,7 +3677,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 343,
@@ -3632,7 +3686,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 344,
@@ -3641,7 +3695,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 345,
@@ -3650,7 +3704,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 346,
@@ -3659,7 +3713,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 347,
@@ -3668,7 +3722,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -3686,7 +3740,7 @@
               "material_id": 55,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 349,
@@ -3695,7 +3749,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 350,
@@ -3704,7 +3758,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 351,
@@ -3713,7 +3767,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 352,
@@ -3722,7 +3776,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 353,
@@ -3731,7 +3785,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 354,
@@ -3740,7 +3794,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 355,
@@ -3749,7 +3803,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 356,
@@ -3758,7 +3812,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 357,
@@ -3767,7 +3821,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 358,
@@ -3776,7 +3830,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -3791,7 +3845,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 36,
@@ -3807,7 +3861,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 360,
@@ -3816,7 +3870,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 361,
@@ -3825,7 +3879,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 362,
@@ -3834,7 +3888,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 363,
@@ -3843,7 +3897,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 364,
@@ -3852,7 +3906,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 365,
@@ -3861,7 +3915,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 366,
@@ -3870,7 +3924,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 367,
@@ -3879,7 +3933,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -3897,7 +3951,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 369,
@@ -3906,7 +3960,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 370,
@@ -3915,7 +3969,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 371,
@@ -3924,7 +3978,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 372,
@@ -3933,7 +3987,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 373,
@@ -3942,7 +3996,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 374,
@@ -3951,7 +4005,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 375,
@@ -3960,7 +4014,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 376,
@@ -3969,7 +4023,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -3984,7 +4038,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 38,
@@ -4000,7 +4054,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 378,
@@ -4009,7 +4063,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 379,
@@ -4018,7 +4072,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 380,
@@ -4027,7 +4081,7 @@
               "material_id": 19,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 381,
@@ -4036,7 +4090,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 382,
@@ -4045,7 +4099,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 383,
@@ -4054,7 +4108,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 384,
@@ -4063,7 +4117,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 385,
@@ -4072,7 +4126,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 386,
@@ -4081,7 +4135,7 @@
               "material_id": 36,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 387,
@@ -4090,7 +4144,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 388,
@@ -4099,7 +4153,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 389,
@@ -4108,7 +4162,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 390,
@@ -4117,7 +4171,7 @@
               "material_id": 37,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 391,
@@ -4126,7 +4180,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 392,
@@ -4135,7 +4189,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 393,
@@ -4144,7 +4198,7 @@
               "material_id": 42,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 394,
@@ -4153,7 +4207,7 @@
               "material_id": 38,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 395,
@@ -4162,7 +4216,7 @@
               "material_id": 33,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 396,
@@ -4171,7 +4225,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 397,
@@ -4180,7 +4234,7 @@
               "material_id": 53,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 398,
@@ -4189,7 +4243,7 @@
               "material_id": 54,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 399,
@@ -4198,7 +4252,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4216,7 +4270,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 401,
@@ -4225,7 +4279,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 402,
@@ -4234,7 +4288,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 403,
@@ -4243,7 +4297,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 404,
@@ -4252,7 +4306,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 405,
@@ -4261,7 +4315,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 406,
@@ -4270,7 +4324,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 407,
@@ -4279,7 +4333,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 408,
@@ -4288,7 +4342,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -4303,7 +4357,7 @@
       "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 40,
@@ -4319,7 +4373,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 410,
@@ -4328,7 +4382,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4346,7 +4400,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 412,
@@ -4355,7 +4409,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -4370,7 +4424,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 42,
@@ -4386,7 +4440,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 414,
@@ -4395,7 +4449,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4413,7 +4467,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 416,
@@ -4422,7 +4476,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -4437,7 +4491,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 44,
@@ -4453,7 +4507,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 418,
@@ -4462,7 +4516,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4480,7 +4534,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 420,
@@ -4489,7 +4543,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4507,7 +4561,7 @@
               "material_id": 24,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 422,
@@ -4516,7 +4570,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -4531,7 +4585,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 47,
@@ -4547,7 +4601,7 @@
               "material_id": 55,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 424,
@@ -4556,7 +4610,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 425,
@@ -4565,7 +4619,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 426,
@@ -4574,7 +4628,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 427,
@@ -4583,7 +4637,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 428,
@@ -4592,7 +4646,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 429,
@@ -4601,7 +4655,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 430,
@@ -4610,7 +4664,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 431,
@@ -4619,7 +4673,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 432,
@@ -4628,7 +4682,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 433,
@@ -4637,7 +4691,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4655,7 +4709,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 435,
@@ -4664,7 +4718,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 436,
@@ -4673,7 +4727,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 437,
@@ -4682,7 +4736,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 438,
@@ -4691,7 +4745,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 439,
@@ -4700,7 +4754,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 440,
@@ -4709,7 +4763,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 441,
@@ -4718,7 +4772,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 442,
@@ -4727,7 +4781,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -4742,7 +4796,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 49,
@@ -4758,7 +4812,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -4773,7 +4827,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 50,
@@ -4789,7 +4843,7 @@
               "material_id": 55,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 445,
@@ -4798,7 +4852,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 446,
@@ -4807,7 +4861,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 447,
@@ -4816,7 +4870,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 448,
@@ -4825,7 +4879,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 449,
@@ -4834,7 +4888,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 450,
@@ -4843,7 +4897,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 451,
@@ -4852,7 +4906,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 452,
@@ -4861,7 +4915,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 453,
@@ -4870,7 +4924,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 454,
@@ -4879,7 +4933,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4897,7 +4951,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 456,
@@ -4906,7 +4960,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 457,
@@ -4915,7 +4969,7 @@
               "material_id": 39,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 458,
@@ -4924,7 +4978,7 @@
               "material_id": 35,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 459,
@@ -4933,7 +4987,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 460,
@@ -4942,7 +4996,7 @@
               "material_id": 46,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 461,
@@ -4951,7 +5005,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 462,
@@ -4960,7 +5014,7 @@
               "material_id": 43,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 463,
@@ -4969,7 +5023,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 464,
@@ -4978,7 +5032,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -4996,7 +5050,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 466,
@@ -5005,7 +5059,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 467,
@@ -5014,7 +5068,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 468,
@@ -5023,7 +5077,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 469,
@@ -5032,7 +5086,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 470,
@@ -5041,7 +5095,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 471,
@@ -5050,7 +5104,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 472,
@@ -5059,7 +5113,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 473,
@@ -5068,7 +5122,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -5083,7 +5137,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 53,
@@ -5099,7 +5153,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 475,
@@ -5108,7 +5162,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 476,
@@ -5117,7 +5171,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 477,
@@ -5126,7 +5180,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 478,
@@ -5135,7 +5189,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 479,
@@ -5144,7 +5198,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 480,
@@ -5153,7 +5207,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 481,
@@ -5162,7 +5216,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 482,
@@ -5171,7 +5225,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -5189,7 +5243,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 484,
@@ -5198,7 +5252,7 @@
               "material_id": 52,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 485,
@@ -5207,7 +5261,7 @@
               "material_id": 50,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 486,
@@ -5216,7 +5270,7 @@
               "material_id": 23,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 487,
@@ -5225,7 +5279,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 488,
@@ -5234,7 +5288,7 @@
               "material_id": 20,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 489,
@@ -5243,7 +5297,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 490,
@@ -5252,7 +5306,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 491,
@@ -5261,7 +5315,7 @@
               "material_id": 47,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -5276,7 +5330,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 55,
@@ -5292,7 +5346,7 @@
               "material_id": 22,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 493,
@@ -5301,7 +5355,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 494,
@@ -5310,7 +5364,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 495,
@@ -5319,7 +5373,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 496,
@@ -5328,7 +5382,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 497,
@@ -5337,7 +5391,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 498,
@@ -5346,7 +5400,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 499,
@@ -5355,7 +5409,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 500,
@@ -5364,7 +5418,7 @@
               "material_id": 59,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -5379,7 +5433,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 56,
@@ -5395,7 +5449,7 @@
               "material_id": 22,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 502,
@@ -5404,7 +5458,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 503,
@@ -5413,7 +5467,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 504,
@@ -5422,7 +5476,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 505,
@@ -5431,7 +5485,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 506,
@@ -5440,7 +5494,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 507,
@@ -5449,7 +5503,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 508,
@@ -5458,7 +5512,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 509,
@@ -5467,7 +5521,7 @@
               "material_id": 59,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -5482,7 +5536,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 57,
@@ -5498,7 +5552,7 @@
               "material_id": 22,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 511,
@@ -5507,7 +5561,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 512,
@@ -5516,7 +5570,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 513,
@@ -5525,7 +5579,7 @@
               "material_id": 40,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 514,
@@ -5534,7 +5588,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 515,
@@ -5543,7 +5597,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 516,
@@ -5552,7 +5606,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 517,
@@ -5561,7 +5615,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 518,
@@ -5570,7 +5624,7 @@
               "material_id": 59,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -5585,7 +5639,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 58,
@@ -5601,7 +5655,7 @@
               "material_id": 22,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 520,
@@ -5610,7 +5664,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 521,
@@ -5619,7 +5673,7 @@
               "material_id": 44,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 522,
@@ -5628,7 +5682,7 @@
               "material_id": 45,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 523,
@@ -5637,7 +5691,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 524,
@@ -5646,7 +5700,7 @@
               "material_id": 26,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
@@ -5661,7 +5715,7 @@
       "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-16 10:27:51",
+      "synced_at": "2026-07-24 02:11:10",
       "items": [
         {
           "id": 59,
@@ -5677,7 +5731,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 526,
@@ -5686,7 +5740,7 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         },
@@ -5704,7 +5758,7 @@
               "material_id": 21,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             },
             {
               "id": 528,
@@ -5713,13 +5767,13 @@
               "material_id": 25,
               "status": "pending",
               "expected_date": "",
-              "updated_at": "2026-07-16 10:27:51"
+              "updated_at": "2026-07-24 02:11:10"
             }
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-07-24T02:00:02.484Z",
+  "timestamp": "2026-07-24T02:11:10.651Z",
   "version": 1
 }
