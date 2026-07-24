@@ -90,7 +90,9 @@
           "material_id": 26,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -223,7 +225,9 @@
           "material_id": 22,
           "spec": "晨丰8191-5纸",
           "quantity_per_unit": 0.25,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 3,
@@ -232,7 +236,9 @@
           "material_id": 25,
           "spec": "21厘0.8厚8191-5",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 4,
@@ -241,7 +247,9 @@
           "material_id": 40,
           "spec": "5＃",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 5,
@@ -250,7 +258,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 6,
@@ -259,7 +269,9 @@
           "material_id": 45,
           "spec": "m6矮扁头调节脚",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 7,
@@ -268,7 +280,9 @@
           "material_id": 44,
           "spec": "m6*15",
           "quantity_per_unit": 8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 8,
@@ -277,7 +291,9 @@
           "material_id": 26,
           "spec": "M6*40倒边黑色",
           "quantity_per_unit": 8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 9,
@@ -286,7 +302,9 @@
           "material_id": 26,
           "spec": "M8*50柱头黑色",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 10,
@@ -295,7 +313,9 @@
           "material_id": 59,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -428,7 +448,9 @@
           "material_id": 24,
           "spec": "水泥灰刨花板浮雕",
           "quantity_per_unit": 0.5,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 12,
@@ -437,7 +459,9 @@
           "material_id": 21,
           "spec": "水泥灰三胺板浮雕",
           "quantity_per_unit": 0.657,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 13,
@@ -446,7 +470,9 @@
           "material_id": 21,
           "spec": "印尼灰三胺板",
           "quantity_per_unit": 0.28,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 14,
@@ -455,7 +481,9 @@
           "material_id": 19,
           "spec": "水泥灰三胺板浮雕",
           "quantity_per_unit": 0.1428,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 15,
@@ -464,7 +492,9 @@
           "material_id": 25,
           "spec": "18宽水泥灰0.8厚",
           "quantity_per_unit": 26.8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 16,
@@ -473,7 +503,9 @@
           "material_id": 25,
           "spec": "28宽水泥灰0.8厚",
           "quantity_per_unit": 6.8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 17,
@@ -482,7 +514,9 @@
           "material_id": 25,
           "spec": "18厚印尼灰0.8厚",
           "quantity_per_unit": 9.16,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 18,
@@ -491,7 +525,9 @@
           "material_id": 46,
           "spec": "8*30",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 19,
@@ -500,7 +536,9 @@
           "material_id": 26,
           "spec": "M6*55",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 20,
@@ -509,7 +547,9 @@
           "material_id": 36,
           "spec": "短款28",
           "quantity_per_unit": 52,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 21,
@@ -518,7 +558,9 @@
           "material_id": 43,
           "spec": "3.5*40",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 22,
@@ -527,7 +569,9 @@
           "material_id": 43,
           "spec": "3.5*14",
           "quantity_per_unit": 36,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 23,
@@ -536,7 +580,9 @@
           "material_id": 43,
           "spec": "3.5*50",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 24,
@@ -545,7 +591,9 @@
           "material_id": 37,
           "spec": "直径10*10",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 25,
@@ -554,7 +602,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 26,
@@ -563,7 +613,9 @@
           "material_id": 26,
           "spec": "M6*50",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 27,
@@ -572,7 +624,9 @@
           "material_id": 42,
           "spec": "96孔距",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 28,
@@ -581,7 +635,9 @@
           "material_id": 38,
           "spec": "直弯",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 29,
@@ -590,7 +646,9 @@
           "material_id": 33,
           "spec": "10寸",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 30,
@@ -599,7 +657,9 @@
           "material_id": 45,
           "spec": "M6*18",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 31,
@@ -608,7 +668,9 @@
           "material_id": 53,
           "spec": "直径13白色",
           "quantity_per_unit": 6,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 32,
@@ -617,7 +679,9 @@
           "material_id": 54,
           "spec": "M4*20拉手螺丝",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 33,
@@ -626,7 +690,9 @@
           "material_id": 44,
           "spec": "M6*15",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -759,7 +825,9 @@
           "material_id": 55,
           "spec": "M6*12母螺丝",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 35,
@@ -768,7 +836,9 @@
           "material_id": 26,
           "spec": "M6*12子螺丝",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 36,
@@ -777,7 +847,9 @@
           "material_id": 21,
           "spec": "黑色麻面三胺板麻面",
           "quantity_per_unit": 0.192,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 37,
@@ -786,7 +858,9 @@
           "material_id": 44,
           "spec": "M6*12",
           "quantity_per_unit": 8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 38,
@@ -795,7 +869,9 @@
           "material_id": 45,
           "spec": "M6*18黑色",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 39,
@@ -804,7 +880,9 @@
           "material_id": 25,
           "spec": "18宽*0.8厚黑色封边条",
           "quantity_per_unit": 6.1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 40,
@@ -813,7 +891,9 @@
           "material_id": 26,
           "spec": "M6*30黑色",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 41,
@@ -822,7 +902,9 @@
           "material_id": 39,
           "spec": "M7*38",
           "quantity_per_unit": 7,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 42,
@@ -831,7 +913,9 @@
           "material_id": 25,
           "spec": "18宽*0.8厚木纹6606",
           "quantity_per_unit": 2.1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 43,
@@ -840,7 +924,9 @@
           "material_id": 21,
           "spec": "双细麻黄山纹137-42哑光面",
           "quantity_per_unit": 0.034,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 44,
@@ -849,7 +935,9 @@
           "material_id": 35,
           "spec": "短款28",
           "quantity_per_unit": 5,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -982,7 +1070,9 @@
           "material_id": 26,
           "spec": "M6*12黑色螺丝",
           "quantity_per_unit": 10,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 46,
@@ -991,7 +1081,9 @@
           "material_id": 26,
           "spec": "M6*30黑色螺丝",
           "quantity_per_unit": 18,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 47,
@@ -1000,7 +1092,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 48,
@@ -1009,7 +1103,9 @@
           "material_id": 45,
           "spec": "M6*18黑色20直径",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 49,
@@ -1018,7 +1114,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 50,
@@ -1027,7 +1125,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 51,
@@ -1036,7 +1136,9 @@
           "material_id": 25,
           "spec": "18宽0.8厚PC5093",
           "quantity_per_unit": 6.2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 52,
@@ -1045,7 +1147,9 @@
           "material_id": 21,
           "spec": "1285胡桃三胺板浮雕",
           "quantity_per_unit": 0.42,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 53,
@@ -1054,7 +1158,9 @@
           "material_id": 44,
           "spec": "M6*12",
           "quantity_per_unit": 22,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -1187,7 +1293,9 @@
           "material_id": 26,
           "spec": "M6*10黑色",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 55,
@@ -1196,7 +1304,9 @@
           "material_id": 25,
           "spec": "PC5098",
           "quantity_per_unit": 22.6,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 56,
@@ -1205,7 +1315,9 @@
           "material_id": 19,
           "spec": "1285胡桃双面三胺板浮雕",
           "quantity_per_unit": 0.084,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 57,
@@ -1214,7 +1326,9 @@
           "material_id": 21,
           "spec": "1285胡桃双面三胺板",
           "quantity_per_unit": 0.99,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 58,
@@ -1223,7 +1337,9 @@
           "material_id": 46,
           "spec": "直径8*30",
           "quantity_per_unit": 6,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 59,
@@ -1232,7 +1348,9 @@
           "material_id": 39,
           "spec": "M7*50黑色",
           "quantity_per_unit": 10,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 60,
@@ -1241,7 +1359,9 @@
           "material_id": 37,
           "spec": "",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 61,
@@ -1250,7 +1370,9 @@
           "material_id": 36,
           "spec": "长款32",
           "quantity_per_unit": 18,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 62,
@@ -1259,7 +1381,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 63,
@@ -1268,7 +1392,9 @@
           "material_id": 41,
           "spec": "96孔距120总长带圆角黑色",
           "quantity_per_unit": 2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 64,
@@ -1277,7 +1403,9 @@
           "material_id": 44,
           "spec": "M6*12",
           "quantity_per_unit": 15,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 65,
@@ -1286,7 +1414,9 @@
           "material_id": 45,
           "spec": "20直径M6*18黑色",
           "quantity_per_unit": 7,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 66,
@@ -1295,7 +1425,9 @@
           "material_id": 47,
           "spec": "带牙管塞20*20/M6黑色",
           "quantity_per_unit": 5,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 67,
@@ -1304,7 +1436,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 68,
@@ -1313,7 +1447,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 69,
@@ -1322,7 +1458,9 @@
           "material_id": 33,
           "spec": "12寸",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 70,
@@ -1331,7 +1469,9 @@
           "material_id": 26,
           "spec": "M6*30黑色",
           "quantity_per_unit": 21,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -1464,7 +1604,9 @@
           "material_id": 25,
           "spec": "18宽0.8厚木纹6606",
           "quantity_per_unit": 6.65,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 72,
@@ -1473,7 +1615,9 @@
           "material_id": 21,
           "spec": "双细麻黄山纹137-42",
           "quantity_per_unit": 0.237,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 73,
@@ -1482,7 +1626,9 @@
           "material_id": 39,
           "spec": "M7*38镀白锌",
           "quantity_per_unit": 6,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 74,
@@ -1491,7 +1637,9 @@
           "material_id": 35,
           "spec": "38长自攻牙红色",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 75,
@@ -1500,7 +1648,9 @@
           "material_id": 45,
           "spec": "M6*18黑色直径22",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 76,
@@ -1509,7 +1659,9 @@
           "material_id": 46,
           "spec": "8*30",
           "quantity_per_unit": 2,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 77,
@@ -1518,7 +1670,9 @@
           "material_id": 26,
           "spec": "M6*40镀白锌",
           "quantity_per_unit": 6,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 78,
@@ -1527,7 +1681,9 @@
           "material_id": 43,
           "spec": "M3.5*25镀白锌",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 79,
@@ -1536,7 +1692,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 80,
@@ -1545,7 +1703,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -1801,7 +1961,9 @@
           "material_id": 25,
           "spec": "七里槐香木纹",
           "quantity_per_unit": 4.4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 82,
@@ -1810,7 +1972,9 @@
           "material_id": 24,
           "spec": "七里槐香25双面",
           "quantity_per_unit": 0.5,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 83,
@@ -1819,7 +1983,9 @@
           "material_id": 44,
           "spec": "M6*15",
           "quantity_per_unit": 8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 84,
@@ -1828,7 +1994,9 @@
           "material_id": 26,
           "spec": "M6*10镀镍",
           "quantity_per_unit": 18,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 85,
@@ -1837,7 +2005,9 @@
           "material_id": 26,
           "spec": "M6*30",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 86,
@@ -1846,7 +2016,9 @@
           "material_id": 45,
           "spec": "M6*10黑色",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 87,
@@ -1855,7 +2027,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 88,
@@ -1864,7 +2038,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 89,
@@ -1873,7 +2049,9 @@
           "material_id": 51,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 90,
@@ -1882,7 +2060,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -2015,7 +2195,9 @@
           "material_id": 23,
           "spec": "素板680密度",
           "quantity_per_unit": 0.09,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 92,
@@ -2024,7 +2206,9 @@
           "material_id": 25,
           "spec": "42宽0.8厚暖白",
           "quantity_per_unit": 3.4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 93,
@@ -2033,7 +2217,9 @@
           "material_id": 20,
           "spec": "单面暖白",
           "quantity_per_unit": 0.5,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 94,
@@ -2042,7 +2228,9 @@
           "material_id": 26,
           "spec": "M6*16镀镍",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 95,
@@ -2051,7 +2239,9 @@
           "material_id": 40,
           "spec": "4#镀白锌",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 96,
@@ -2060,7 +2250,9 @@
           "material_id": 44,
           "spec": "M6*15镀彩锌",
           "quantity_per_unit": 12,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 97,
@@ -2069,7 +2261,9 @@
           "material_id": 47,
           "spec": "圆直径38",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 98,
@@ -2078,7 +2272,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 99,
@@ -2087,7 +2283,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -2343,7 +2541,9 @@
           "material_id": 56,
           "spec": "素板",
           "quantity_per_unit": 0.18,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 101,
@@ -2352,7 +2552,9 @@
           "material_id": 19,
           "spec": "七里槐香",
           "quantity_per_unit": 2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 102,
@@ -2361,7 +2563,9 @@
           "material_id": 26,
           "spec": "M6*10黑色",
           "quantity_per_unit": 16,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 103,
@@ -2370,7 +2574,9 @@
           "material_id": 26,
           "spec": "M6*30黑色",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 104,
@@ -2379,7 +2585,9 @@
           "material_id": 26,
           "spec": "M6*50黑色",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 105,
@@ -2388,7 +2596,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 106,
@@ -2397,7 +2607,9 @@
           "material_id": 45,
           "spec": "M8*15黑色",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -2530,7 +2742,9 @@
           "material_id": 37,
           "spec": "",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 108,
@@ -2539,7 +2753,9 @@
           "material_id": 36,
           "spec": "全金属三合一",
           "quantity_per_unit": 8,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 109,
@@ -2548,7 +2764,9 @@
           "material_id": 46,
           "spec": "8*30常备物料",
           "quantity_per_unit": 20,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 110,
@@ -2557,7 +2775,9 @@
           "material_id": 26,
           "spec": "M6*12",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 111,
@@ -2566,7 +2786,9 @@
           "material_id": 36,
           "spec": "长款",
           "quantity_per_unit": 30,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 112,
@@ -2575,7 +2797,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 113,
@@ -2584,7 +2808,9 @@
           "material_id": 44,
           "spec": "M6",
           "quantity_per_unit": 8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 114,
@@ -2593,7 +2819,9 @@
           "material_id": 47,
           "spec": "25*25白色带牙M8",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 115,
@@ -2602,7 +2830,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 116,
@@ -2611,7 +2841,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 117,
@@ -2620,7 +2852,9 @@
           "material_id": 57,
           "spec": "常备材料",
           "quantity_per_unit": 20,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 118,
@@ -2629,7 +2863,9 @@
           "material_id": 58,
           "spec": "",
           "quantity_per_unit": 3.56,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -3131,7 +3367,9 @@
           "material_id": 44,
           "spec": "M6*15镀彩锌",
           "quantity_per_unit": 12,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 120,
@@ -3140,7 +3378,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 121,
@@ -3149,7 +3389,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 122,
@@ -3158,7 +3400,9 @@
           "material_id": 23,
           "spec": "1200mm*2440mm素板",
           "quantity_per_unit": 0.1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 123,
@@ -3167,7 +3411,9 @@
           "material_id": 25,
           "spec": "暖白41宽0.8厚",
           "quantity_per_unit": 3.8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 124,
@@ -3176,7 +3422,9 @@
           "material_id": 20,
           "spec": "单面暖白麻面",
           "quantity_per_unit": 0.5,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 125,
@@ -3185,7 +3433,9 @@
           "material_id": 26,
           "spec": "倒边内六角镀镍M6*16",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 126,
@@ -3194,7 +3444,9 @@
           "material_id": 40,
           "spec": "4#镀白锌",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 127,
@@ -3203,7 +3455,9 @@
           "material_id": 47,
           "spec": "圆直径38",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -3336,7 +3590,9 @@
           "material_id": 22,
           "spec": "绒面",
           "quantity_per_unit": 0.5,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 129,
@@ -3345,7 +3601,9 @@
           "material_id": 25,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 130,
@@ -3354,7 +3612,9 @@
           "material_id": 52,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 131,
@@ -3363,7 +3623,9 @@
           "material_id": 50,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -3496,7 +3758,9 @@
           "material_id": 47,
           "spec": "50直径黑色pvc软胶",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 133,
@@ -3505,7 +3769,9 @@
           "material_id": 25,
           "spec": "28宽科技木PC5094",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 134,
@@ -3514,7 +3780,9 @@
           "material_id": 24,
           "spec": "晨丰科技木8260光面",
           "quantity_per_unit": 0.25,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 135,
@@ -3523,7 +3791,9 @@
           "material_id": 26,
           "spec": "m6*15镀镍",
           "quantity_per_unit": 12,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 136,
@@ -3532,7 +3802,9 @@
           "material_id": 40,
           "spec": "4＃镀锌",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 137,
@@ -3541,7 +3813,9 @@
           "material_id": 44,
           "spec": "M6*15",
           "quantity_per_unit": 12,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -3674,7 +3948,9 @@
           "material_id": 24,
           "spec": "8191-5纸",
           "quantity_per_unit": 1.95,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 139,
@@ -3683,7 +3959,9 @@
           "material_id": 25,
           "spec": "8191-5",
           "quantity_per_unit": 1.95,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 140,
@@ -3692,7 +3970,9 @@
           "material_id": 45,
           "spec": "M6*6黑色直径22",
           "quantity_per_unit": 5,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 141,
@@ -3701,7 +3981,9 @@
           "material_id": 26,
           "spec": "黑色M6*12",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 142,
@@ -3710,7 +3992,9 @@
           "material_id": 26,
           "spec": "M6*24沉头黑色",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 143,
@@ -3719,7 +4003,9 @@
           "material_id": 26,
           "spec": "M6*20倒边黑色",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 144,
@@ -3728,7 +4014,9 @@
           "material_id": 40,
           "spec": "4#黑色",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -3861,7 +4149,9 @@
           "material_id": 22,
           "spec": "1285木纹双面三胺板",
           "quantity_per_unit": 0.25,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 146,
@@ -3870,7 +4160,9 @@
           "material_id": 25,
           "spec": "21宽0.8厚",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 147,
@@ -3879,7 +4171,9 @@
           "material_id": 44,
           "spec": "M6",
           "quantity_per_unit": 20,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 148,
@@ -3888,7 +4182,9 @@
           "material_id": 45,
           "spec": "M6*18大脚粒",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 149,
@@ -3897,7 +4193,9 @@
           "material_id": 26,
           "spec": "M6*12镀镍",
           "quantity_per_unit": 16,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 150,
@@ -3906,7 +4204,9 @@
           "material_id": 26,
           "spec": "m6*30",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -4162,7 +4462,9 @@
           "material_id": 22,
           "spec": "8191-5纸",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 152,
@@ -4171,7 +4473,9 @@
           "material_id": 22,
           "spec": "黑色",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 153,
@@ -4180,7 +4484,9 @@
           "material_id": 25,
           "spec": "8919-5",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 154,
@@ -4189,7 +4495,9 @@
           "material_id": 25,
           "spec": "黑色",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -4322,7 +4630,9 @@
           "material_id": 22,
           "spec": "8191-5纸",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 156,
@@ -4331,7 +4641,9 @@
           "material_id": 22,
           "spec": "双面黑麻",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 157,
@@ -4340,7 +4652,9 @@
           "material_id": 25,
           "spec": "21宽8191-5",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 158,
@@ -4349,7 +4663,9 @@
           "material_id": 25,
           "spec": "21黑色",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -4482,7 +4798,9 @@
           "material_id": 23,
           "spec": "8202-1纸",
           "quantity_per_unit": 0.125,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 160,
@@ -4491,7 +4809,9 @@
           "material_id": 25,
           "spec": "8202-1",
           "quantity_per_unit": 3,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 161,
@@ -4500,7 +4820,9 @@
           "material_id": 26,
           "spec": "M6*24沉头黑色",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 162,
@@ -4509,7 +4831,9 @@
           "material_id": 26,
           "spec": "M6*20倒边黑色",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 163,
@@ -4518,7 +4842,9 @@
           "material_id": 26,
           "spec": "M6*12倒边黑色",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 164,
@@ -4527,7 +4853,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 165,
@@ -4536,7 +4864,9 @@
           "material_id": 45,
           "spec": "M6*12黑色直径22",
           "quantity_per_unit": 5,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -4669,7 +4999,9 @@
           "material_id": 25,
           "spec": "8202-1纸",
           "quantity_per_unit": 0.34,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 167,
@@ -4678,7 +5010,9 @@
           "material_id": 24,
           "spec": "8202-1   28宽1.5厚",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 168,
@@ -4687,7 +5021,9 @@
           "material_id": 26,
           "spec": "M6*24沉头黑色",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 169,
@@ -4696,7 +5032,9 @@
           "material_id": 26,
           "spec": "M6*20倒边黑色",
           "quantity_per_unit": 3,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 170,
@@ -4705,7 +5043,9 @@
           "material_id": 26,
           "spec": "M6*12倒边黑色",
           "quantity_per_unit": 4,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 171,
@@ -4714,7 +5054,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 172,
@@ -4723,7 +5065,9 @@
           "material_id": 45,
           "spec": "M6*6黑色",
           "quantity_per_unit": 5,
-          "group_type": "kit"
+          "group_type": "kit",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -4979,7 +5323,9 @@
           "material_id": 26,
           "spec": "M6*25白锌",
           "quantity_per_unit": 3,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 179,
@@ -4988,7 +5334,9 @@
           "material_id": 26,
           "spec": "M6*12白锌",
           "quantity_per_unit": 12,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 199,
@@ -4997,7 +5345,9 @@
           "material_id": 21,
           "spec": "1285胡桃色",
           "quantity_per_unit": 0.25,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 200,
@@ -5006,7 +5356,9 @@
           "material_id": 25,
           "spec": "1285胡桃色18厘0.8厚",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 201,
@@ -5015,7 +5367,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 202,
@@ -5024,7 +5378,9 @@
           "material_id": 44,
           "spec": "M6*10",
           "quantity_per_unit": 15,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 203,
@@ -5033,7 +5389,9 @@
           "material_id": 45,
           "spec": "黑色直径28*18",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 206,
@@ -5042,7 +5400,9 @@
           "material_id": 47,
           "spec": "白色15*15*4-16",
           "quantity_per_unit": 2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 207,
@@ -5051,7 +5411,9 @@
           "material_id": 26,
           "spec": "M6*25白锌",
           "quantity_per_unit": 3,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 208,
@@ -5060,7 +5422,9 @@
           "material_id": 26,
           "spec": "M6*12白锌",
           "quantity_per_unit": 12,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -5193,7 +5557,9 @@
           "material_id": 22,
           "spec": "1200mm*2440mm",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 182,
@@ -5202,7 +5568,9 @@
           "material_id": 5,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 183,
@@ -5211,7 +5579,9 @@
           "material_id": 59,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 184,
@@ -5220,7 +5590,9 @@
           "material_id": 44,
           "spec": "M6*15",
           "quantity_per_unit": 4,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 185,
@@ -5229,7 +5601,9 @@
           "material_id": 40,
           "spec": "4#",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 186,
@@ -5238,7 +5612,9 @@
           "material_id": 26,
           "spec": "M6*16",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -5494,7 +5870,9 @@
           "material_id": 21,
           "spec": "2072-2纸锦荣-珍珠麻面",
           "quantity_per_unit": 0.125,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 188,
@@ -5503,7 +5881,9 @@
           "material_id": 25,
           "spec": "18宽0.8厚pc4295",
           "quantity_per_unit": 2.8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -5636,7 +6016,9 @@
           "material_id": 21,
           "spec": "2072-2纸锦荣-珍珠麻面",
           "quantity_per_unit": 0.125,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 190,
@@ -5645,7 +6027,9 @@
           "material_id": 25,
           "spec": "18宽0.8厚pc4295",
           "quantity_per_unit": 2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -5778,7 +6162,9 @@
           "material_id": 24,
           "spec": "2047-1哑光大理石纹麻面",
           "quantity_per_unit": 0.125,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 192,
@@ -5787,7 +6173,9 @@
           "material_id": 25,
           "spec": "PC5116-28宽0.8厚",
           "quantity_per_unit": 2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -5920,7 +6308,9 @@
           "material_id": 24,
           "spec": "2047-1大理石纹麻面",
           "quantity_per_unit": 0.125,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 194,
@@ -5929,7 +6319,9 @@
           "material_id": 25,
           "spec": "PC-5116-28宽0.8厚",
           "quantity_per_unit": 2.8,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -6062,7 +6454,9 @@
           "material_id": 24,
           "spec": "2047-1石纹麻面",
           "quantity_per_unit": 0.334,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 196,
@@ -6071,7 +6465,9 @@
           "material_id": 25,
           "spec": "PC-5116-28宽0.8厚",
           "quantity_per_unit": 3.2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -6204,7 +6600,9 @@
           "material_id": 24,
           "spec": "8275-5麻面",
           "quantity_per_unit": 0.125,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 198,
@@ -6213,7 +6611,9 @@
           "material_id": 25,
           "spec": "28宽0.8厚pc5124",
           "quantity_per_unit": 2,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -6346,7 +6746,9 @@
           "material_id": 24,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         },
         {
           "id": 210,
@@ -6355,7 +6757,9 @@
           "material_id": 25,
           "spec": "",
           "quantity_per_unit": 1,
-          "group_type": "factory"
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -14456,7 +14860,9 @@
       "material_id": 26,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 2,
@@ -14465,7 +14871,9 @@
       "material_id": 22,
       "spec": "晨丰8191-5纸",
       "quantity_per_unit": 0.25,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 3,
@@ -14474,7 +14882,9 @@
       "material_id": 25,
       "spec": "21厘0.8厚8191-5",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 4,
@@ -14483,7 +14893,9 @@
       "material_id": 40,
       "spec": "5＃",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 5,
@@ -14492,7 +14904,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 6,
@@ -14501,7 +14915,9 @@
       "material_id": 45,
       "spec": "m6矮扁头调节脚",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 7,
@@ -14510,7 +14926,9 @@
       "material_id": 44,
       "spec": "m6*15",
       "quantity_per_unit": 8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 8,
@@ -14519,7 +14937,9 @@
       "material_id": 26,
       "spec": "M6*40倒边黑色",
       "quantity_per_unit": 8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 9,
@@ -14528,7 +14948,9 @@
       "material_id": 26,
       "spec": "M8*50柱头黑色",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 10,
@@ -14537,7 +14959,9 @@
       "material_id": 59,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 11,
@@ -14546,7 +14970,9 @@
       "material_id": 24,
       "spec": "水泥灰刨花板浮雕",
       "quantity_per_unit": 0.5,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 12,
@@ -14555,7 +14981,9 @@
       "material_id": 21,
       "spec": "水泥灰三胺板浮雕",
       "quantity_per_unit": 0.657,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 13,
@@ -14564,7 +14992,9 @@
       "material_id": 21,
       "spec": "印尼灰三胺板",
       "quantity_per_unit": 0.28,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 14,
@@ -14573,7 +15003,9 @@
       "material_id": 19,
       "spec": "水泥灰三胺板浮雕",
       "quantity_per_unit": 0.1428,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 15,
@@ -14582,7 +15014,9 @@
       "material_id": 25,
       "spec": "18宽水泥灰0.8厚",
       "quantity_per_unit": 26.8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 16,
@@ -14591,7 +15025,9 @@
       "material_id": 25,
       "spec": "28宽水泥灰0.8厚",
       "quantity_per_unit": 6.8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 17,
@@ -14600,7 +15036,9 @@
       "material_id": 25,
       "spec": "18厚印尼灰0.8厚",
       "quantity_per_unit": 9.16,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 18,
@@ -14609,7 +15047,9 @@
       "material_id": 46,
       "spec": "8*30",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 19,
@@ -14618,7 +15058,9 @@
       "material_id": 26,
       "spec": "M6*55",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 20,
@@ -14627,7 +15069,9 @@
       "material_id": 36,
       "spec": "短款28",
       "quantity_per_unit": 52,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 21,
@@ -14636,7 +15080,9 @@
       "material_id": 43,
       "spec": "3.5*40",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 22,
@@ -14645,7 +15091,9 @@
       "material_id": 43,
       "spec": "3.5*14",
       "quantity_per_unit": 36,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 23,
@@ -14654,7 +15102,9 @@
       "material_id": 43,
       "spec": "3.5*50",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 24,
@@ -14663,7 +15113,9 @@
       "material_id": 37,
       "spec": "直径10*10",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 25,
@@ -14672,7 +15124,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 26,
@@ -14681,7 +15135,9 @@
       "material_id": 26,
       "spec": "M6*50",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 27,
@@ -14690,7 +15146,9 @@
       "material_id": 42,
       "spec": "96孔距",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 28,
@@ -14699,7 +15157,9 @@
       "material_id": 38,
       "spec": "直弯",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 29,
@@ -14708,7 +15168,9 @@
       "material_id": 33,
       "spec": "10寸",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 30,
@@ -14717,7 +15179,9 @@
       "material_id": 45,
       "spec": "M6*18",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 31,
@@ -14726,7 +15190,9 @@
       "material_id": 53,
       "spec": "直径13白色",
       "quantity_per_unit": 6,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 32,
@@ -14735,7 +15201,9 @@
       "material_id": 54,
       "spec": "M4*20拉手螺丝",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 33,
@@ -14744,7 +15212,9 @@
       "material_id": 44,
       "spec": "M6*15",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 34,
@@ -14753,7 +15223,9 @@
       "material_id": 55,
       "spec": "M6*12母螺丝",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 35,
@@ -14762,7 +15234,9 @@
       "material_id": 26,
       "spec": "M6*12子螺丝",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 36,
@@ -14771,7 +15245,9 @@
       "material_id": 21,
       "spec": "黑色麻面三胺板麻面",
       "quantity_per_unit": 0.192,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 37,
@@ -14780,7 +15256,9 @@
       "material_id": 44,
       "spec": "M6*12",
       "quantity_per_unit": 8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 38,
@@ -14789,7 +15267,9 @@
       "material_id": 45,
       "spec": "M6*18黑色",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 39,
@@ -14798,7 +15278,9 @@
       "material_id": 25,
       "spec": "18宽*0.8厚黑色封边条",
       "quantity_per_unit": 6.1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 40,
@@ -14807,7 +15289,9 @@
       "material_id": 26,
       "spec": "M6*30黑色",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 41,
@@ -14816,7 +15300,9 @@
       "material_id": 39,
       "spec": "M7*38",
       "quantity_per_unit": 7,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 42,
@@ -14825,7 +15311,9 @@
       "material_id": 25,
       "spec": "18宽*0.8厚木纹6606",
       "quantity_per_unit": 2.1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 43,
@@ -14834,7 +15322,9 @@
       "material_id": 21,
       "spec": "双细麻黄山纹137-42哑光面",
       "quantity_per_unit": 0.034,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 44,
@@ -14843,7 +15333,9 @@
       "material_id": 35,
       "spec": "短款28",
       "quantity_per_unit": 5,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 45,
@@ -14852,7 +15344,9 @@
       "material_id": 26,
       "spec": "M6*12黑色螺丝",
       "quantity_per_unit": 10,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 46,
@@ -14861,7 +15355,9 @@
       "material_id": 26,
       "spec": "M6*30黑色螺丝",
       "quantity_per_unit": 18,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 47,
@@ -14870,7 +15366,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 48,
@@ -14879,7 +15377,9 @@
       "material_id": 45,
       "spec": "M6*18黑色20直径",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 49,
@@ -14888,7 +15388,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 50,
@@ -14897,7 +15399,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 51,
@@ -14906,7 +15410,9 @@
       "material_id": 25,
       "spec": "18宽0.8厚PC5093",
       "quantity_per_unit": 6.2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 52,
@@ -14915,7 +15421,9 @@
       "material_id": 21,
       "spec": "1285胡桃三胺板浮雕",
       "quantity_per_unit": 0.42,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 53,
@@ -14924,7 +15432,9 @@
       "material_id": 44,
       "spec": "M6*12",
       "quantity_per_unit": 22,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 54,
@@ -14933,7 +15443,9 @@
       "material_id": 26,
       "spec": "M6*10黑色",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 55,
@@ -14942,7 +15454,9 @@
       "material_id": 25,
       "spec": "PC5098",
       "quantity_per_unit": 22.6,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 56,
@@ -14951,7 +15465,9 @@
       "material_id": 19,
       "spec": "1285胡桃双面三胺板浮雕",
       "quantity_per_unit": 0.084,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 57,
@@ -14960,7 +15476,9 @@
       "material_id": 21,
       "spec": "1285胡桃双面三胺板",
       "quantity_per_unit": 0.99,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 58,
@@ -14969,7 +15487,9 @@
       "material_id": 46,
       "spec": "直径8*30",
       "quantity_per_unit": 6,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 59,
@@ -14978,7 +15498,9 @@
       "material_id": 39,
       "spec": "M7*50黑色",
       "quantity_per_unit": 10,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 60,
@@ -14987,7 +15509,9 @@
       "material_id": 37,
       "spec": "",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 61,
@@ -14996,7 +15520,9 @@
       "material_id": 36,
       "spec": "长款32",
       "quantity_per_unit": 18,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 62,
@@ -15005,7 +15531,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 63,
@@ -15014,7 +15542,9 @@
       "material_id": 41,
       "spec": "96孔距120总长带圆角黑色",
       "quantity_per_unit": 2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 64,
@@ -15023,7 +15553,9 @@
       "material_id": 44,
       "spec": "M6*12",
       "quantity_per_unit": 15,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 65,
@@ -15032,7 +15564,9 @@
       "material_id": 45,
       "spec": "20直径M6*18黑色",
       "quantity_per_unit": 7,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 66,
@@ -15041,7 +15575,9 @@
       "material_id": 47,
       "spec": "带牙管塞20*20/M6黑色",
       "quantity_per_unit": 5,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 67,
@@ -15050,7 +15586,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 68,
@@ -15059,7 +15597,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 69,
@@ -15068,7 +15608,9 @@
       "material_id": 33,
       "spec": "12寸",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 70,
@@ -15077,7 +15619,9 @@
       "material_id": 26,
       "spec": "M6*30黑色",
       "quantity_per_unit": 21,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 71,
@@ -15086,7 +15630,9 @@
       "material_id": 25,
       "spec": "18宽0.8厚木纹6606",
       "quantity_per_unit": 6.65,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 72,
@@ -15095,7 +15641,9 @@
       "material_id": 21,
       "spec": "双细麻黄山纹137-42",
       "quantity_per_unit": 0.237,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 73,
@@ -15104,7 +15652,9 @@
       "material_id": 39,
       "spec": "M7*38镀白锌",
       "quantity_per_unit": 6,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 74,
@@ -15113,7 +15663,9 @@
       "material_id": 35,
       "spec": "38长自攻牙红色",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 75,
@@ -15122,7 +15674,9 @@
       "material_id": 45,
       "spec": "M6*18黑色直径22",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 76,
@@ -15131,7 +15685,9 @@
       "material_id": 46,
       "spec": "8*30",
       "quantity_per_unit": 2,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 77,
@@ -15140,7 +15696,9 @@
       "material_id": 26,
       "spec": "M6*40镀白锌",
       "quantity_per_unit": 6,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 78,
@@ -15149,7 +15707,9 @@
       "material_id": 43,
       "spec": "M3.5*25镀白锌",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 79,
@@ -15158,7 +15718,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 80,
@@ -15167,7 +15729,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 81,
@@ -15176,7 +15740,9 @@
       "material_id": 25,
       "spec": "七里槐香木纹",
       "quantity_per_unit": 4.4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 82,
@@ -15185,7 +15751,9 @@
       "material_id": 24,
       "spec": "七里槐香25双面",
       "quantity_per_unit": 0.5,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 83,
@@ -15194,7 +15762,9 @@
       "material_id": 44,
       "spec": "M6*15",
       "quantity_per_unit": 8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 84,
@@ -15203,7 +15773,9 @@
       "material_id": 26,
       "spec": "M6*10镀镍",
       "quantity_per_unit": 18,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 85,
@@ -15212,7 +15784,9 @@
       "material_id": 26,
       "spec": "M6*30",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 86,
@@ -15221,7 +15795,9 @@
       "material_id": 45,
       "spec": "M6*10黑色",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 87,
@@ -15230,7 +15806,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 88,
@@ -15239,7 +15817,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 89,
@@ -15248,7 +15828,9 @@
       "material_id": 51,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 90,
@@ -15257,7 +15839,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 91,
@@ -15266,7 +15850,9 @@
       "material_id": 23,
       "spec": "素板680密度",
       "quantity_per_unit": 0.09,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 92,
@@ -15275,7 +15861,9 @@
       "material_id": 25,
       "spec": "42宽0.8厚暖白",
       "quantity_per_unit": 3.4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 93,
@@ -15284,7 +15872,9 @@
       "material_id": 20,
       "spec": "单面暖白",
       "quantity_per_unit": 0.5,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 94,
@@ -15293,7 +15883,9 @@
       "material_id": 26,
       "spec": "M6*16镀镍",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 95,
@@ -15302,7 +15894,9 @@
       "material_id": 40,
       "spec": "4#镀白锌",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 96,
@@ -15311,7 +15905,9 @@
       "material_id": 44,
       "spec": "M6*15镀彩锌",
       "quantity_per_unit": 12,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 97,
@@ -15320,7 +15916,9 @@
       "material_id": 47,
       "spec": "圆直径38",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 98,
@@ -15329,7 +15927,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 99,
@@ -15338,7 +15938,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 100,
@@ -15347,7 +15949,9 @@
       "material_id": 56,
       "spec": "素板",
       "quantity_per_unit": 0.18,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 101,
@@ -15356,7 +15960,9 @@
       "material_id": 19,
       "spec": "七里槐香",
       "quantity_per_unit": 2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 102,
@@ -15365,7 +15971,9 @@
       "material_id": 26,
       "spec": "M6*10黑色",
       "quantity_per_unit": 16,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 103,
@@ -15374,7 +15982,9 @@
       "material_id": 26,
       "spec": "M6*30黑色",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 104,
@@ -15383,7 +15993,9 @@
       "material_id": 26,
       "spec": "M6*50黑色",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 105,
@@ -15392,7 +16004,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 106,
@@ -15401,7 +16015,9 @@
       "material_id": 45,
       "spec": "M8*15黑色",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 107,
@@ -15410,7 +16026,9 @@
       "material_id": 37,
       "spec": "",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 108,
@@ -15419,7 +16037,9 @@
       "material_id": 36,
       "spec": "全金属三合一",
       "quantity_per_unit": 8,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 109,
@@ -15428,7 +16048,9 @@
       "material_id": 46,
       "spec": "8*30常备物料",
       "quantity_per_unit": 20,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 110,
@@ -15437,7 +16059,9 @@
       "material_id": 26,
       "spec": "M6*12",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 111,
@@ -15446,7 +16070,9 @@
       "material_id": 36,
       "spec": "长款",
       "quantity_per_unit": 30,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 112,
@@ -15455,7 +16081,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 113,
@@ -15464,7 +16092,9 @@
       "material_id": 44,
       "spec": "M6",
       "quantity_per_unit": 8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 114,
@@ -15473,7 +16103,9 @@
       "material_id": 47,
       "spec": "25*25白色带牙M8",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 115,
@@ -15482,7 +16114,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 116,
@@ -15491,7 +16125,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 117,
@@ -15500,7 +16136,9 @@
       "material_id": 57,
       "spec": "常备材料",
       "quantity_per_unit": 20,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 118,
@@ -15509,7 +16147,9 @@
       "material_id": 58,
       "spec": "",
       "quantity_per_unit": 3.56,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 119,
@@ -15518,7 +16158,9 @@
       "material_id": 44,
       "spec": "M6*15镀彩锌",
       "quantity_per_unit": 12,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 120,
@@ -15527,7 +16169,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 121,
@@ -15536,7 +16180,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 122,
@@ -15545,7 +16191,9 @@
       "material_id": 23,
       "spec": "1200mm*2440mm素板",
       "quantity_per_unit": 0.1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 123,
@@ -15554,7 +16202,9 @@
       "material_id": 25,
       "spec": "暖白41宽0.8厚",
       "quantity_per_unit": 3.8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 124,
@@ -15563,7 +16213,9 @@
       "material_id": 20,
       "spec": "单面暖白麻面",
       "quantity_per_unit": 0.5,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 125,
@@ -15572,7 +16224,9 @@
       "material_id": 26,
       "spec": "倒边内六角镀镍M6*16",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 126,
@@ -15581,7 +16235,9 @@
       "material_id": 40,
       "spec": "4#镀白锌",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 127,
@@ -15590,7 +16246,9 @@
       "material_id": 47,
       "spec": "圆直径38",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 128,
@@ -15599,7 +16257,9 @@
       "material_id": 22,
       "spec": "绒面",
       "quantity_per_unit": 0.5,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 129,
@@ -15608,7 +16268,9 @@
       "material_id": 25,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 130,
@@ -15617,7 +16279,9 @@
       "material_id": 52,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 131,
@@ -15626,7 +16290,9 @@
       "material_id": 50,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 132,
@@ -15635,7 +16301,9 @@
       "material_id": 47,
       "spec": "50直径黑色pvc软胶",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 133,
@@ -15644,7 +16312,9 @@
       "material_id": 25,
       "spec": "28宽科技木PC5094",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 134,
@@ -15653,7 +16323,9 @@
       "material_id": 24,
       "spec": "晨丰科技木8260光面",
       "quantity_per_unit": 0.25,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 135,
@@ -15662,7 +16334,9 @@
       "material_id": 26,
       "spec": "m6*15镀镍",
       "quantity_per_unit": 12,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 136,
@@ -15671,7 +16345,9 @@
       "material_id": 40,
       "spec": "4＃镀锌",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 137,
@@ -15680,7 +16356,9 @@
       "material_id": 44,
       "spec": "M6*15",
       "quantity_per_unit": 12,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 138,
@@ -15689,7 +16367,9 @@
       "material_id": 24,
       "spec": "8191-5纸",
       "quantity_per_unit": 1.95,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 139,
@@ -15698,7 +16378,9 @@
       "material_id": 25,
       "spec": "8191-5",
       "quantity_per_unit": 1.95,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 140,
@@ -15707,7 +16389,9 @@
       "material_id": 45,
       "spec": "M6*6黑色直径22",
       "quantity_per_unit": 5,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 141,
@@ -15716,7 +16400,9 @@
       "material_id": 26,
       "spec": "黑色M6*12",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 142,
@@ -15725,7 +16411,9 @@
       "material_id": 26,
       "spec": "M6*24沉头黑色",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 143,
@@ -15734,7 +16422,9 @@
       "material_id": 26,
       "spec": "M6*20倒边黑色",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 144,
@@ -15743,7 +16433,9 @@
       "material_id": 40,
       "spec": "4#黑色",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 145,
@@ -15752,7 +16444,9 @@
       "material_id": 22,
       "spec": "1285木纹双面三胺板",
       "quantity_per_unit": 0.25,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 146,
@@ -15761,7 +16455,9 @@
       "material_id": 25,
       "spec": "21宽0.8厚",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 147,
@@ -15770,7 +16466,9 @@
       "material_id": 44,
       "spec": "M6",
       "quantity_per_unit": 20,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 148,
@@ -15779,7 +16477,9 @@
       "material_id": 45,
       "spec": "M6*18大脚粒",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 149,
@@ -15788,7 +16488,9 @@
       "material_id": 26,
       "spec": "M6*12镀镍",
       "quantity_per_unit": 16,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 150,
@@ -15797,7 +16499,9 @@
       "material_id": 26,
       "spec": "m6*30",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 151,
@@ -15806,7 +16510,9 @@
       "material_id": 22,
       "spec": "8191-5纸",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 152,
@@ -15815,7 +16521,9 @@
       "material_id": 22,
       "spec": "黑色",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 153,
@@ -15824,7 +16532,9 @@
       "material_id": 25,
       "spec": "8919-5",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 154,
@@ -15833,7 +16543,9 @@
       "material_id": 25,
       "spec": "黑色",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 155,
@@ -15842,7 +16554,9 @@
       "material_id": 22,
       "spec": "8191-5纸",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 156,
@@ -15851,7 +16565,9 @@
       "material_id": 22,
       "spec": "双面黑麻",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 157,
@@ -15860,7 +16576,9 @@
       "material_id": 25,
       "spec": "21宽8191-5",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 158,
@@ -15869,7 +16587,9 @@
       "material_id": 25,
       "spec": "21黑色",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 159,
@@ -15878,7 +16598,9 @@
       "material_id": 23,
       "spec": "8202-1纸",
       "quantity_per_unit": 0.125,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 160,
@@ -15887,7 +16609,9 @@
       "material_id": 25,
       "spec": "8202-1",
       "quantity_per_unit": 3,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 161,
@@ -15896,7 +16620,9 @@
       "material_id": 26,
       "spec": "M6*24沉头黑色",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 162,
@@ -15905,7 +16631,9 @@
       "material_id": 26,
       "spec": "M6*20倒边黑色",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 163,
@@ -15914,7 +16642,9 @@
       "material_id": 26,
       "spec": "M6*12倒边黑色",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 164,
@@ -15923,7 +16653,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 165,
@@ -15932,7 +16664,9 @@
       "material_id": 45,
       "spec": "M6*12黑色直径22",
       "quantity_per_unit": 5,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 166,
@@ -15941,7 +16675,9 @@
       "material_id": 25,
       "spec": "8202-1纸",
       "quantity_per_unit": 0.34,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 167,
@@ -15950,7 +16686,9 @@
       "material_id": 24,
       "spec": "8202-1   28宽1.5厚",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 168,
@@ -15959,7 +16697,9 @@
       "material_id": 26,
       "spec": "M6*24沉头黑色",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 169,
@@ -15968,7 +16708,9 @@
       "material_id": 26,
       "spec": "M6*20倒边黑色",
       "quantity_per_unit": 3,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 170,
@@ -15977,7 +16719,9 @@
       "material_id": 26,
       "spec": "M6*12倒边黑色",
       "quantity_per_unit": 4,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 171,
@@ -15986,7 +16730,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 172,
@@ -15995,7 +16741,9 @@
       "material_id": 45,
       "spec": "M6*6黑色",
       "quantity_per_unit": 5,
-      "group_type": "kit"
+      "group_type": "kit",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 178,
@@ -16004,7 +16752,9 @@
       "material_id": 26,
       "spec": "M6*25白锌",
       "quantity_per_unit": 3,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 179,
@@ -16013,7 +16763,9 @@
       "material_id": 26,
       "spec": "M6*12白锌",
       "quantity_per_unit": 12,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 199,
@@ -16022,7 +16774,9 @@
       "material_id": 21,
       "spec": "1285胡桃色",
       "quantity_per_unit": 0.25,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 200,
@@ -16031,7 +16785,9 @@
       "material_id": 25,
       "spec": "1285胡桃色18厘0.8厚",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 201,
@@ -16040,7 +16796,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 202,
@@ -16049,7 +16807,9 @@
       "material_id": 44,
       "spec": "M6*10",
       "quantity_per_unit": 15,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 203,
@@ -16058,7 +16818,9 @@
       "material_id": 45,
       "spec": "黑色直径28*18",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 206,
@@ -16067,7 +16829,9 @@
       "material_id": 47,
       "spec": "白色15*15*4-16",
       "quantity_per_unit": 2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 207,
@@ -16076,7 +16840,9 @@
       "material_id": 26,
       "spec": "M6*25白锌",
       "quantity_per_unit": 3,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 208,
@@ -16085,7 +16851,9 @@
       "material_id": 26,
       "spec": "M6*12白锌",
       "quantity_per_unit": 12,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 181,
@@ -16094,7 +16862,9 @@
       "material_id": 22,
       "spec": "1200mm*2440mm",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 182,
@@ -16103,7 +16873,9 @@
       "material_id": 5,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 183,
@@ -16112,7 +16884,9 @@
       "material_id": 59,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 184,
@@ -16121,7 +16895,9 @@
       "material_id": 44,
       "spec": "M6*15",
       "quantity_per_unit": 4,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 185,
@@ -16130,7 +16906,9 @@
       "material_id": 40,
       "spec": "4#",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 186,
@@ -16139,7 +16917,9 @@
       "material_id": 26,
       "spec": "M6*16",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 187,
@@ -16148,7 +16928,9 @@
       "material_id": 21,
       "spec": "2072-2纸锦荣-珍珠麻面",
       "quantity_per_unit": 0.125,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 188,
@@ -16157,7 +16939,9 @@
       "material_id": 25,
       "spec": "18宽0.8厚pc4295",
       "quantity_per_unit": 2.8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 189,
@@ -16166,7 +16950,9 @@
       "material_id": 21,
       "spec": "2072-2纸锦荣-珍珠麻面",
       "quantity_per_unit": 0.125,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 190,
@@ -16175,7 +16961,9 @@
       "material_id": 25,
       "spec": "18宽0.8厚pc4295",
       "quantity_per_unit": 2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 191,
@@ -16184,7 +16972,9 @@
       "material_id": 24,
       "spec": "2047-1哑光大理石纹麻面",
       "quantity_per_unit": 0.125,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 192,
@@ -16193,7 +16983,9 @@
       "material_id": 25,
       "spec": "PC5116-28宽0.8厚",
       "quantity_per_unit": 2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 193,
@@ -16202,7 +16994,9 @@
       "material_id": 24,
       "spec": "2047-1大理石纹麻面",
       "quantity_per_unit": 0.125,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 194,
@@ -16211,7 +17005,9 @@
       "material_id": 25,
       "spec": "PC-5116-28宽0.8厚",
       "quantity_per_unit": 2.8,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 195,
@@ -16220,7 +17016,9 @@
       "material_id": 24,
       "spec": "2047-1石纹麻面",
       "quantity_per_unit": 0.334,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 196,
@@ -16229,7 +17027,9 @@
       "material_id": 25,
       "spec": "PC-5116-28宽0.8厚",
       "quantity_per_unit": 3.2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 197,
@@ -16238,7 +17038,9 @@
       "material_id": 24,
       "spec": "8275-5麻面",
       "quantity_per_unit": 0.125,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 198,
@@ -16247,7 +17049,9 @@
       "material_id": 25,
       "spec": "28宽0.8厚pc5124",
       "quantity_per_unit": 2,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 209,
@@ -16256,7 +17060,9 @@
       "material_id": 24,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     },
     {
       "id": 210,
@@ -16265,7 +17071,9 @@
       "material_id": 25,
       "spec": "",
       "quantity_per_unit": 1,
-      "group_type": "factory"
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
     }
   ],
   "order_item_bom": [
@@ -20968,7 +21776,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-24T01:47:54.492Z",
+  "timestamp": "2026-07-24T01:59:45.137Z",
   "version": 2,
   "backup_reason": "GitHub数据同步"
 }
