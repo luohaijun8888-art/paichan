@@ -6347,6 +6347,15 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory"
+        },
+        {
+          "id": 210,
+          "remote_id": null,
+          "product_id": 37,
+          "material_id": 25,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
         }
       ],
       "materials": []
@@ -16167,6 +16176,15 @@
       "spec": "",
       "quantity_per_unit": 1,
       "group_type": "factory"
+    },
+    {
+      "id": 210,
+      "remote_id": null,
+      "product_id": 37,
+      "material_id": 25,
+      "spec": "",
+      "quantity_per_unit": 1,
+      "group_type": "factory"
     }
   ],
   "order_item_bom": [
@@ -20869,7 +20887,7 @@
       "updated_at": "2026-07-16 10:27:51"
     }
   ],
-  "timestamp": "2026-07-24T00:35:14.408Z",
+  "timestamp": "2026-07-24T00:35:34.473Z",
   "version": 2,
-  "backup_reason": "更新产品尺寸"
+  "backup_reason": "添加BOM明细"
 }
