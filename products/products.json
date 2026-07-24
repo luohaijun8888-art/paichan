@@ -6344,11 +6344,20 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory"
+        },
+        {
+          "id": 210,
+          "remote_id": null,
+          "product_id": 37,
+          "material_id": 25,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
         }
       ],
       "materials": []
     }
   ],
-  "timestamp": "2026-07-24T00:35:14.408Z",
+  "timestamp": "2026-07-24T00:35:34.473Z",
   "version": 1
 }
