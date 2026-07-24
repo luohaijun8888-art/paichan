@@ -6335,10 +6335,20 @@
           "is_parallel_able": 0
         }
       ],
-      "material_items": [],
+      "material_items": [
+        {
+          "id": 209,
+          "remote_id": null,
+          "product_id": 37,
+          "material_id": 24,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory"
+        }
+      ],
       "materials": []
     }
   ],
-  "timestamp": "2026-07-24T00:34:16.431Z",
+  "timestamp": "2026-07-24T00:34:41.214Z",
   "version": 1
 }
