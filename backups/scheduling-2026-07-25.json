@@ -5010,7 +5010,7 @@
           "product_id": 26,
           "material_id": 25,
           "spec": "8202-1纸",
-          "quantity_per_unit": 0.34,
+          "quantity_per_unit": 2,
           "group_type": "factory",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -16543,7 +16543,7 @@
       "product_id": 26,
       "material_id": 25,
       "spec": "8202-1纸",
-      "quantity_per_unit": 0.34,
+      "quantity_per_unit": 2,
       "group_type": "factory",
       "drawing_url": "",
       "is_accessory_pack": 0
@@ -21655,7 +21655,7 @@
       "updated_at": "2026-07-24 02:11:10"
     }
   ],
-  "timestamp": "2026-07-25T09:40:52.382Z",
+  "timestamp": "2026-07-25T09:41:54.628Z",
   "version": 2,
   "backup_reason": "更新BOM明细"
 }
