@@ -4823,23 +4823,12 @@
           "is_accessory_pack": 0
         },
         {
-          "id": 161,
-          "remote_id": 20441,
-          "product_id": 25,
-          "material_id": 26,
-          "spec": "M6*24沉头黑色",
-          "quantity_per_unit": 3,
-          "group_type": "kit",
-          "drawing_url": "",
-          "is_accessory_pack": 0
-        },
-        {
           "id": 162,
           "remote_id": 20442,
           "product_id": 25,
           "material_id": 26,
           "spec": "M6*20倒边黑色",
-          "quantity_per_unit": 3,
+          "quantity_per_unit": 6,
           "group_type": "kit",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -6636,6 +6625,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-25T09:43:21.591Z",
+  "timestamp": "2026-07-25T09:43:39.320Z",
   "version": 1
 }
