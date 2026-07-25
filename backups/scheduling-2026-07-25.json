@@ -4003,7 +4003,7 @@
           "product_id": 20,
           "material_id": 26,
           "spec": "M6*20倒边黑色",
-          "quantity_per_unit": 3,
+          "quantity_per_unit": 6,
           "group_type": "kit",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -16246,7 +16246,7 @@
       "product_id": 20,
       "material_id": 26,
       "spec": "M6*20倒边黑色",
-      "quantity_per_unit": 3,
+      "quantity_per_unit": 6,
       "group_type": "kit",
       "drawing_url": "",
       "is_accessory_pack": 0
@@ -21589,7 +21589,7 @@
       "updated_at": "2026-07-24 02:11:10"
     }
   ],
-  "timestamp": "2026-07-25T09:44:40.967Z",
+  "timestamp": "2026-07-25T09:44:57.207Z",
   "version": 2,
-  "backup_reason": "删除BOM明细"
+  "backup_reason": "更新BOM明细"
 }
