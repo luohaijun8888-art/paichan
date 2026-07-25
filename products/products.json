@@ -3995,17 +3995,6 @@
           "is_accessory_pack": 0
         },
         {
-          "id": 142,
-          "remote_id": 20423,
-          "product_id": 20,
-          "material_id": 26,
-          "spec": "M6*24沉头黑色",
-          "quantity_per_unit": 3,
-          "group_type": "kit",
-          "drawing_url": "",
-          "is_accessory_pack": 0
-        },
-        {
           "id": 143,
           "remote_id": 20424,
           "product_id": 20,
@@ -6625,6 +6614,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-25T09:43:39.320Z",
+  "timestamp": "2026-07-25T09:44:40.967Z",
   "version": 1
 }
