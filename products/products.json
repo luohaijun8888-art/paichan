@@ -3956,7 +3956,7 @@
           "product_id": 20,
           "material_id": 24,
           "spec": "1200mm*2440mm",
-          "quantity_per_unit": 1.333,
+          "quantity_per_unit": 0.333,
           "group_type": "factory",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -6614,6 +6614,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-25T09:45:44.411Z",
+  "timestamp": "2026-07-25T09:46:04.424Z",
   "version": 1
 }
