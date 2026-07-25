@@ -5027,23 +5027,12 @@
           "is_accessory_pack": 0
         },
         {
-          "id": 168,
-          "remote_id": 20448,
-          "product_id": 26,
-          "material_id": 26,
-          "spec": "M6*24沉头黑色",
-          "quantity_per_unit": 3,
-          "group_type": "kit",
-          "drawing_url": "",
-          "is_accessory_pack": 0
-        },
-        {
           "id": 169,
           "remote_id": 20449,
           "product_id": 26,
           "material_id": 26,
           "spec": "M6*20倒边黑色",
-          "quantity_per_unit": 3,
+          "quantity_per_unit": 6,
           "group_type": "kit",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -16560,23 +16549,12 @@
       "is_accessory_pack": 0
     },
     {
-      "id": 168,
-      "remote_id": 20448,
-      "product_id": 26,
-      "material_id": 26,
-      "spec": "M6*24沉头黑色",
-      "quantity_per_unit": 3,
-      "group_type": "kit",
-      "drawing_url": "",
-      "is_accessory_pack": 0
-    },
-    {
       "id": 169,
       "remote_id": 20449,
       "product_id": 26,
       "material_id": 26,
       "spec": "M6*20倒边黑色",
-      "quantity_per_unit": 3,
+      "quantity_per_unit": 6,
       "group_type": "kit",
       "drawing_url": "",
       "is_accessory_pack": 0
@@ -21655,7 +21633,7 @@
       "updated_at": "2026-07-24 02:11:10"
     }
   ],
-  "timestamp": "2026-07-25T09:41:54.628Z",
+  "timestamp": "2026-07-25T09:42:13.455Z",
   "version": 2,
   "backup_reason": "更新BOM明细"
 }
