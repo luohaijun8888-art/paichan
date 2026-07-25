@@ -4820,7 +4820,7 @@
           "product_id": 25,
           "material_id": 25,
           "spec": "8202-1",
-          "quantity_per_unit": 3,
+          "quantity_per_unit": 2,
           "group_type": "factory",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -16466,7 +16466,7 @@
       "product_id": 25,
       "material_id": 25,
       "spec": "8202-1",
-      "quantity_per_unit": 3,
+      "quantity_per_unit": 2,
       "group_type": "factory",
       "drawing_url": "",
       "is_accessory_pack": 0
@@ -21633,7 +21633,7 @@
       "updated_at": "2026-07-24 02:11:10"
     }
   ],
-  "timestamp": "2026-07-25T09:42:32.173Z",
+  "timestamp": "2026-07-25T09:43:21.591Z",
   "version": 2,
-  "backup_reason": "删除BOM明细"
+  "backup_reason": "更新BOM明细"
 }
