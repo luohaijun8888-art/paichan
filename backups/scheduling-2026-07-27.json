@@ -3001,6 +3001,17 @@
           "group_type": "factory",
           "drawing_url": "",
           "is_accessory_pack": 0
+        },
+        {
+          "id": 203,
+          "remote_id": null,
+          "product_id": 14,
+          "material_id": 45,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -16021,6 +16032,17 @@
       "is_accessory_pack": 0
     },
     {
+      "id": 203,
+      "remote_id": null,
+      "product_id": 14,
+      "material_id": 45,
+      "spec": "",
+      "quantity_per_unit": 1,
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0
+    },
+    {
       "id": 119,
       "remote_id": 20404,
       "product_id": 17,
@@ -21655,7 +21677,7 @@
       "updated_at": "2026-07-24 02:11:10"
     }
   ],
-  "timestamp": "2026-07-27T00:05:24.671Z",
+  "timestamp": "2026-07-27T00:07:55.566Z",
   "version": 2,
-  "backup_reason": "添加材料SKU"
+  "backup_reason": "添加BOM明细"
 }
