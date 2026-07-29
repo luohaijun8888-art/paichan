@@ -3059,6 +3059,18 @@
           "drawing_url": "",
           "is_accessory_pack": 0,
           "sku_id": null
+        },
+        {
+          "id": 206,
+          "remote_id": null,
+          "product_id": 14,
+          "material_id": 45,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0,
+          "sku_id": 2
         }
       ],
       "materials": [
@@ -16278,6 +16290,18 @@
       "sku_id": null
     },
     {
+      "id": 206,
+      "remote_id": null,
+      "product_id": 14,
+      "material_id": 45,
+      "spec": "",
+      "quantity_per_unit": 1,
+      "group_type": "factory",
+      "drawing_url": "",
+      "is_accessory_pack": 0,
+      "sku_id": 2
+    },
+    {
       "id": 119,
       "remote_id": 20404,
       "product_id": 17,
@@ -21992,7 +22016,7 @@
       "updated_at": "2026-07-27 01:21:35"
     }
   ],
-  "timestamp": "2026-07-29T10:27:29.404Z",
+  "timestamp": "2026-07-29T10:29:10.039Z",
   "version": 2,
-  "backup_reason": "编辑材料 调节脚"
+  "backup_reason": "添加BOM明细"
 }
