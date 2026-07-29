@@ -3056,6 +3056,18 @@
           "drawing_url": "",
           "is_accessory_pack": 0,
           "sku_id": null
+        },
+        {
+          "id": 206,
+          "remote_id": null,
+          "product_id": 14,
+          "material_id": 45,
+          "spec": "",
+          "quantity_per_unit": 1,
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0,
+          "sku_id": 2
         }
       ],
       "materials": [
@@ -6785,6 +6797,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-29T10:27:29.404Z",
+  "timestamp": "2026-07-29T10:29:10.039Z",
   "version": 1
 }
