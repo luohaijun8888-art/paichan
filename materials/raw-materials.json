@@ -627,7 +627,7 @@
       "quantity": 1000,
       "supplier": "",
       "price": 0,
-      "image_url": "",
+      "image_url": "/uploads/material/material-1785320842704-91rtbd.jpg",
       "synced_at": "2026-07-24 02:11:09"
     },
     {
@@ -841,6 +841,6 @@
       "synced_at": "2026-07-24 02:11:09"
     }
   ],
-  "timestamp": "2026-07-29T10:26:03.126Z",
+  "timestamp": "2026-07-29T10:27:29.404Z",
   "version": 1
 }
