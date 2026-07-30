@@ -13487,6 +13487,18 @@
       "remarks": "",
       "synced_at": "2026-07-30 02:23:13",
       "items": []
+    },
+    {
+      "id": 79,
+      "remote_id": null,
+      "order_number": "FINAL5",
+      "order_date": "",
+      "delivery_date": "2026-08-20",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-30 02:25:07",
+      "items": []
     }
   ],
   "schedule_tasks": [],
@@ -23504,7 +23516,7 @@
       "updated_at": "2026-07-30 01:59:59"
     }
   ],
-  "timestamp": "2026-07-30T02:23:18.885Z",
+  "timestamp": "2026-07-30T02:25:12.068Z",
   "version": 2,
   "backup_reason": "新增订单"
 }
