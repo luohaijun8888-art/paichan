@@ -23516,7 +23516,7 @@
       "updated_at": "2026-07-30 01:59:59"
     }
   ],
-  "timestamp": "2026-07-30T02:25:12.068Z",
+  "timestamp": "2026-07-30T02:25:12.058Z",
   "version": 2,
-  "backup_reason": "新增订单"
+  "backup_reason": "BOM采购状态更新"
 }
