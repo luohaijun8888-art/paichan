@@ -6210,9 +6210,9 @@
           "id": 337,
           "product_id": 68,
           "material_type": "board",
-          "status": "not_purchased",
+          "status": "purchased",
           "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "updated_at": "2026-07-30 02:09:56"
         },
         {
           "id": 338,
@@ -6833,6 +6833,6 @@
       ]
     }
   ],
-  "timestamp": "2026-07-30T01:59:59.765Z",
+  "timestamp": "2026-07-30T02:10:01.039Z",
   "version": 1
 }
