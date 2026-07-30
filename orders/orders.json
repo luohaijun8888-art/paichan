@@ -5793,8 +5793,20 @@
           "bom_materials": []
         }
       ]
+    },
+    {
+      "id": 39,
+      "remote_id": null,
+      "order_number": "测试写入001",
+      "order_date": "",
+      "delivery_date": "2026-08-20",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-30 01:39:43",
+      "items": []
     }
   ],
-  "timestamp": "2026-07-30T01:37:30.829Z",
+  "timestamp": "2026-07-30T01:39:48.549Z",
   "version": 1
 }
