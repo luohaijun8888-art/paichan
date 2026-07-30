@@ -7685,10 +7685,10 @@
       "order_number": "128合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-05-11T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 61,
@@ -7995,10 +7995,10 @@
       "order_number": "131合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-05-11T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 64,
@@ -8224,10 +8224,10 @@
       "order_number": "132合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-05-11T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 65,
@@ -8345,10 +8345,10 @@
       "order_number": "161合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-05-25T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 67,
@@ -8448,10 +8448,10 @@
       "order_number": "133合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-08T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 68,
@@ -8479,10 +8479,10 @@
       "order_number": "134合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-08T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 69,
@@ -8582,10 +8582,10 @@
       "order_number": "135合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-08T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 70,
@@ -8685,10 +8685,10 @@
       "order_number": "136合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-08T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 71,
@@ -9022,10 +9022,10 @@
       "order_number": "137合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-08T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 73,
@@ -9431,10 +9431,10 @@
       "order_number": "160合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-22T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 76,
@@ -9606,10 +9606,10 @@
       "order_number": "177合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-05-04T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 77,
@@ -9709,10 +9709,10 @@
       "order_number": "181合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-05-18T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 78,
@@ -9821,10 +9821,10 @@
       "order_number": "183合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-15T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 79,
@@ -9933,10 +9933,10 @@
       "order_number": "186合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-07-06T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 80,
@@ -10045,10 +10045,10 @@
       "order_number": "188合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-03T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 81,
@@ -10166,10 +10166,10 @@
       "order_number": "189合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-04T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 83,
@@ -10368,10 +10368,10 @@
       "order_number": "175合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-01T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 85,
@@ -10444,10 +10444,10 @@
       "order_number": "111",
       "order_date": "2026-07-04",
       "delivery_date": "2026-06-10T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 86,
@@ -10538,10 +10538,10 @@
       "order_number": "199合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-10-12T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 87,
@@ -10758,10 +10758,10 @@
       "order_number": "200合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-10-12T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 89,
@@ -10951,10 +10951,10 @@
       "order_number": "201合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-10-12T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 91,
@@ -11270,10 +11270,10 @@
       "order_number": "202合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-10-12T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 93,
@@ -11301,10 +11301,10 @@
       "order_number": "208合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-11-02T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 94,
@@ -11521,10 +11521,10 @@
       "order_number": "209合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-11-02T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 96,
@@ -11714,10 +11714,10 @@
       "order_number": "210合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-11-02T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 98,
@@ -12033,10 +12033,10 @@
       "order_number": "274合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-07-06T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "done",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 100,
@@ -12100,10 +12100,10 @@
       "order_number": "275合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-07-06T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 102,
@@ -12167,10 +12167,10 @@
       "order_number": "276合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-07-13T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 104,
@@ -12261,10 +12261,10 @@
       "order_number": "248合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-07-13T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 107,
@@ -12472,10 +12472,10 @@
       "order_number": "193合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-31T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 109,
@@ -12503,10 +12503,10 @@
       "order_number": "194合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-31T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 110,
@@ -12813,10 +12813,10 @@
       "order_number": "195合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-31T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 113,
@@ -13006,10 +13006,10 @@
       "order_number": "280合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-03T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 115,
@@ -13109,10 +13109,10 @@
       "order_number": "281合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-03T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 116,
@@ -13212,10 +13212,10 @@
       "order_number": "282合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-08-03T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 117,
@@ -13315,10 +13315,10 @@
       "order_number": "300合同",
       "order_date": "2026-07-04",
       "delivery_date": "2026-09-07T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 118,
@@ -13391,10 +13391,10 @@
       "order_number": "合同275补单",
       "order_date": "2026-07-16",
       "delivery_date": "2026-09-14T00:00:00+08:00",
-      "status": "scheduling",
+      "status": "pending",
       "priority_score": 50,
       "remarks": "",
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-07-30 02:29:03",
       "items": [
         {
           "id": 119,
@@ -23516,7 +23516,7 @@
       "updated_at": "2026-07-30 01:59:59"
     }
   ],
-  "timestamp": "2026-07-30T02:25:12.058Z",
+  "timestamp": "2026-07-30T02:29:03.549Z",
   "version": 2,
-  "backup_reason": "BOM采购状态更新"
+  "backup_reason": "GitHub数据同步"
 }
