@@ -5820,8 +5820,29 @@
       "remarks": "",
       "synced_at": "2026-07-30 02:25:07",
       "items": []
+    },
+    {
+      "id": 117,
+      "remote_id": null,
+      "order_number": "55",
+      "order_date": "",
+      "delivery_date": "",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-30 02:43:40",
+      "items": [
+        {
+          "id": 121,
+          "order_id": 117,
+          "product_id": 42,
+          "quantity": 1,
+          "material_ready": 0,
+          "bom_materials": []
+        }
+      ]
     }
   ],
-  "timestamp": "2026-07-30T02:29:21.308Z",
+  "timestamp": "2026-07-30T02:43:45.260Z",
   "version": 1
 }
