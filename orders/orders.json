@@ -5772,8 +5772,29 @@
           ]
         }
       ]
+    },
+    {
+      "id": 38,
+      "remote_id": null,
+      "order_number": "测试合同001",
+      "order_date": "",
+      "delivery_date": "2026-08-15",
+      "status": "pending",
+      "priority_score": 50,
+      "remarks": "",
+      "synced_at": "2026-07-30 01:37:25",
+      "items": [
+        {
+          "id": 61,
+          "order_id": 38,
+          "product_id": 1,
+          "quantity": 10,
+          "material_ready": 0,
+          "bom_materials": []
+        }
+      ]
     }
   ],
-  "timestamp": "2026-07-30T01:34:05.295Z",
+  "timestamp": "2026-07-30T01:37:30.829Z",
   "version": 1
 }
