@@ -3600,9 +3600,9 @@
           "id": 262,
           "product_id": 53,
           "material_type": "board",
-          "status": "not_purchased",
+          "status": "purchased",
           "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "updated_at": "2026-07-30 02:10:07"
         },
         {
           "id": 263,
@@ -9650,9 +9650,9 @@
               "order_item_id": 77,
               "product_material_item_id": 320,
               "material_id": 83,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-30 01:59:59"
+              "updated_at": "2026-07-30 02:10:03"
             },
             {
               "id": 716,
@@ -9668,9 +9668,9 @@
               "order_item_id": 77,
               "product_material_item_id": 322,
               "material_id": 80,
-              "status": "pending",
+              "status": "arrived",
               "expected_date": "",
-              "updated_at": "2026-07-30 01:59:59"
+              "updated_at": "2026-07-30 02:10:07"
             },
             {
               "id": 718,
@@ -15547,9 +15547,9 @@
       "id": 262,
       "product_id": 53,
       "material_type": "board",
-      "status": "not_purchased",
+      "status": "purchased",
       "expected_date": "",
-      "updated_at": "2026-07-30 01:59:59"
+      "updated_at": "2026-07-30 02:10:07"
     },
     {
       "id": 263,
@@ -20394,9 +20394,9 @@
       "order_item_id": 77,
       "product_material_item_id": 320,
       "material_id": 83,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-30 01:59:59"
+      "updated_at": "2026-07-30 02:10:03"
     },
     {
       "id": 716,
@@ -20412,9 +20412,9 @@
       "order_item_id": 77,
       "product_material_item_id": 322,
       "material_id": 80,
-      "status": "pending",
+      "status": "arrived",
       "expected_date": "",
-      "updated_at": "2026-07-30 01:59:59"
+      "updated_at": "2026-07-30 02:10:07"
     },
     {
       "id": 718,
@@ -23468,7 +23468,7 @@
       "updated_at": "2026-07-30 01:59:59"
     }
   ],
-  "timestamp": "2026-07-30T02:10:01.039Z",
+  "timestamp": "2026-07-30T02:10:19.467Z",
   "version": 2,
   "backup_reason": "BOM采购状态更新"
 }
