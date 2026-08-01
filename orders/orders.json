@@ -1944,27 +1944,27 @@
               "order_item_id": 77,
               "product_material_item_id": 317,
               "material_id": 104,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:38"
             },
             {
               "id": 713,
               "order_item_id": 77,
               "product_material_item_id": 318,
               "material_id": 112,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:45"
             },
             {
               "id": 714,
               "order_item_id": 77,
               "product_material_item_id": 319,
               "material_id": 110,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:44"
             },
             {
               "id": 715,
@@ -1998,27 +1998,27 @@
               "order_item_id": 77,
               "product_material_item_id": 323,
               "material_id": 86,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:37"
             },
             {
               "id": 719,
               "order_item_id": 77,
               "product_material_item_id": 324,
               "material_id": 100,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:35"
             },
             {
               "id": 720,
               "order_item_id": 77,
               "product_material_item_id": 325,
               "material_id": 107,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:39"
             }
           ]
         }
@@ -5843,6 +5843,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-01T23:58:33.705Z",
+  "timestamp": "2026-08-01T23:58:50.372Z",
   "version": 1
 }
