@@ -1,5 +1,16 @@
 {
-  "devices": [],
+  "devices": [
+    {
+      "id": 1,
+      "device_code": "DEV-001",
+      "device_type": "table_saw",
+      "device_name": "测试台锯",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    }
+  ],
   "workers": [],
   "worker_skills": [],
   "products": [
@@ -3035,7 +3046,7 @@
       "name": "251103",
       "code": "251103",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865829032_img_1777865827428_35d4c403.jpg?sign=1780457829-9a95d6d9ab-0-2b6be73d05ecf643c1b58fc6ccde7c8657fc475b5f0f6e8a92b14ced53b3eed7",
+      "image_url": "https://via.placeholder.com/150",
       "production_time_per_unit": 30,
       "unit": "件",
       "routing_set": 1,
@@ -6834,6 +6845,27 @@
           "updated_at": "2026-07-30 01:59:59"
         }
       ]
+    },
+    {
+      "id": 73,
+      "remote_id": null,
+      "name": "测试产品",
+      "code": "TEST-001",
+      "category": "",
+      "image_url": "",
+      "production_time_per_unit": 0,
+      "unit": "件",
+      "routing_set": 0,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-08-01 14:19:42",
+      "routing": [],
+      "material_items": [],
+      "materials": []
     }
   ],
   "raw_materials": [
@@ -23537,7 +23569,7 @@
       "updated_at": "2026-07-30 01:59:59"
     }
   ],
-  "timestamp": "2026-08-01T14:06:06.485Z",
+  "timestamp": "2026-08-01T14:19:47.123Z",
   "version": 2,
-  "backup_reason": "GitHub数据同步"
+  "backup_reason": "添加产品 测试产品"
 }
