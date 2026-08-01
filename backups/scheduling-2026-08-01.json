@@ -3635,9 +3635,9 @@
           "id": 262,
           "product_id": 53,
           "material_type": "board",
-          "status": "purchased",
+          "status": "arrived",
           "expected_date": null,
-          "updated_at": "2026-08-01 14:25:09"
+          "updated_at": "2026-08-01 23:58:20"
         },
         {
           "id": 263,
@@ -9756,9 +9756,9 @@
               "order_item_id": 77,
               "product_material_item_id": 321,
               "material_id": 85,
-              "status": "pending",
-              "expected_date": null,
-              "updated_at": "2026-08-01 14:25:09"
+              "status": "arrived",
+              "expected_date": "",
+              "updated_at": "2026-08-01 23:58:20"
             },
             {
               "id": 717,
@@ -14273,9 +14273,9 @@
       "id": 262,
       "product_id": 53,
       "material_type": "board",
-      "status": "purchased",
+      "status": "arrived",
       "expected_date": null,
-      "updated_at": "2026-08-01 14:25:09"
+      "updated_at": "2026-08-01 23:58:20"
     },
     {
       "id": 263,
@@ -19169,9 +19169,9 @@
       "order_item_id": 77,
       "product_material_item_id": 321,
       "material_id": 85,
-      "status": "pending",
-      "expected_date": null,
-      "updated_at": "2026-08-01 14:25:09"
+      "status": "arrived",
+      "expected_date": "",
+      "updated_at": "2026-08-01 23:58:20"
     },
     {
       "id": 717,
@@ -22234,7 +22234,7 @@
       "updated_at": "2026-08-01 14:25:09"
     }
   ],
-  "timestamp": "2026-08-01T23:58:15.736Z",
+  "timestamp": "2026-08-01T23:58:33.705Z",
   "version": 2,
   "backup_reason": "BOM采购状态更新"
 }
