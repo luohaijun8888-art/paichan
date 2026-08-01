@@ -16,7 +16,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 224,
@@ -89,7 +89,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -99,40 +99,40 @@
           "product_id": 37,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 182,
           "product_id": 37,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 183,
           "product_id": 37,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 181,
           "product_id": 37,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 185,
           "product_id": 37,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -152,7 +152,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 230,
@@ -225,7 +225,7 @@
           "spec": "晨丰8191-5纸",
           "quantity_per_unit": 0.25,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -237,7 +237,7 @@
           "spec": "21厘0.8厚8191-5",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -249,7 +249,7 @@
           "spec": "5＃",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -261,7 +261,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -273,7 +273,7 @@
           "spec": "m6矮扁头调节脚",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -285,7 +285,7 @@
           "spec": "m6*15",
           "quantity_per_unit": 8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -297,7 +297,7 @@
           "spec": "M6*40倒边黑色",
           "quantity_per_unit": 8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -309,7 +309,7 @@
           "spec": "M8*50柱头黑色",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -321,7 +321,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -331,40 +331,40 @@
           "product_id": 38,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 187,
           "product_id": 38,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 188,
           "product_id": 38,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 186,
           "product_id": 38,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 190,
           "product_id": 38,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -384,7 +384,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 236,
@@ -457,7 +457,7 @@
           "spec": "水泥灰刨花板浮雕",
           "quantity_per_unit": 0.5,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -469,7 +469,7 @@
           "spec": "水泥灰三胺板浮雕",
           "quantity_per_unit": 0.657,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -481,7 +481,7 @@
           "spec": "印尼灰三胺板",
           "quantity_per_unit": 0.28,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -493,7 +493,7 @@
           "spec": "水泥灰三胺板浮雕",
           "quantity_per_unit": 0.1428,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -505,7 +505,7 @@
           "spec": "18宽水泥灰0.8厚",
           "quantity_per_unit": 26.8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -517,7 +517,7 @@
           "spec": "28宽水泥灰0.8厚",
           "quantity_per_unit": 6.8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -529,7 +529,7 @@
           "spec": "18厚印尼灰0.8厚",
           "quantity_per_unit": 9.16,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -541,7 +541,7 @@
           "spec": "8*30",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -553,7 +553,7 @@
           "spec": "M6*55",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -565,7 +565,7 @@
           "spec": "短款28",
           "quantity_per_unit": 52,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -577,7 +577,7 @@
           "spec": "3.5*40",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -589,7 +589,7 @@
           "spec": "3.5*14",
           "quantity_per_unit": 36,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -601,7 +601,7 @@
           "spec": "3.5*50",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -613,7 +613,7 @@
           "spec": "直径10*10",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -625,7 +625,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -637,7 +637,7 @@
           "spec": "M6*50",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -649,7 +649,7 @@
           "spec": "96孔距",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -661,7 +661,7 @@
           "spec": "直弯",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -673,7 +673,7 @@
           "spec": "10寸",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -685,7 +685,7 @@
           "spec": "M6*18",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -697,7 +697,7 @@
           "spec": "直径13白色",
           "quantity_per_unit": 6,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -709,7 +709,7 @@
           "spec": "M4*20拉手螺丝",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -721,7 +721,7 @@
           "spec": "M6*15",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -731,40 +731,40 @@
           "product_id": 39,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 192,
           "product_id": 39,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 193,
           "product_id": 39,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 191,
           "product_id": 39,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 195,
           "product_id": 39,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -784,7 +784,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 242,
@@ -857,7 +857,7 @@
           "spec": "M6*12母螺丝",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -869,7 +869,7 @@
           "spec": "M6*12子螺丝",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -881,7 +881,7 @@
           "spec": "黑色麻面三胺板麻面",
           "quantity_per_unit": 0.192,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -893,7 +893,7 @@
           "spec": "M6*12",
           "quantity_per_unit": 8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -905,7 +905,7 @@
           "spec": "M6*18黑色",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -917,7 +917,7 @@
           "spec": "18宽*0.8厚黑色封边条",
           "quantity_per_unit": 6.1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -929,7 +929,7 @@
           "spec": "M6*30黑色",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -941,7 +941,7 @@
           "spec": "M7*38",
           "quantity_per_unit": 7,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -953,7 +953,7 @@
           "spec": "18宽*0.8厚木纹6606",
           "quantity_per_unit": 2.1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -965,7 +965,7 @@
           "spec": "双细麻黄山纹137-42哑光面",
           "quantity_per_unit": 0.034,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -977,7 +977,7 @@
           "spec": "短款28",
           "quantity_per_unit": 5,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -987,40 +987,40 @@
           "product_id": 40,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 197,
           "product_id": 40,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 198,
           "product_id": 40,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 196,
           "product_id": 40,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 200,
           "product_id": 40,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -1040,7 +1040,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 248,
@@ -1113,7 +1113,7 @@
           "spec": "M6*12黑色螺丝",
           "quantity_per_unit": 10,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1125,7 +1125,7 @@
           "spec": "M6*30黑色螺丝",
           "quantity_per_unit": 18,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1137,7 +1137,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1149,7 +1149,7 @@
           "spec": "M6*18黑色20直径",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1161,7 +1161,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1173,7 +1173,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1185,7 +1185,7 @@
           "spec": "18宽0.8厚PC5093",
           "quantity_per_unit": 6.2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1197,7 +1197,7 @@
           "spec": "1285胡桃三胺板浮雕",
           "quantity_per_unit": 0.42,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1209,7 +1209,7 @@
           "spec": "M6*12",
           "quantity_per_unit": 22,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -1219,40 +1219,40 @@
           "product_id": 41,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 202,
           "product_id": 41,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 203,
           "product_id": 41,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 201,
           "product_id": 41,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 205,
           "product_id": 41,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -1272,7 +1272,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 254,
@@ -1345,7 +1345,7 @@
           "spec": "M6*10黑色",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1357,7 +1357,7 @@
           "spec": "PC5098",
           "quantity_per_unit": 22.6,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1369,7 +1369,7 @@
           "spec": "1285胡桃双面三胺板浮雕",
           "quantity_per_unit": 0.084,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1381,7 +1381,7 @@
           "spec": "1285胡桃双面三胺板",
           "quantity_per_unit": 0.99,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1393,7 +1393,7 @@
           "spec": "直径8*30",
           "quantity_per_unit": 6,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1405,7 +1405,7 @@
           "spec": "M7*50黑色",
           "quantity_per_unit": 10,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1417,7 +1417,7 @@
           "spec": "",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1429,7 +1429,7 @@
           "spec": "长款32",
           "quantity_per_unit": 18,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1441,7 +1441,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1453,7 +1453,7 @@
           "spec": "96孔距120总长带圆角黑色",
           "quantity_per_unit": 2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1465,7 +1465,7 @@
           "spec": "M6*12",
           "quantity_per_unit": 15,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1477,7 +1477,7 @@
           "spec": "20直径M6*18黑色",
           "quantity_per_unit": 7,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1489,7 +1489,7 @@
           "spec": "带牙管塞20*20/M6黑色",
           "quantity_per_unit": 5,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1501,7 +1501,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1513,7 +1513,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1525,7 +1525,7 @@
           "spec": "12寸",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1537,7 +1537,7 @@
           "spec": "M6*30黑色",
           "quantity_per_unit": 21,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -1547,40 +1547,40 @@
           "product_id": 42,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 207,
           "product_id": 42,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 208,
           "product_id": 42,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 206,
           "product_id": 42,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 210,
           "product_id": 42,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -1600,7 +1600,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 260,
@@ -1673,7 +1673,7 @@
           "spec": "18宽0.8厚木纹6606",
           "quantity_per_unit": 6.65,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1685,7 +1685,7 @@
           "spec": "双细麻黄山纹137-42",
           "quantity_per_unit": 0.237,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1697,7 +1697,7 @@
           "spec": "M7*38镀白锌",
           "quantity_per_unit": 6,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1709,7 +1709,7 @@
           "spec": "38长自攻牙红色",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1721,7 +1721,7 @@
           "spec": "M6*18黑色直径22",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1733,7 +1733,7 @@
           "spec": "8*30",
           "quantity_per_unit": 2,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1745,7 +1745,7 @@
           "spec": "M6*40镀白锌",
           "quantity_per_unit": 6,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1757,7 +1757,7 @@
           "spec": "M3.5*25镀白锌",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1769,7 +1769,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -1781,7 +1781,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -1791,40 +1791,40 @@
           "product_id": 43,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 212,
           "product_id": 43,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 213,
           "product_id": 43,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 211,
           "product_id": 43,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 215,
           "product_id": 43,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -1844,7 +1844,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 266,
@@ -1914,40 +1914,40 @@
           "product_id": 44,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 217,
           "product_id": 44,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 218,
           "product_id": 44,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 216,
           "product_id": 44,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 220,
           "product_id": 44,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -1967,7 +1967,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 272,
@@ -2040,7 +2040,7 @@
           "spec": "七里槐香木纹",
           "quantity_per_unit": 4.4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2052,7 +2052,7 @@
           "spec": "七里槐香25双面",
           "quantity_per_unit": 0.5,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2064,7 +2064,7 @@
           "spec": "M6*15",
           "quantity_per_unit": 8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2076,7 +2076,7 @@
           "spec": "M6*10镀镍",
           "quantity_per_unit": 18,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2088,7 +2088,7 @@
           "spec": "M6*30",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2100,7 +2100,7 @@
           "spec": "M6*10黑色",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2112,7 +2112,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2124,7 +2124,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2136,7 +2136,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2148,7 +2148,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -2158,40 +2158,40 @@
           "product_id": 45,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 222,
           "product_id": 45,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 223,
           "product_id": 45,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 221,
           "product_id": 45,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 225,
           "product_id": 45,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -2211,7 +2211,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 278,
@@ -2284,7 +2284,7 @@
           "spec": "素板680密度",
           "quantity_per_unit": 0.09,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2296,7 +2296,7 @@
           "spec": "42宽0.8厚暖白",
           "quantity_per_unit": 3.4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2308,7 +2308,7 @@
           "spec": "单面暖白",
           "quantity_per_unit": 0.5,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2320,7 +2320,7 @@
           "spec": "M6*16镀镍",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2332,7 +2332,7 @@
           "spec": "4#镀白锌",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2344,7 +2344,7 @@
           "spec": "M6*15镀彩锌",
           "quantity_per_unit": 12,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2356,7 +2356,7 @@
           "spec": "圆直径38",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2368,7 +2368,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2380,7 +2380,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -2390,40 +2390,40 @@
           "product_id": 46,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 227,
           "product_id": 46,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 228,
           "product_id": 46,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 226,
           "product_id": 46,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 230,
           "product_id": 46,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -2443,7 +2443,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 284,
@@ -2513,40 +2513,40 @@
           "product_id": 47,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 232,
           "product_id": 47,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 233,
           "product_id": 47,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 231,
           "product_id": 47,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 235,
           "product_id": 47,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -2566,7 +2566,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 290,
@@ -2639,7 +2639,7 @@
           "spec": "素板",
           "quantity_per_unit": 0.18,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2651,7 +2651,7 @@
           "spec": "七里槐香",
           "quantity_per_unit": 2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2663,7 +2663,7 @@
           "spec": "M6*10黑色",
           "quantity_per_unit": 16,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2675,7 +2675,7 @@
           "spec": "M6*30黑色",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2687,7 +2687,7 @@
           "spec": "M6*50黑色",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2699,7 +2699,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2711,7 +2711,7 @@
           "spec": "M8*15黑色",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -2721,40 +2721,40 @@
           "product_id": 48,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 237,
           "product_id": 48,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 238,
           "product_id": 48,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 236,
           "product_id": 48,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 240,
           "product_id": 48,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -2774,7 +2774,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 296,
@@ -2847,7 +2847,7 @@
           "spec": "",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2859,7 +2859,7 @@
           "spec": "全金属三合一",
           "quantity_per_unit": 8,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2871,7 +2871,7 @@
           "spec": "8*30常备物料",
           "quantity_per_unit": 20,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2883,7 +2883,7 @@
           "spec": "M6*12",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2895,7 +2895,7 @@
           "spec": "长款",
           "quantity_per_unit": 30,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2907,7 +2907,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2919,7 +2919,7 @@
           "spec": "M6",
           "quantity_per_unit": 8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2931,7 +2931,7 @@
           "spec": "25*25白色带牙M8",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2943,7 +2943,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2955,7 +2955,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2967,7 +2967,7 @@
           "spec": "常备材料",
           "quantity_per_unit": 20,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -2979,7 +2979,7 @@
           "spec": "",
           "quantity_per_unit": 3.56,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -2989,40 +2989,40 @@
           "product_id": 49,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 242,
           "product_id": 49,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 243,
           "product_id": 49,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 241,
           "product_id": 49,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 245,
           "product_id": 49,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -3042,7 +3042,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 302,
@@ -3112,40 +3112,40 @@
           "product_id": 50,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 247,
           "product_id": 50,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 248,
           "product_id": 50,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 246,
           "product_id": 50,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 250,
           "product_id": 50,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -3165,7 +3165,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 308,
@@ -3235,40 +3235,40 @@
           "product_id": 51,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 252,
           "product_id": 51,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 253,
           "product_id": 51,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 251,
           "product_id": 51,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 255,
           "product_id": 51,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -3288,7 +3288,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 314,
@@ -3358,40 +3358,40 @@
           "product_id": 52,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 257,
           "product_id": 52,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 258,
           "product_id": 52,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 256,
           "product_id": 52,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 260,
           "product_id": 52,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -3411,7 +3411,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 320,
@@ -3484,7 +3484,7 @@
           "spec": "M6*15镀彩锌",
           "quantity_per_unit": 12,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3496,7 +3496,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3508,7 +3508,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3520,7 +3520,7 @@
           "spec": "1200mm*2440mm素板",
           "quantity_per_unit": 0.1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3532,7 +3532,7 @@
           "spec": "暖白41宽0.8厚",
           "quantity_per_unit": 3.8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3544,7 +3544,7 @@
           "spec": "单面暖白麻面",
           "quantity_per_unit": 0.5,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3556,7 +3556,7 @@
           "spec": "倒边内六角镀镍M6*16",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3568,7 +3568,7 @@
           "spec": "4#镀白锌",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3580,7 +3580,7 @@
           "spec": "圆直径38",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -3590,40 +3590,40 @@
           "product_id": 53,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 262,
           "product_id": 53,
           "material_type": "board",
           "status": "purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 02:10:07"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 263,
           "product_id": 53,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 261,
           "product_id": 53,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 265,
           "product_id": 53,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -3643,7 +3643,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 326,
@@ -3716,7 +3716,7 @@
           "spec": "绒面",
           "quantity_per_unit": 0.5,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3728,7 +3728,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3740,7 +3740,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3752,7 +3752,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -3762,40 +3762,40 @@
           "product_id": 54,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 267,
           "product_id": 54,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 268,
           "product_id": 54,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 266,
           "product_id": 54,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 270,
           "product_id": 54,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -3815,7 +3815,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 332,
@@ -3888,7 +3888,7 @@
           "spec": "50直径黑色pvc软胶",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3900,7 +3900,7 @@
           "spec": "28宽科技木PC5094",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3912,7 +3912,7 @@
           "spec": "晨丰科技木8260光面",
           "quantity_per_unit": 0.25,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3924,7 +3924,7 @@
           "spec": "m6*15镀镍",
           "quantity_per_unit": 12,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3936,7 +3936,7 @@
           "spec": "4＃镀锌",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -3948,7 +3948,7 @@
           "spec": "M6*15",
           "quantity_per_unit": 12,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -3958,40 +3958,40 @@
           "product_id": 55,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 272,
           "product_id": 55,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 273,
           "product_id": 55,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 271,
           "product_id": 55,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 275,
           "product_id": 55,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -4011,7 +4011,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 338,
@@ -4084,7 +4084,7 @@
           "spec": "8191-5纸",
           "quantity_per_unit": 1.95,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4096,7 +4096,7 @@
           "spec": "8191-5",
           "quantity_per_unit": 1.95,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4108,7 +4108,7 @@
           "spec": "M6*6黑色直径22",
           "quantity_per_unit": 5,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4120,7 +4120,7 @@
           "spec": "黑色M6*12",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4132,7 +4132,7 @@
           "spec": "M6*24沉头黑色",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4144,7 +4144,7 @@
           "spec": "M6*20倒边黑色",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4156,7 +4156,7 @@
           "spec": "4#黑色",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -4166,40 +4166,40 @@
           "product_id": 56,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 277,
           "product_id": 56,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 278,
           "product_id": 56,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 276,
           "product_id": 56,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 280,
           "product_id": 56,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -4219,7 +4219,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 344,
@@ -4292,7 +4292,7 @@
           "spec": "1285木纹双面三胺板",
           "quantity_per_unit": 0.25,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4304,7 +4304,7 @@
           "spec": "21宽0.8厚",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4316,7 +4316,7 @@
           "spec": "M6",
           "quantity_per_unit": 20,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4328,7 +4328,7 @@
           "spec": "M6*18大脚粒",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4340,7 +4340,7 @@
           "spec": "M6*12镀镍",
           "quantity_per_unit": 16,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4352,7 +4352,7 @@
           "spec": "m6*30",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -4362,40 +4362,40 @@
           "product_id": 57,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 282,
           "product_id": 57,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 283,
           "product_id": 57,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 281,
           "product_id": 57,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 285,
           "product_id": 57,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -4415,7 +4415,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 350,
@@ -4485,40 +4485,40 @@
           "product_id": 58,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 287,
           "product_id": 58,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 288,
           "product_id": 58,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 286,
           "product_id": 58,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 290,
           "product_id": 58,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -4538,7 +4538,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 356,
@@ -4611,7 +4611,7 @@
           "spec": "8191-5纸",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4623,7 +4623,7 @@
           "spec": "黑色",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4635,7 +4635,7 @@
           "spec": "8919-5",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4647,7 +4647,7 @@
           "spec": "黑色",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -4657,40 +4657,40 @@
           "product_id": 59,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 292,
           "product_id": 59,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 293,
           "product_id": 59,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 291,
           "product_id": 59,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 295,
           "product_id": 59,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -4710,7 +4710,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 362,
@@ -4783,7 +4783,7 @@
           "spec": "8191-5纸",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4795,7 +4795,7 @@
           "spec": "双面黑麻",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4807,7 +4807,7 @@
           "spec": "21宽8191-5",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4819,7 +4819,7 @@
           "spec": "21黑色",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -4829,40 +4829,40 @@
           "product_id": 60,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 297,
           "product_id": 60,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 298,
           "product_id": 60,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 296,
           "product_id": 60,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 300,
           "product_id": 60,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -4882,7 +4882,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 368,
@@ -4955,7 +4955,7 @@
           "spec": "8202-1纸",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4967,7 +4967,7 @@
           "spec": "8202-1",
           "quantity_per_unit": 3,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4979,7 +4979,7 @@
           "spec": "M6*24沉头黑色",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -4991,7 +4991,7 @@
           "spec": "M6*20倒边黑色",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5003,7 +5003,7 @@
           "spec": "M6*12倒边黑色",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5015,7 +5015,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5027,7 +5027,7 @@
           "spec": "M6*12黑色直径22",
           "quantity_per_unit": 5,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -5037,40 +5037,40 @@
           "product_id": 61,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 302,
           "product_id": 61,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 303,
           "product_id": 61,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 301,
           "product_id": 61,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 305,
           "product_id": 61,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -5090,7 +5090,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 374,
@@ -5163,7 +5163,7 @@
           "spec": "8202-1纸",
           "quantity_per_unit": 0.34,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5175,7 +5175,7 @@
           "spec": "8202-1   28宽1.5厚",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5187,7 +5187,7 @@
           "spec": "M6*24沉头黑色",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5199,7 +5199,7 @@
           "spec": "M6*20倒边黑色",
           "quantity_per_unit": 3,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5211,7 +5211,7 @@
           "spec": "M6*12倒边黑色",
           "quantity_per_unit": 4,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5223,7 +5223,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5235,7 +5235,7 @@
           "spec": "M6*6黑色",
           "quantity_per_unit": 5,
           "group_type": "kit",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -5245,40 +5245,40 @@
           "product_id": 62,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 307,
           "product_id": 62,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 308,
           "product_id": 62,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 306,
           "product_id": 62,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 310,
           "product_id": 62,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -5298,7 +5298,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 380,
@@ -5368,40 +5368,40 @@
           "product_id": 63,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 312,
           "product_id": 63,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 313,
           "product_id": 63,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 311,
           "product_id": 63,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 315,
           "product_id": 63,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -5421,7 +5421,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 386,
@@ -5494,7 +5494,7 @@
           "spec": "1285胡桃色",
           "quantity_per_unit": 0.25,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5506,7 +5506,7 @@
           "spec": "1285胡桃色18厘0.8厚",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5518,7 +5518,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5530,7 +5530,7 @@
           "spec": "M6*10",
           "quantity_per_unit": 15,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5542,7 +5542,7 @@
           "spec": "黑色直径28*18",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5554,7 +5554,7 @@
           "spec": "M6*25白锌",
           "quantity_per_unit": 3,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5566,7 +5566,7 @@
           "spec": "M6*12白锌",
           "quantity_per_unit": 12,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5578,7 +5578,7 @@
           "spec": "白色15*15*4-16",
           "quantity_per_unit": 2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -5588,40 +5588,40 @@
           "product_id": 64,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 317,
           "product_id": 64,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 318,
           "product_id": 64,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 316,
           "product_id": 64,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 320,
           "product_id": 64,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -5641,7 +5641,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 392,
@@ -5714,7 +5714,7 @@
           "spec": "1200mm*2440mm",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5726,7 +5726,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5738,7 +5738,7 @@
           "spec": "",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5750,7 +5750,7 @@
           "spec": "M6*15",
           "quantity_per_unit": 4,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5762,7 +5762,7 @@
           "spec": "4#",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -5774,7 +5774,7 @@
           "spec": "M6*16",
           "quantity_per_unit": 1,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -5784,40 +5784,40 @@
           "product_id": 65,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 322,
           "product_id": 65,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 323,
           "product_id": 65,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 321,
           "product_id": 65,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 325,
           "product_id": 65,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -5837,7 +5837,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 398,
@@ -5907,40 +5907,40 @@
           "product_id": 66,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 327,
           "product_id": 66,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 328,
           "product_id": 66,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 326,
           "product_id": 66,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 330,
           "product_id": 66,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -5960,7 +5960,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 404,
@@ -6033,7 +6033,7 @@
           "spec": "2072-2纸锦荣-珍珠麻面",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -6045,7 +6045,7 @@
           "spec": "18宽0.8厚pc4295",
           "quantity_per_unit": 2.8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -6055,40 +6055,40 @@
           "product_id": 67,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 332,
           "product_id": 67,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 333,
           "product_id": 67,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 331,
           "product_id": 67,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 335,
           "product_id": 67,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -6108,7 +6108,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 410,
@@ -6181,7 +6181,7 @@
           "spec": "2072-2纸锦荣-珍珠麻面",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -6193,7 +6193,7 @@
           "spec": "18宽0.8厚pc4295",
           "quantity_per_unit": 2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -6203,40 +6203,40 @@
           "product_id": 68,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 337,
           "product_id": 68,
           "material_type": "board",
           "status": "purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 02:09:56"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 338,
           "product_id": 68,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 336,
           "product_id": 68,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 340,
           "product_id": 68,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -6256,7 +6256,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 416,
@@ -6329,7 +6329,7 @@
           "spec": "2047-1哑光大理石纹麻面",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -6341,7 +6341,7 @@
           "spec": "PC5116-28宽0.8厚",
           "quantity_per_unit": 2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -6351,40 +6351,40 @@
           "product_id": 69,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 342,
           "product_id": 69,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 343,
           "product_id": 69,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 341,
           "product_id": 69,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 345,
           "product_id": 69,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -6404,7 +6404,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 422,
@@ -6477,7 +6477,7 @@
           "spec": "2047-1大理石纹麻面",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -6489,7 +6489,7 @@
           "spec": "PC-5116-28宽0.8厚",
           "quantity_per_unit": 2.8,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -6499,40 +6499,40 @@
           "product_id": 70,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 347,
           "product_id": 70,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 348,
           "product_id": 70,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 346,
           "product_id": 70,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 350,
           "product_id": 70,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -6552,7 +6552,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 428,
@@ -6625,7 +6625,7 @@
           "spec": "2047-1石纹麻面",
           "quantity_per_unit": 0.334,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -6637,7 +6637,7 @@
           "spec": "PC-5116-28宽0.8厚",
           "quantity_per_unit": 3.2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -6647,40 +6647,40 @@
           "product_id": 71,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 352,
           "product_id": 71,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 353,
           "product_id": 71,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 351,
           "product_id": 71,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 355,
           "product_id": 71,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -6700,7 +6700,7 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-07-30 01:59:59",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [
         {
           "id": 434,
@@ -6773,7 +6773,7 @@
           "spec": "8275-5麻面",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         },
         {
@@ -6785,7 +6785,7 @@
           "spec": "28宽0.8厚pc5124",
           "quantity_per_unit": 2,
           "group_type": "factory",
-          "drawing_url": "",
+          "drawing_url": null,
           "is_accessory_pack": 0
         }
       ],
@@ -6795,40 +6795,40 @@
           "product_id": 72,
           "material_type": "accessory",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 357,
           "product_id": 72,
           "material_type": "board",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 358,
           "product_id": 72,
           "material_type": "edge_band",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 356,
           "product_id": 72,
           "material_type": "hardware",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         },
         {
           "id": 360,
           "product_id": 72,
           "material_type": "packaging",
           "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-07-30 01:59:59"
+          "expected_date": null,
+          "updated_at": "2026-08-01 14:25:09"
         }
       ]
     },
@@ -6838,7 +6838,7 @@
       "name": "测试产品",
       "code": "TEST-001",
       "category": "",
-      "image_url": "",
+      "image_url": null,
       "production_time_per_unit": 0,
       "unit": "件",
       "routing_set": 0,
@@ -6848,12 +6848,12 @@
       "package_length": 0,
       "package_width": 0,
       "package_height": 0,
-      "synced_at": "2026-08-01 14:19:42",
+      "synced_at": "2026-08-01 14:25:09",
       "routing": [],
       "material_items": [],
       "materials": []
     }
   ],
-  "timestamp": "2026-08-01T14:19:47.123Z",
+  "timestamp": "2026-08-01T14:27:24.652Z",
   "version": 1
 }
