@@ -9,18 +9,8 @@
       "is_active": 1,
       "version": 0,
       "sort_order": 0
-    },
-    {
-      "id": 2,
-      "device_code": "DEV-002",
-      "device_type": "press",
-      "device_name": "测试压机",
-      "setup_time": 0,
-      "is_active": 1,
-      "version": 0,
-      "sort_order": 0
     }
   ],
-  "timestamp": "2026-08-01T14:27:24.607Z",
+  "timestamp": "2026-08-01T14:28:49.425Z",
   "version": 1
 }
