@@ -3127,63 +3127,23 @@
       "synced_at": "2026-08-03 02:06:53",
       "routing": [
         {
-          "id": 302,
+          "id": 440,
           "product_id": 50,
           "step_order": 1,
           "step_name": "开料",
           "device_type": "cnc",
-          "std_time_per_unit": 5.4,
-          "setup_time": 0,
+          "std_time_per_unit": 5.5,
+          "setup_time": 10,
           "is_parallel_able": 0
         },
         {
-          "id": 303,
+          "id": 441,
           "product_id": 50,
           "step_order": 2,
           "step_name": "压板",
           "device_type": "press",
-          "std_time_per_unit": 8.6,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 304,
-          "product_id": 50,
-          "step_order": 3,
-          "step_name": "封边",
-          "device_type": "edge_auto",
-          "std_time_per_unit": 6.4,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 305,
-          "product_id": 50,
-          "step_order": 4,
-          "step_name": "六面钻",
-          "device_type": "six_drill",
-          "std_time_per_unit": 4.3,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 306,
-          "product_id": 50,
-          "step_order": 5,
-          "step_name": "清洁",
-          "device_type": "clean",
-          "std_time_per_unit": 2.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 307,
-          "product_id": 50,
-          "step_order": 6,
-          "step_name": "包装",
-          "device_type": "pack",
-          "std_time_per_unit": 3.2,
-          "setup_time": 0,
+          "std_time_per_unit": 8,
+          "setup_time": 5,
           "is_parallel_able": 0
         }
       ],
@@ -6975,27 +6935,6 @@
           "updated_at": "2026-08-03 02:06:53"
         }
       ]
-    },
-    {
-      "id": 74,
-      "remote_id": null,
-      "name": "测试衣柜",
-      "code": "TEST-W-001",
-      "category": "",
-      "image_url": "",
-      "production_time_per_unit": 0,
-      "unit": "套",
-      "routing_set": 0,
-      "product_length": 0,
-      "product_width": 0,
-      "product_height": 0,
-      "package_length": 0,
-      "package_width": 0,
-      "package_height": 0,
-      "synced_at": "2026-08-03 13:38:10",
-      "routing": [],
-      "material_items": [],
-      "materials": []
     }
   ],
   "raw_materials": [
@@ -22320,7 +22259,7 @@
       "updated_at": "2026-08-03 02:06:53"
     }
   ],
-  "timestamp": "2026-08-03T13:38:15.608Z",
+  "timestamp": "2026-08-03T13:38:52.742Z",
   "version": 2,
-  "backup_reason": "添加设备 DEV-CNC-01"
+  "backup_reason": "数据更新"
 }
