@@ -6,10 +6,10 @@
       "phone": "",
       "max_hours_per_day": 480,
       "is_active": 1,
-      "created_at": "2026-08-01 14:27:19",
+      "created_at": "2026-08-03 02:06:53",
       "skills": [
         {
-          "id": 1,
+          "id": 2,
           "worker_id": 1,
           "device_type": "table_saw",
           "skill_level": "secondary"
@@ -19,12 +19,12 @@
   ],
   "worker_skills": [
     {
-      "id": 1,
+      "id": 2,
       "worker_id": 1,
       "device_type": "table_saw",
       "skill_level": "secondary"
     }
   ],
-  "timestamp": "2026-08-03T02:06:37.887Z",
+  "timestamp": "2026-08-03T07:14:53.614Z",
   "version": 1
 }
