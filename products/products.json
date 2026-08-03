@@ -6893,29 +6893,8 @@
           "updated_at": "2026-08-03 13:39:45"
         }
       ]
-    },
-    {
-      "id": 75,
-      "remote_id": null,
-      "name": "完整测试衣柜",
-      "code": "FULLTEST-001",
-      "category": "",
-      "image_url": "",
-      "production_time_per_unit": 0,
-      "unit": "套",
-      "routing_set": 0,
-      "product_length": 0,
-      "product_width": 0,
-      "product_height": 0,
-      "package_length": 0,
-      "package_width": 0,
-      "package_height": 0,
-      "synced_at": "2026-08-03 13:40:23",
-      "routing": [],
-      "material_items": [],
-      "materials": []
     }
   ],
-  "timestamp": "2026-08-03T13:40:28.743Z",
+  "timestamp": "2026-08-03T13:41:03.286Z",
   "version": 1
 }
