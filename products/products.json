@@ -3032,7 +3032,7 @@
       "name": "251103",
       "code": "251103",
       "category": "板式",
-      "image_url": "https://via.placeholder.com/150",
+      "image_url": "https://via.placeholder.com/200",
       "production_time_per_unit": 30,
       "unit": "件",
       "routing_set": 1,
@@ -3045,7 +3045,7 @@
       "synced_at": "2026-08-03 13:39:45",
       "routing": [
         {
-          "id": 440,
+          "id": 442,
           "product_id": 50,
           "step_order": 1,
           "step_name": "开料",
@@ -3055,13 +3055,53 @@
           "is_parallel_able": 0
         },
         {
-          "id": 441,
+          "id": 443,
           "product_id": 50,
           "step_order": 2,
           "step_name": "压板",
           "device_type": "press",
           "std_time_per_unit": 8,
           "setup_time": 5,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 444,
+          "product_id": 50,
+          "step_order": 3,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6,
+          "setup_time": 5,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 445,
+          "product_id": 50,
+          "step_order": 4,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4,
+          "setup_time": 5,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 446,
+          "product_id": 50,
+          "step_order": 5,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 447,
+          "product_id": 50,
+          "step_order": 6,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3,
+          "setup_time": 0,
           "is_parallel_able": 0
         }
       ],
@@ -6853,8 +6893,29 @@
           "updated_at": "2026-08-03 13:39:45"
         }
       ]
+    },
+    {
+      "id": 75,
+      "remote_id": null,
+      "name": "完整测试衣柜",
+      "code": "FULLTEST-001",
+      "category": "",
+      "image_url": "",
+      "production_time_per_unit": 0,
+      "unit": "套",
+      "routing_set": 0,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-08-03 13:40:23",
+      "routing": [],
+      "material_items": [],
+      "materials": []
     }
   ],
-  "timestamp": "2026-08-03T13:39:49.701Z",
+  "timestamp": "2026-08-03T13:40:28.743Z",
   "version": 1
 }
