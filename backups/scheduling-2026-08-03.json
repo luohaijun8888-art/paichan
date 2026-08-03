@@ -6975,27 +6975,6 @@
           "updated_at": "2026-08-03 13:39:45"
         }
       ]
-    },
-    {
-      "id": 75,
-      "remote_id": null,
-      "name": "完整测试衣柜",
-      "code": "FULLTEST-001",
-      "category": "",
-      "image_url": "",
-      "production_time_per_unit": 0,
-      "unit": "套",
-      "routing_set": 0,
-      "product_length": 0,
-      "product_width": 0,
-      "product_height": 0,
-      "package_length": 0,
-      "package_width": 0,
-      "package_height": 0,
-      "synced_at": "2026-08-03 13:40:23",
-      "routing": [],
-      "material_items": [],
-      "materials": []
     }
   ],
   "raw_materials": [
@@ -13678,27 +13657,6 @@
           "order_id": 117,
           "product_id": 42,
           "quantity": 1,
-          "material_ready": 0,
-          "bom_materials": []
-        }
-      ]
-    },
-    {
-      "id": 156,
-      "remote_id": null,
-      "order_number": "FULLTEST-ORDER",
-      "order_date": "",
-      "delivery_date": "2026-09-01",
-      "status": "pending",
-      "priority_score": 90,
-      "remarks": "",
-      "synced_at": "2026-08-03 13:40:23",
-      "items": [
-        {
-          "id": 123,
-          "order_id": 156,
-          "product_id": 50,
-          "quantity": 5,
           "material_ready": 0,
           "bom_materials": []
         }
@@ -22320,7 +22278,7 @@
       "updated_at": "2026-08-03 13:39:45"
     }
   ],
-  "timestamp": "2026-08-03T13:40:28.847Z",
+  "timestamp": "2026-08-03T13:41:03.286Z",
   "version": 2,
-  "backup_reason": "编辑产品 #50"
+  "backup_reason": "删除订单"
 }
