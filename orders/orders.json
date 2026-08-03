@@ -5841,29 +5841,8 @@
           "bom_materials": []
         }
       ]
-    },
-    {
-      "id": 156,
-      "remote_id": null,
-      "order_number": "FULLTEST-ORDER",
-      "order_date": "",
-      "delivery_date": "2026-09-01",
-      "status": "pending",
-      "priority_score": 90,
-      "remarks": "",
-      "synced_at": "2026-08-03 13:40:23",
-      "items": [
-        {
-          "id": 123,
-          "order_id": 156,
-          "product_id": 50,
-          "quantity": 5,
-          "material_ready": 0,
-          "bom_materials": []
-        }
-      ]
     }
   ],
-  "timestamp": "2026-08-03T13:40:28.847Z",
+  "timestamp": "2026-08-03T13:41:03.286Z",
   "version": 1
 }
