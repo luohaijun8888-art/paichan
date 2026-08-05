@@ -6831,70 +6831,8 @@
           "updated_at": "2026-08-03 13:39:45"
         }
       ]
-    },
-    {
-      "id": 73,
-      "remote_id": null,
-      "name": "测试产品",
-      "code": "TEST-001",
-      "category": "",
-      "image_url": null,
-      "production_time_per_unit": 0,
-      "unit": "件",
-      "routing_set": 0,
-      "product_length": 0,
-      "product_width": 0,
-      "product_height": 0,
-      "package_length": 0,
-      "package_width": 0,
-      "package_height": 0,
-      "synced_at": "2026-08-03 13:39:45",
-      "routing": [],
-      "material_items": [],
-      "materials": [
-        {
-          "id": 364,
-          "product_id": 73,
-          "material_type": "accessory",
-          "status": "not_purchased",
-          "expected_date": null,
-          "updated_at": "2026-08-03 13:39:45"
-        },
-        {
-          "id": 362,
-          "product_id": 73,
-          "material_type": "board",
-          "status": "not_purchased",
-          "expected_date": null,
-          "updated_at": "2026-08-03 13:39:45"
-        },
-        {
-          "id": 363,
-          "product_id": 73,
-          "material_type": "edge_band",
-          "status": "not_purchased",
-          "expected_date": null,
-          "updated_at": "2026-08-03 13:39:45"
-        },
-        {
-          "id": 361,
-          "product_id": 73,
-          "material_type": "hardware",
-          "status": "not_purchased",
-          "expected_date": null,
-          "updated_at": "2026-08-03 13:39:45"
-        },
-        {
-          "id": 365,
-          "product_id": 73,
-          "material_type": "packaging",
-          "status": "not_purchased",
-          "expected_date": null,
-          "updated_at": "2026-08-03 13:39:45"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-08-05T09:47:14.640Z",
+  "timestamp": "2026-08-05T09:48:12.591Z",
   "version": 1
 }
