@@ -5950,7 +5950,7 @@
       "name": "SY-260604",
       "code": "SY-260604",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1780732868041_ttr6li60fdr_cbed36e3.jpg?sign=1812268868-97bec06c34-0-6f5ccfd04b9306628f72984085d1e74c2695b3c83b2522c927d71cddc7dbc121",
+      "image_url": "https://luohaijun8888-art.github.io/artisan-gallery/images/products/desk-16-01.jpg",
       "production_time_per_unit": 10,
       "unit": "件",
       "routing_set": 1,
@@ -5963,7 +5963,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 181,
+          "id": 265,
           "product_id": 31,
           "step_order": 1,
           "step_name": "开料",
@@ -5973,7 +5973,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 182,
+          "id": 266,
           "product_id": 31,
           "step_order": 2,
           "step_name": "压板",
@@ -5983,7 +5983,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 183,
+          "id": 267,
           "product_id": 31,
           "step_order": 3,
           "step_name": "封边",
@@ -5993,7 +5993,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 184,
+          "id": 268,
           "product_id": 31,
           "step_order": 4,
           "step_name": "六面钻",
@@ -6003,7 +6003,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 185,
+          "id": 269,
           "product_id": 31,
           "step_order": 5,
           "step_name": "清洁",
@@ -6013,7 +6013,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 186,
+          "id": 270,
           "product_id": 31,
           "step_order": 6,
           "step_name": "包装",
@@ -6833,6 +6833,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-07T02:29:55.079Z",
+  "timestamp": "2026-08-07T02:31:29.728Z",
   "version": 1
 }
