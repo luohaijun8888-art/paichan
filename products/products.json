@@ -6831,29 +6831,8 @@
           "updated_at": "2026-08-03 13:39:45"
         }
       ]
-    },
-    {
-      "id": 76,
-      "remote_id": null,
-      "name": "模拟衣柜",
-      "code": "SIM-W-001",
-      "category": "",
-      "image_url": "",
-      "production_time_per_unit": 0,
-      "unit": "套",
-      "routing_set": 0,
-      "product_length": 0,
-      "product_width": 0,
-      "product_height": 0,
-      "package_length": 0,
-      "package_width": 0,
-      "package_height": 0,
-      "synced_at": "2026-08-07 08:48:03",
-      "routing": [],
-      "material_items": [],
-      "materials": []
     }
   ],
-  "timestamp": "2026-08-07T08:48:08.714Z",
+  "timestamp": "2026-08-07T08:48:53.994Z",
   "version": 1
 }
