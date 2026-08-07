@@ -37,28 +37,6 @@
           "skill_level": "secondary"
         }
       ]
-    },
-    {
-      "id": 3,
-      "name": "李师傅",
-      "phone": "13900139000",
-      "max_hours_per_day": 480,
-      "is_active": 1,
-      "created_at": "2026-08-07 08:48:03",
-      "skills": [
-        {
-          "id": 8,
-          "worker_id": 3,
-          "device_type": "edge_auto",
-          "skill_level": "secondary"
-        },
-        {
-          "id": 9,
-          "worker_id": 3,
-          "device_type": "press",
-          "skill_level": "secondary"
-        }
-      ]
     }
   ],
   "worker_skills": [
@@ -79,20 +57,8 @@
       "worker_id": 2,
       "device_type": "table_saw",
       "skill_level": "secondary"
-    },
-    {
-      "id": 8,
-      "worker_id": 3,
-      "device_type": "edge_auto",
-      "skill_level": "secondary"
-    },
-    {
-      "id": 9,
-      "worker_id": 3,
-      "device_type": "press",
-      "skill_level": "secondary"
     }
   ],
-  "timestamp": "2026-08-07T08:48:08.714Z",
+  "timestamp": "2026-08-07T08:48:53.994Z",
   "version": 1
 }
