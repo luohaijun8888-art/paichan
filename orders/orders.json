@@ -5841,8 +5841,29 @@
           "bom_materials": []
         }
       ]
+    },
+    {
+      "id": 157,
+      "remote_id": null,
+      "order_number": "SIM-ORDER-001",
+      "order_date": "",
+      "delivery_date": "2026-09-15",
+      "status": "pending",
+      "priority_score": 85,
+      "remarks": "",
+      "synced_at": "2026-08-07 08:48:03",
+      "items": [
+        {
+          "id": 124,
+          "order_id": 157,
+          "product_id": 50,
+          "quantity": 20,
+          "material_ready": 0,
+          "bom_materials": []
+        }
+      ]
     }
   ],
-  "timestamp": "2026-08-07T08:44:02.574Z",
+  "timestamp": "2026-08-07T08:48:08.714Z",
   "version": 1
 }
