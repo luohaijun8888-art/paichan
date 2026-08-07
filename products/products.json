@@ -6326,7 +6326,7 @@
           "product_id": 33,
           "material_id": 24,
           "sku_id": null,
-          "spec": "2047-1锦荣",
+          "spec": "2047-1哑光大理石纹麻面",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
           "drawing_url": "",
@@ -6340,6 +6340,18 @@
           "sku_id": null,
           "spec": "PC5116-28宽0.8厚",
           "quantity_per_unit": 2,
+          "group_type": "factory",
+          "drawing_url": "",
+          "is_accessory_pack": 0
+        },
+        {
+          "id": 199,
+          "remote_id": null,
+          "product_id": 33,
+          "material_id": 24,
+          "sku_id": null,
+          "spec": "锦荣2047-1",
+          "quantity_per_unit": 1,
           "group_type": "factory",
           "drawing_url": "",
           "is_accessory_pack": 0
@@ -6833,6 +6845,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-07T02:19:43.885Z",
+  "timestamp": "2026-08-07T02:20:40.220Z",
   "version": 1
 }
