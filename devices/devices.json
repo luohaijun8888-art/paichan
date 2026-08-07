@@ -1,5 +1,16 @@
 {
-  "devices": [],
-  "timestamp": "2026-08-07T07:09:11.188Z",
+  "devices": [
+    {
+      "id": 1,
+      "device_code": "CNC-01",
+      "device_type": "cnc",
+      "device_name": "雕刻机1",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    }
+  ],
+  "timestamp": "2026-08-07T07:11:20.602Z",
   "version": 1
 }
