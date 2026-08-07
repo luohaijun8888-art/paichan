@@ -2767,7 +2767,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 235,
+          "id": 340,
           "product_id": 13,
           "step_order": 1,
           "step_name": "开料",
@@ -2777,19 +2777,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 236,
+          "id": 341,
           "product_id": 13,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 8.6,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 237,
-          "product_id": 13,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 6.4,
@@ -2797,9 +2787,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 238,
+          "id": 342,
           "product_id": 13,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 4.3,
@@ -2807,9 +2797,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 239,
+          "id": 343,
           "product_id": 13,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 2.1,
@@ -2817,9 +2807,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 240,
+          "id": 344,
           "product_id": 13,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 3.2,
@@ -3636,7 +3626,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 103,
+          "id": 335,
           "product_id": 18,
           "step_order": 1,
           "step_name": "开料",
@@ -3646,19 +3636,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 104,
+          "id": 336,
           "product_id": 18,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 17.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 105,
-          "product_id": 18,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 12.9,
@@ -3666,9 +3646,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 106,
+          "id": 337,
           "product_id": 18,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 8.6,
@@ -3676,9 +3656,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 107,
+          "id": 338,
           "product_id": 18,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 4.3,
@@ -3686,9 +3666,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 108,
+          "id": 339,
           "product_id": 18,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 6.4,
@@ -3808,7 +3788,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 109,
+          "id": 325,
           "product_id": 19,
           "step_order": 1,
           "step_name": "开料",
@@ -3818,19 +3798,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 110,
+          "id": 326,
           "product_id": 19,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 5.7,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 111,
-          "product_id": 19,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 4.3,
@@ -3838,9 +3808,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 112,
+          "id": 327,
           "product_id": 19,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 2.9,
@@ -3848,9 +3818,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 113,
+          "id": 328,
           "product_id": 19,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 1.4,
@@ -3858,9 +3828,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 114,
+          "id": 329,
           "product_id": 19,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 2.1,
@@ -4398,7 +4368,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 127,
+          "id": 320,
           "product_id": 22,
           "step_order": 1,
           "step_name": "开料",
@@ -4408,19 +4378,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 128,
+          "id": 321,
           "product_id": 22,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 17.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 129,
-          "product_id": 22,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 12.9,
@@ -4428,9 +4388,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 130,
+          "id": 322,
           "product_id": 22,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 8.6,
@@ -4438,9 +4398,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 131,
+          "id": 323,
           "product_id": 22,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 4.3,
@@ -4448,9 +4408,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 132,
+          "id": 324,
           "product_id": 22,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 6.4,
@@ -4521,7 +4481,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 133,
+          "id": 315,
           "product_id": 23,
           "step_order": 1,
           "step_name": "开料",
@@ -4531,19 +4491,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 134,
+          "id": 316,
           "product_id": 23,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 17.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 135,
-          "product_id": 23,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 12.9,
@@ -4551,9 +4501,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 136,
+          "id": 317,
           "product_id": 23,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 8.6,
@@ -4561,9 +4511,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 137,
+          "id": 318,
           "product_id": 23,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 4.3,
@@ -4571,9 +4521,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 138,
+          "id": 319,
           "product_id": 23,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 6.4,
@@ -4693,7 +4643,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 139,
+          "id": 310,
           "product_id": 24,
           "step_order": 1,
           "step_name": "开料",
@@ -4703,19 +4653,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 140,
+          "id": 311,
           "product_id": 24,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 17.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 141,
-          "product_id": 24,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 12.9,
@@ -4723,9 +4663,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 142,
+          "id": 312,
           "product_id": 24,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 8.6,
@@ -4733,9 +4673,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 143,
+          "id": 313,
           "product_id": 24,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 4.3,
@@ -4743,9 +4683,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 144,
+          "id": 314,
           "product_id": 24,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 6.4,
@@ -5271,7 +5211,7 @@
       "synced_at": "2026-08-07 02:10:41",
       "routing": [
         {
-          "id": 157,
+          "id": 330,
           "product_id": 27,
           "step_order": 1,
           "step_name": "开料",
@@ -5281,19 +5221,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 158,
+          "id": 331,
           "product_id": 27,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 8.6,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 159,
-          "product_id": 27,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 6.4,
@@ -5301,9 +5231,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 160,
+          "id": 332,
           "product_id": 27,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 4.3,
@@ -5311,9 +5241,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 161,
+          "id": 333,
           "product_id": 27,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 2.1,
@@ -5321,9 +5251,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 162,
+          "id": 334,
           "product_id": 27,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 3.2,
@@ -6580,6 +6510,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-07T02:57:27.840Z",
+  "timestamp": "2026-08-07T02:58:27.032Z",
   "version": 1
 }
