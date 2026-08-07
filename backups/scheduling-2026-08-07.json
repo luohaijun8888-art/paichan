@@ -6346,18 +6346,6 @@
           "group_type": "factory",
           "drawing_url": "",
           "is_accessory_pack": 0
-        },
-        {
-          "id": 199,
-          "remote_id": null,
-          "product_id": 33,
-          "material_id": 24,
-          "sku_id": null,
-          "spec": "锦荣2047-1",
-          "quantity_per_unit": 1,
-          "group_type": "factory",
-          "drawing_url": "",
-          "is_accessory_pack": 0
         }
       ],
       "materials": [
@@ -17214,18 +17202,6 @@
       "is_accessory_pack": 0
     },
     {
-      "id": 199,
-      "remote_id": null,
-      "product_id": 33,
-      "material_id": 24,
-      "sku_id": null,
-      "spec": "锦荣2047-1",
-      "quantity_per_unit": 1,
-      "group_type": "factory",
-      "drawing_url": "",
-      "is_accessory_pack": 0
-    },
-    {
       "id": 193,
       "remote_id": 20473,
       "product_id": 34,
@@ -22052,7 +22028,7 @@
       "updated_at": "2026-08-07 02:10:41"
     }
   ],
-  "timestamp": "2026-08-07T02:20:40.220Z",
+  "timestamp": "2026-08-07T02:22:20.003Z",
   "version": 2,
-  "backup_reason": "更新BOM明细"
+  "backup_reason": "删除BOM明细"
 }
