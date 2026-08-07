@@ -6775,6 +6775,119 @@
           "updated_at": "2026-08-07 07:09:28"
         }
       ]
+    },
+    {
+      "id": 38,
+      "remote_id": null,
+      "name": "休闲桌",
+      "code": "SYT-260419",
+      "category": "",
+      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1778318754779_sxq321tgx48_715d7c05.jpg?sign=1809854755-18e0d06fb1-0-51b42e18b53838c3ad3ebc00e6a8ef45bd4c11eb0565c3154f6b5b758614af20",
+      "production_time_per_unit": 0,
+      "unit": "件",
+      "routing_set": 1,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-08-07 07:17:54",
+      "routing": [
+        {
+          "id": 343,
+          "product_id": 38,
+          "step_order": 1,
+          "step_name": "开料",
+          "device_type": "cnc",
+          "std_time_per_unit": 5,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 344,
+          "product_id": 38,
+          "step_order": 2,
+          "step_name": "封边",
+          "device_type": "edge_auto",
+          "std_time_per_unit": 6,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 345,
+          "product_id": 38,
+          "step_order": 3,
+          "step_name": "六面钻",
+          "device_type": "six_drill",
+          "std_time_per_unit": 4,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 346,
+          "product_id": 38,
+          "step_order": 4,
+          "step_name": "清洁",
+          "device_type": "clean",
+          "std_time_per_unit": 2,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        },
+        {
+          "id": 347,
+          "product_id": 38,
+          "step_order": 5,
+          "step_name": "包装",
+          "device_type": "pack",
+          "std_time_per_unit": 3,
+          "setup_time": 0,
+          "is_parallel_able": 0
+        }
+      ],
+      "material_items": [],
+      "materials": [
+        {
+          "id": 189,
+          "product_id": 38,
+          "material_type": "accessory",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-08-07 07:18:20"
+        },
+        {
+          "id": 187,
+          "product_id": 38,
+          "material_type": "board",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-08-07 07:18:20"
+        },
+        {
+          "id": 188,
+          "product_id": 38,
+          "material_type": "edge_band",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-08-07 07:18:20"
+        },
+        {
+          "id": 186,
+          "product_id": 38,
+          "material_type": "hardware",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-08-07 07:18:20"
+        },
+        {
+          "id": 190,
+          "product_id": 38,
+          "material_type": "packaging",
+          "status": "not_purchased",
+          "expected_date": "",
+          "updated_at": "2026-08-07 07:18:20"
+        }
+      ]
     }
   ],
   "raw_materials": [
@@ -14835,6 +14948,46 @@
       "status": "not_purchased",
       "expected_date": "",
       "updated_at": "2026-08-07 07:09:28"
+    },
+    {
+      "id": 189,
+      "product_id": 38,
+      "material_type": "accessory",
+      "status": "not_purchased",
+      "expected_date": "",
+      "updated_at": "2026-08-07 07:18:20"
+    },
+    {
+      "id": 187,
+      "product_id": 38,
+      "material_type": "board",
+      "status": "not_purchased",
+      "expected_date": "",
+      "updated_at": "2026-08-07 07:18:20"
+    },
+    {
+      "id": 188,
+      "product_id": 38,
+      "material_type": "edge_band",
+      "status": "not_purchased",
+      "expected_date": "",
+      "updated_at": "2026-08-07 07:18:20"
+    },
+    {
+      "id": 186,
+      "product_id": 38,
+      "material_type": "hardware",
+      "status": "not_purchased",
+      "expected_date": "",
+      "updated_at": "2026-08-07 07:18:20"
+    },
+    {
+      "id": 190,
+      "product_id": 38,
+      "material_type": "packaging",
+      "status": "not_purchased",
+      "expected_date": "",
+      "updated_at": "2026-08-07 07:18:20"
     }
   ],
   "product_material_items": [
@@ -21969,7 +22122,7 @@
       "updated_at": "2026-08-07 06:50:04"
     }
   ],
-  "timestamp": "2026-08-07T07:16:28.233Z",
+  "timestamp": "2026-08-07T07:18:57.380Z",
   "version": 2,
   "backup_reason": "GitHub数据同步"
 }
