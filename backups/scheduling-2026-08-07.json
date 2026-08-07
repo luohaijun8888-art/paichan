@@ -7694,7 +7694,7 @@
       "category": "板材",
       "spec": "",
       "unit": "件",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -7722,7 +7722,7 @@
       "category": "配件",
       "spec": "",
       "unit": "米",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -7736,7 +7736,7 @@
       "category": "选配",
       "spec": "",
       "unit": "套",
-      "quantity": 1,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -7750,7 +7750,7 @@
       "category": "选配",
       "spec": "",
       "unit": "件",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -22996,7 +22996,7 @@
       "updated_at": "2026-08-03 13:39:45"
     }
   ],
-  "timestamp": "2026-08-07T09:24:08.825Z",
+  "timestamp": "2026-08-07T09:25:06.429Z",
   "version": 2,
-  "backup_reason": "编辑材料 子母螺丝"
+  "backup_reason": "编辑材料 毛毡贴"
 }
