@@ -259,52 +259,52 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 317,
+          "id": 353,
           "product_id": 2,
           "step_order": 1,
           "step_name": "开料",
           "device_type": "cnc",
-          "std_time_per_unit": 5.4,
+          "std_time_per_unit": 5,
           "setup_time": 0,
           "is_parallel_able": 0
         },
         {
-          "id": 318,
+          "id": 354,
           "product_id": 2,
           "step_order": 2,
           "step_name": "封边",
           "device_type": "edge_auto",
-          "std_time_per_unit": 6.4,
+          "std_time_per_unit": 5,
           "setup_time": 0,
           "is_parallel_able": 0
         },
         {
-          "id": 319,
+          "id": 355,
           "product_id": 2,
           "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
-          "std_time_per_unit": 4.3,
+          "std_time_per_unit": 5,
           "setup_time": 0,
           "is_parallel_able": 0
         },
         {
-          "id": 320,
+          "id": 356,
           "product_id": 2,
           "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
-          "std_time_per_unit": 2.1,
+          "std_time_per_unit": 5,
           "setup_time": 0,
           "is_parallel_able": 0
         },
         {
-          "id": 321,
+          "id": 357,
           "product_id": 2,
           "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
-          "std_time_per_unit": 3.2,
+          "std_time_per_unit": 5,
           "setup_time": 0,
           "is_parallel_able": 0
         }
@@ -6654,129 +6654,6 @@
       ]
     },
     {
-      "id": 37,
-      "remote_id": 3956,
-      "name": "曹哥桌子",
-      "code": "曹哥桌子",
-      "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/uploads/1780280877782_ekwqpwi8wl5_78314dfc.jpg?sign=1811816878-6b182869f9-0-282a6e26fb5ae65aa3ba91438777f199f008c49975f3d6f3bc8043e613cc5046",
-      "production_time_per_unit": 60,
-      "unit": "件",
-      "routing_set": 1,
-      "product_length": 0,
-      "product_width": 0,
-      "product_height": 0,
-      "package_length": 0,
-      "package_width": 0,
-      "package_height": 0,
-      "synced_at": "2026-08-07 07:09:28",
-      "routing": [
-        {
-          "id": 337,
-          "product_id": 37,
-          "step_order": 1,
-          "step_name": "开料",
-          "device_type": "cnc",
-          "std_time_per_unit": 10.7,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 338,
-          "product_id": 37,
-          "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 17.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 339,
-          "product_id": 37,
-          "step_order": 3,
-          "step_name": "封边",
-          "device_type": "edge_auto",
-          "std_time_per_unit": 12.9,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 340,
-          "product_id": 37,
-          "step_order": 4,
-          "step_name": "六面钻",
-          "device_type": "six_drill",
-          "std_time_per_unit": 8.6,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 341,
-          "product_id": 37,
-          "step_order": 5,
-          "step_name": "清洁",
-          "device_type": "clean",
-          "std_time_per_unit": 4.3,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 342,
-          "product_id": 37,
-          "step_order": 6,
-          "step_name": "包装",
-          "device_type": "pack",
-          "std_time_per_unit": 6.4,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        }
-      ],
-      "material_items": [],
-      "materials": [
-        {
-          "id": 184,
-          "product_id": 37,
-          "material_type": "accessory",
-          "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-08-07 07:09:28"
-        },
-        {
-          "id": 182,
-          "product_id": 37,
-          "material_type": "board",
-          "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-08-07 07:09:28"
-        },
-        {
-          "id": 183,
-          "product_id": 37,
-          "material_type": "edge_band",
-          "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-08-07 07:09:28"
-        },
-        {
-          "id": 181,
-          "product_id": 37,
-          "material_type": "hardware",
-          "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-08-07 07:09:28"
-        },
-        {
-          "id": 185,
-          "product_id": 37,
-          "material_type": "packaging",
-          "status": "not_purchased",
-          "expected_date": "",
-          "updated_at": "2026-08-07 07:09:28"
-        }
-      ]
-    },
-    {
       "id": 38,
       "remote_id": null,
       "name": "休闲桌",
@@ -6795,7 +6672,7 @@
       "synced_at": "2026-08-07 07:17:54",
       "routing": [
         {
-          "id": 343,
+          "id": 348,
           "product_id": 38,
           "step_order": 1,
           "step_name": "开料",
@@ -6805,7 +6682,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 344,
+          "id": 349,
           "product_id": 38,
           "step_order": 2,
           "step_name": "封边",
@@ -6815,7 +6692,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 345,
+          "id": 350,
           "product_id": 38,
           "step_order": 3,
           "step_name": "六面钻",
@@ -6825,7 +6702,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 346,
+          "id": 351,
           "product_id": 38,
           "step_order": 4,
           "step_name": "清洁",
@@ -6835,7 +6712,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 347,
+          "id": 352,
           "product_id": 38,
           "step_order": 5,
           "step_name": "包装",
@@ -14910,46 +14787,6 @@
       "updated_at": "2026-08-07 06:50:04"
     },
     {
-      "id": 184,
-      "product_id": 37,
-      "material_type": "accessory",
-      "status": "not_purchased",
-      "expected_date": "",
-      "updated_at": "2026-08-07 07:09:28"
-    },
-    {
-      "id": 182,
-      "product_id": 37,
-      "material_type": "board",
-      "status": "not_purchased",
-      "expected_date": "",
-      "updated_at": "2026-08-07 07:09:28"
-    },
-    {
-      "id": 183,
-      "product_id": 37,
-      "material_type": "edge_band",
-      "status": "not_purchased",
-      "expected_date": "",
-      "updated_at": "2026-08-07 07:09:28"
-    },
-    {
-      "id": 181,
-      "product_id": 37,
-      "material_type": "hardware",
-      "status": "not_purchased",
-      "expected_date": "",
-      "updated_at": "2026-08-07 07:09:28"
-    },
-    {
-      "id": 185,
-      "product_id": 37,
-      "material_type": "packaging",
-      "status": "not_purchased",
-      "expected_date": "",
-      "updated_at": "2026-08-07 07:09:28"
-    },
-    {
       "id": 189,
       "product_id": 38,
       "material_type": "accessory",
@@ -22122,7 +21959,7 @@
       "updated_at": "2026-08-07 06:50:04"
     }
   ],
-  "timestamp": "2026-08-07T07:18:57.380Z",
+  "timestamp": "2026-08-07T07:20:25.255Z",
   "version": 2,
-  "backup_reason": "GitHub数据同步"
+  "backup_reason": "编辑产品 #2"
 }
