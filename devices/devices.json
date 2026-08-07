@@ -99,8 +99,18 @@
       "is_active": 1,
       "version": 0,
       "sort_order": 0
+    },
+    {
+      "id": 13,
+      "device_code": "BZLSX",
+      "device_type": "pack",
+      "device_name": "包装流水线",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
     }
   ],
-  "timestamp": "2026-08-07T07:15:09.523Z",
+  "timestamp": "2026-08-07T07:16:28.233Z",
   "version": 1
 }
