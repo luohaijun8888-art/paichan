@@ -39,6 +39,66 @@
       "is_active": 1,
       "version": 0,
       "sort_order": 0
+    },
+    {
+      "id": 6,
+      "device_code": "ZDFB",
+      "device_type": "edge_auto",
+      "device_name": "自动封边机",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 7,
+      "device_code": "SDFB",
+      "device_type": "edge_manual",
+      "device_name": "手动封边",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 9,
+      "device_code": "LMZ-01",
+      "device_type": "six_drill",
+      "device_name": "六面钻01",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 10,
+      "device_code": "LMZ-02",
+      "device_type": "six_drill",
+      "device_name": "六面钻02",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 11,
+      "device_code": "QJT-01",
+      "device_type": "clean",
+      "device_name": "清洁台01",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 12,
+      "device_code": "QJT-02",
+      "device_type": "clean",
+      "device_name": "清洁台02",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
     }
   ],
   "workers": [],
@@ -21899,7 +21959,7 @@
       "updated_at": "2026-08-07 06:50:04"
     }
   ],
-  "timestamp": "2026-08-07T07:12:55.719Z",
+  "timestamp": "2026-08-07T07:15:09.523Z",
   "version": 2,
-  "backup_reason": "添加设备 YBJ-01"
+  "backup_reason": "添加设备 QJT-02"
 }
