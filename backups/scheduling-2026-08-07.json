@@ -59,6 +59,28 @@
           "skill_level": "secondary"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "李师傅",
+      "phone": "13900139000",
+      "max_hours_per_day": 480,
+      "is_active": 1,
+      "created_at": "2026-08-07 08:48:03",
+      "skills": [
+        {
+          "id": 8,
+          "worker_id": 3,
+          "device_type": "edge_auto",
+          "skill_level": "secondary"
+        },
+        {
+          "id": 9,
+          "worker_id": 3,
+          "device_type": "press",
+          "skill_level": "secondary"
+        }
+      ]
     }
   ],
   "worker_skills": [
@@ -78,6 +100,18 @@
       "id": 7,
       "worker_id": 2,
       "device_type": "table_saw",
+      "skill_level": "secondary"
+    },
+    {
+      "id": 8,
+      "worker_id": 3,
+      "device_type": "edge_auto",
+      "skill_level": "secondary"
+    },
+    {
+      "id": 9,
+      "worker_id": 3,
+      "device_type": "press",
       "skill_level": "secondary"
     }
   ],
@@ -3115,7 +3149,7 @@
       "code": "251103",
       "category": "板式",
       "image_url": "https://via.placeholder.com/200",
-      "production_time_per_unit": 30,
+      "production_time_per_unit": 29.5,
       "unit": "件",
       "routing_set": 1,
       "product_length": 0,
@@ -3127,7 +3161,7 @@
       "synced_at": "2026-08-03 13:39:45",
       "routing": [
         {
-          "id": 442,
+          "id": 448,
           "product_id": 50,
           "step_order": 1,
           "step_name": "开料",
@@ -3137,27 +3171,27 @@
           "is_parallel_able": 0
         },
         {
-          "id": 443,
+          "id": 449,
           "product_id": 50,
           "step_order": 2,
           "step_name": "压板",
           "device_type": "press",
-          "std_time_per_unit": 8,
+          "std_time_per_unit": 8.3,
           "setup_time": 5,
           "is_parallel_able": 0
         },
         {
-          "id": 444,
+          "id": 450,
           "product_id": 50,
           "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
-          "std_time_per_unit": 6,
+          "std_time_per_unit": 6.2,
           "setup_time": 5,
           "is_parallel_able": 0
         },
         {
-          "id": 445,
+          "id": 451,
           "product_id": 50,
           "step_order": 4,
           "step_name": "六面钻",
@@ -3167,17 +3201,17 @@
           "is_parallel_able": 0
         },
         {
-          "id": 446,
+          "id": 452,
           "product_id": 50,
           "step_order": 5,
           "step_name": "清洁",
           "device_type": "clean",
-          "std_time_per_unit": 2,
+          "std_time_per_unit": 2.5,
           "setup_time": 0,
           "is_parallel_able": 0
         },
         {
-          "id": 447,
+          "id": 453,
           "product_id": 50,
           "step_order": 6,
           "step_name": "包装",
@@ -6913,6 +6947,27 @@
           "updated_at": "2026-08-03 13:39:45"
         }
       ]
+    },
+    {
+      "id": 76,
+      "remote_id": null,
+      "name": "模拟衣柜",
+      "code": "SIM-W-001",
+      "category": "",
+      "image_url": "",
+      "production_time_per_unit": 0,
+      "unit": "套",
+      "routing_set": 0,
+      "product_length": 0,
+      "product_width": 0,
+      "product_height": 0,
+      "package_length": 0,
+      "package_width": 0,
+      "package_height": 0,
+      "synced_at": "2026-08-07 08:48:03",
+      "routing": [],
+      "material_items": [],
+      "materials": []
     }
   ],
   "raw_materials": [
@@ -13595,6 +13650,27 @@
           "order_id": 117,
           "product_id": 42,
           "quantity": 1,
+          "material_ready": 0,
+          "bom_materials": []
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "remote_id": null,
+      "order_number": "SIM-ORDER-001",
+      "order_date": "",
+      "delivery_date": "2026-09-15",
+      "status": "pending",
+      "priority_score": 85,
+      "remarks": "",
+      "synced_at": "2026-08-07 08:48:03",
+      "items": [
+        {
+          "id": 124,
+          "order_id": 157,
+          "product_id": 50,
+          "quantity": 20,
           "material_ready": 0,
           "bom_materials": []
         }
@@ -22176,7 +22252,7 @@
       "updated_at": "2026-08-03 13:39:45"
     }
   ],
-  "timestamp": "2026-08-07T08:44:02.574Z",
+  "timestamp": "2026-08-07T08:48:08.714Z",
   "version": 2,
-  "backup_reason": "GitHub数据同步"
+  "backup_reason": "新增订单"
 }
