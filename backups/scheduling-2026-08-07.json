@@ -9,6 +9,36 @@
       "is_active": 1,
       "version": 0,
       "sort_order": 0
+    },
+    {
+      "id": 3,
+      "device_code": "TJ-01",
+      "device_type": "table_saw",
+      "device_name": "台锯",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 4,
+      "device_code": "TTJ",
+      "device_type": "push_saw",
+      "device_name": "推台锯01",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
+    },
+    {
+      "id": 5,
+      "device_code": "YBJ-01",
+      "device_type": "press",
+      "device_name": "冷压机01",
+      "setup_time": 0,
+      "is_active": 1,
+      "version": 0,
+      "sort_order": 0
     }
   ],
   "workers": [],
@@ -21869,7 +21899,7 @@
       "updated_at": "2026-08-07 06:50:04"
     }
   ],
-  "timestamp": "2026-08-07T07:11:20.602Z",
+  "timestamp": "2026-08-07T07:12:55.719Z",
   "version": 2,
-  "backup_reason": "添加设备 CNC-01"
+  "backup_reason": "添加设备 YBJ-01"
 }
