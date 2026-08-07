@@ -6,7 +6,7 @@
       "name": "SF-9801",
       "code": "SF-9801",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777883343318_img_1777883341675_84363b00.jpg?sign=1780475343-243c5b92ab-0-20bc31baf89b1755c2c4ee25f650215c76a52269a88e2e584f4b97eed8b40383",
+      "image_url": "https://cdn.jsdelivr.net/gh/luohaijun8888-art/artisan-gallery@main/images/products/thumb-05.jpg",
       "production_time_per_unit": 20,
       "unit": "件",
       "routing_set": 1,
@@ -19,7 +19,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 1,
+          "id": 254,
           "product_id": 1,
           "step_order": 1,
           "step_name": "开料",
@@ -29,19 +29,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 2,
+          "id": 255,
           "product_id": 1,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 5.7,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 3,
-          "product_id": 1,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 4.3,
@@ -49,9 +39,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 4,
+          "id": 256,
           "product_id": 1,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 2.9,
@@ -59,9 +49,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 5,
+          "id": 257,
           "product_id": 1,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 1.4,
@@ -69,9 +59,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 6,
+          "id": 258,
           "product_id": 1,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 2.1,
@@ -374,7 +364,7 @@
       "name": "SF-9670",
       "code": "SF-9670",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865210525_img_1777865208759_123aa10c.jpg?sign=1780457210-84972efa17-0-fade302f9fe49d80e03ae4628713d595be4551fda314da783c4369822da7f63d",
+      "image_url": "https://cdn.jsdelivr.net/gh/luohaijun8888-art/artisan-gallery@main/images/products/thumb-04.png",
       "production_time_per_unit": 60,
       "unit": "件",
       "routing_set": 1,
@@ -387,7 +377,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 13,
+          "id": 249,
           "product_id": 3,
           "step_order": 1,
           "step_name": "开料",
@@ -397,19 +387,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 14,
+          "id": 250,
           "product_id": 3,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 17.1,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 15,
-          "product_id": 3,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 12.9,
@@ -417,9 +397,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 16,
+          "id": 251,
           "product_id": 3,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 8.6,
@@ -427,9 +407,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 17,
+          "id": 252,
           "product_id": 3,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 4.3,
@@ -437,9 +417,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 18,
+          "id": 253,
           "product_id": 3,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 6.4,
@@ -1573,7 +1553,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 233,
+          "id": 244,
           "product_id": 7,
           "step_order": 1,
           "step_name": "开料",
@@ -1583,19 +1563,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 234,
+          "id": 245,
           "product_id": 7,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 5.7,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 235,
-          "product_id": 7,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 4.3,
@@ -1603,9 +1573,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 236,
+          "id": 246,
           "product_id": 7,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 2.9,
@@ -1613,9 +1583,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 237,
+          "id": 247,
           "product_id": 7,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 1.4,
@@ -1623,9 +1593,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 238,
+          "id": 248,
           "product_id": 7,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 2.1,
@@ -2171,7 +2141,7 @@
       "name": "INF1012",
       "code": "INF1012",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865612546_img_1777865611016_933c090e.jpg?sign=1780457612-5017232d53-0-9ede5c983fe704f96e1e105bfc55f242b63a86d27ee0ce227fbdcd93f092b59b",
+      "image_url": "https://cdn.jsdelivr.net/gh/luohaijun8888-art/artisan-gallery@main/images/products/thumb-08.jpg",
       "production_time_per_unit": 20,
       "unit": "件",
       "routing_set": 1,
@@ -2184,7 +2154,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 55,
+          "id": 265,
           "product_id": 10,
           "step_order": 1,
           "step_name": "开料",
@@ -2194,7 +2164,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 56,
+          "id": 266,
           "product_id": 10,
           "step_order": 2,
           "step_name": "压板",
@@ -2204,7 +2174,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 57,
+          "id": 267,
           "product_id": 10,
           "step_order": 3,
           "step_name": "封边",
@@ -2214,7 +2184,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 58,
+          "id": 268,
           "product_id": 10,
           "step_order": 4,
           "step_name": "六面钻",
@@ -2224,7 +2194,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 59,
+          "id": 269,
           "product_id": 10,
           "step_order": 5,
           "step_name": "清洁",
@@ -2234,7 +2204,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 60,
+          "id": 270,
           "product_id": 10,
           "step_order": 6,
           "step_name": "包装",
@@ -3371,7 +3341,7 @@
       "name": "INF1212",
       "code": "INF1212",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777866407040_img_1777866405430_b30638c8.jpg?sign=1780458407-5edd0efeae-0-db5289304d5cad4fb3e02a69f8252369b67cd695a208ee6ca0c744b4ab2bf93b",
+      "image_url": "https://cdn.jsdelivr.net/gh/luohaijun8888-art/artisan-gallery@main/images/products/thumb-08.jpg",
       "production_time_per_unit": 20,
       "unit": "件",
       "routing_set": 1,
@@ -3384,7 +3354,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 97,
+          "id": 259,
           "product_id": 17,
           "step_order": 1,
           "step_name": "开料",
@@ -3394,7 +3364,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 98,
+          "id": 260,
           "product_id": 17,
           "step_order": 2,
           "step_name": "压板",
@@ -3404,7 +3374,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 99,
+          "id": 261,
           "product_id": 17,
           "step_order": 3,
           "step_name": "封边",
@@ -3414,7 +3384,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 100,
+          "id": 262,
           "product_id": 17,
           "step_order": 4,
           "step_name": "六面钻",
@@ -3424,7 +3394,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 101,
+          "id": 263,
           "product_id": 17,
           "step_order": 5,
           "step_name": "清洁",
@@ -3434,7 +3404,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 102,
+          "id": 264,
           "product_id": 17,
           "step_order": 6,
           "step_name": "包装",
@@ -6803,6 +6773,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-07T06:55:21.158Z",
+  "timestamp": "2026-08-07T06:56:40.941Z",
   "version": 1
 }
