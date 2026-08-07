@@ -6329,7 +6329,7 @@
           "product_id": 33,
           "material_id": 24,
           "sku_id": null,
-          "spec": "2047-1哑光大理石纹麻面",
+          "spec": "2047-1锦荣",
           "quantity_per_unit": 0.125,
           "group_type": "factory",
           "drawing_url": "",
@@ -17183,7 +17183,7 @@
       "product_id": 33,
       "material_id": 24,
       "sku_id": null,
-      "spec": "2047-1哑光大理石纹麻面",
+      "spec": "2047-1锦荣",
       "quantity_per_unit": 0.125,
       "group_type": "factory",
       "drawing_url": "",
@@ -22028,7 +22028,7 @@
       "updated_at": "2026-08-07 02:10:41"
     }
   ],
-  "timestamp": "2026-08-07T02:18:41.846Z",
+  "timestamp": "2026-08-07T02:19:43.885Z",
   "version": 2,
-  "backup_reason": "更新产品尺寸"
+  "backup_reason": "更新BOM明细"
 }
