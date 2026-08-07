@@ -7652,7 +7652,7 @@
       "category": "配件",
       "spec": "",
       "unit": "件",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -7666,7 +7666,7 @@
       "category": "配件",
       "spec": "",
       "unit": "件",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -7680,7 +7680,7 @@
       "category": "配件",
       "spec": "",
       "unit": "套",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -7708,7 +7708,7 @@
       "category": "配件",
       "spec": "M6*11深",
       "unit": "个",
-      "quantity": 0,
+      "quantity": 1000,
       "supplier": "",
       "price": 0,
       "image_url": null,
@@ -22996,7 +22996,7 @@
       "updated_at": "2026-08-03 13:39:45"
     }
   ],
-  "timestamp": "2026-08-07T09:20:41.124Z",
+  "timestamp": "2026-08-07T09:24:08.825Z",
   "version": 2,
-  "backup_reason": "编辑材料 30厘680"
+  "backup_reason": "编辑材料 子母螺丝"
 }
