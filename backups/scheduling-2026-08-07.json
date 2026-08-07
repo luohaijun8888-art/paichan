@@ -4084,7 +4084,7 @@
           "product_id": 20,
           "material_id": 24,
           "sku_id": null,
-          "spec": "8191-5纸",
+          "spec": "8191-5纸晨峰",
           "quantity_per_unit": 1.95,
           "group_type": "factory",
           "drawing_url": "",
@@ -16547,7 +16547,7 @@
       "product_id": 20,
       "material_id": 24,
       "sku_id": null,
-      "spec": "8191-5纸",
+      "spec": "8191-5纸晨峰",
       "quantity_per_unit": 1.95,
       "group_type": "factory",
       "drawing_url": "",
@@ -22028,7 +22028,7 @@
       "updated_at": "2026-08-07 02:10:41"
     }
   ],
-  "timestamp": "2026-08-07T02:51:03.556Z",
+  "timestamp": "2026-08-07T02:55:12.691Z",
   "version": 2,
-  "backup_reason": "编辑材料 25厘680"
+  "backup_reason": "更新BOM明细"
 }
