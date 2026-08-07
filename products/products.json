@@ -1774,7 +1774,7 @@
       "name": "SY-250528",
       "code": "SY-250528",
       "category": "板式",
-      "image_url": "https://coze-coding-project.tos.coze.site/coze_storage_7629616154801143808/materials/1777865473518_img_1777865471998_4fd48118.jpg?sign=1780457473-9d7b747c95-0-622da850905d8f0cf636f2ee8d9d6910848e9a5ae8ec0d7d081d322612001420",
+      "image_url": "https://cdn.jsdelivr.net/gh/luohaijun8888-art/artisan-gallery@main/images/products/thumb-07.jpg",
       "production_time_per_unit": 80,
       "unit": "件",
       "routing_set": 1,
@@ -1787,7 +1787,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 43,
+          "id": 291,
           "product_id": 8,
           "step_order": 1,
           "step_name": "开料",
@@ -1797,19 +1797,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 44,
+          "id": 292,
           "product_id": 8,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 22.9,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 45,
-          "product_id": 8,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 17.1,
@@ -1817,9 +1807,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 46,
+          "id": 293,
           "product_id": 8,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 11.4,
@@ -1827,9 +1817,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 47,
+          "id": 294,
           "product_id": 8,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 5.7,
@@ -1837,9 +1827,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 48,
+          "id": 295,
           "product_id": 8,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 8.6,
@@ -5344,7 +5334,7 @@
       "synced_at": "2026-08-07 06:50:04",
       "routing": [
         {
-          "id": 163,
+          "id": 286,
           "product_id": 28,
           "step_order": 1,
           "step_name": "开料",
@@ -5354,19 +5344,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 164,
+          "id": 287,
           "product_id": 28,
           "step_order": 2,
-          "step_name": "压板",
-          "device_type": "press",
-          "std_time_per_unit": 5.7,
-          "setup_time": 0,
-          "is_parallel_able": 0
-        },
-        {
-          "id": 165,
-          "product_id": 28,
-          "step_order": 3,
           "step_name": "封边",
           "device_type": "edge_auto",
           "std_time_per_unit": 4.3,
@@ -5374,9 +5354,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 166,
+          "id": 288,
           "product_id": 28,
-          "step_order": 4,
+          "step_order": 3,
           "step_name": "六面钻",
           "device_type": "six_drill",
           "std_time_per_unit": 2.9,
@@ -5384,9 +5364,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 167,
+          "id": 289,
           "product_id": 28,
-          "step_order": 5,
+          "step_order": 4,
           "step_name": "清洁",
           "device_type": "clean",
           "std_time_per_unit": 1.4,
@@ -5394,9 +5374,9 @@
           "is_parallel_able": 0
         },
         {
-          "id": 168,
+          "id": 290,
           "product_id": 28,
-          "step_order": 6,
+          "step_order": 5,
           "step_name": "包装",
           "device_type": "pack",
           "std_time_per_unit": 2.1,
@@ -6753,6 +6733,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-07T06:59:59.325Z",
+  "timestamp": "2026-08-07T07:01:37.753Z",
   "version": 1
 }
