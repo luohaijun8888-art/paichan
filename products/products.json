@@ -3045,7 +3045,7 @@
       "synced_at": "2026-08-03 13:39:45",
       "routing": [
         {
-          "id": 460,
+          "id": 466,
           "product_id": 50,
           "step_order": 1,
           "step_name": "开料",
@@ -3055,7 +3055,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 461,
+          "id": 467,
           "product_id": 50,
           "step_order": 2,
           "step_name": "压板",
@@ -3065,7 +3065,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 462,
+          "id": 468,
           "product_id": 50,
           "step_order": 3,
           "step_name": "封边",
@@ -3075,7 +3075,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 463,
+          "id": 469,
           "product_id": 50,
           "step_order": 4,
           "step_name": "六面钻",
@@ -3085,7 +3085,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 464,
+          "id": 470,
           "product_id": 50,
           "step_order": 5,
           "step_name": "清洁",
@@ -3095,7 +3095,7 @@
           "is_parallel_able": 0
         },
         {
-          "id": 465,
+          "id": 471,
           "product_id": 50,
           "step_order": 6,
           "step_name": "包装",
@@ -6833,6 +6833,6 @@
       ]
     }
   ],
-  "timestamp": "2026-08-07T08:53:11.311Z",
+  "timestamp": "2026-08-07T08:54:17.522Z",
   "version": 1
 }
