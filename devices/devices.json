@@ -1,26 +1,5 @@
 {
-  "devices": [
-    {
-      "id": 1,
-      "device_code": "DEV-001",
-      "device_type": "table_saw",
-      "device_name": "测试台锯",
-      "setup_time": 0,
-      "is_active": 1,
-      "version": 0,
-      "sort_order": 0
-    },
-    {
-      "id": 3,
-      "device_code": "DEV-CNC-01",
-      "device_type": "cnc",
-      "device_name": "CNC加工中心",
-      "setup_time": 0,
-      "is_active": 1,
-      "version": 0,
-      "sort_order": 0
-    }
-  ],
-  "timestamp": "2026-08-07T06:51:28.171Z",
+  "devices": [],
+  "timestamp": "2026-08-07T06:51:36.548Z",
   "version": 1
 }
