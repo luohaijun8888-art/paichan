@@ -13578,27 +13578,6 @@
       "remarks": "",
       "synced_at": "2026-08-03 13:39:45",
       "items": []
-    },
-    {
-      "id": 117,
-      "remote_id": null,
-      "order_number": "55",
-      "order_date": "",
-      "delivery_date": null,
-      "status": "scheduling",
-      "priority_score": 50,
-      "remarks": "",
-      "synced_at": "2026-08-03 13:39:45",
-      "items": [
-        {
-          "id": 121,
-          "order_id": 117,
-          "product_id": 42,
-          "quantity": 1,
-          "material_ready": 0,
-          "bom_materials": []
-        }
-      ]
     }
   ],
   "schedule_tasks": [
@@ -14440,20 +14419,6 @@
       "actual_start": null,
       "actual_end": null,
       "queue_index": 59,
-      "status": "blocked"
-    },
-    {
-      "id": 61,
-      "order_item_id": 121,
-      "product_routing_id": 254,
-      "device_id": 3,
-      "worker_id": 2,
-      "assigned_worker_count": 1,
-      "plan_start": "2027-04-29T01:28:36.000Z",
-      "plan_end": "2027-04-29T01:39:18.000Z",
-      "actual_start": null,
-      "actual_end": null,
-      "queue_index": 60,
       "status": "blocked"
     }
   ],
@@ -23031,7 +22996,7 @@
       "updated_at": "2026-08-03 13:39:45"
     }
   ],
-  "timestamp": "2026-08-07T08:54:17.522Z",
+  "timestamp": "2026-08-07T09:00:13.281Z",
   "version": 2,
-  "backup_reason": "编辑产品 #50"
+  "backup_reason": "删除订单"
 }
